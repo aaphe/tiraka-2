@@ -1,0 +1,5 @@
+A maximum bipartite matching with 4 pairs:
+1 6
+2 7
+3 8
+4 10

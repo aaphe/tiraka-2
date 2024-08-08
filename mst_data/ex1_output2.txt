@@ -1,0 +1,60 @@
+** Iteration 1 **
+Adding the edge (13, 15, 10) with the new node 15
+** Iteration 2 **
+Adding the edge (3, 15, 11) with the new node 3
+** Iteration 3 **
+Adding the edge (10, 15, 11) with the new node 10
+** Iteration 4 **
+Adding the edge (11, 15, 12) with the new node 11
+** Iteration 5 **
+Adding the edge (5, 11, 11) with the new node 5
+** Iteration 6 **
+Adding the edge (8, 11, 11) with the new node 8
+** Iteration 7 **
+Adding the edge (15, 16, 13) with the new node 16
+** Iteration 8 **
+Adding the edge (16, 18, 11) with the new node 18
+** Iteration 9 **
+Adding the edge (16, 19, 11) with the new node 19
+** Iteration 10 **
+Adding the edge (1, 19, 10) with the new node 1
+** Iteration 11 **
+Adding the edge (1, 9, 11) with the new node 9
+** Iteration 12 **
+Adding the edge (0, 19, 13) with the new node 0
+** Iteration 13 **
+Adding the edge (1, 17, 13) with the new node 17
+** Iteration 14 **
+Adding the edge (14, 17, 10) with the new node 14
+** Iteration 15 **
+** Iteration 16 **
+Adding the edge (2, 11, 14) with the new node 2
+** Iteration 17 **
+Adding the edge (4, 17, 14) with the new node 4
+** Iteration 18 **
+Adding the edge (12, 13, 14) with the new node 12
+** Iteration 19 **
+Adding the edge (7, 12, 13) with the new node 7
+** Iteration 20 **
+** Iteration 21 **
+** Iteration 22 **
+** Iteration 23 **
+Adding the edge (1, 6, 16) with the new node 6
+** Iteration 24 **
+** Iteration 25 **
+** Iteration 26 **
+** Iteration 27 **
+** Iteration 28 **
+** Iteration 29 **
+** Iteration 30 **
+** Iteration 31 **
+** Iteration 32 **
+** Iteration 33 **
+** Iteration 34 **
+** Iteration 35 **
+** Iteration 36 **
+** Iteration 37 **
+** Iteration 38 **
+** Iteration 39 **
+** Iteration 40 **
+MST(229): 0-19 1-6 1-9 1-17 1-19 2-11 3-15 4-17 5-11 7-12 8-11 10-15 11-15 12-13 13-15 14-17 15-16 16-18 16-19

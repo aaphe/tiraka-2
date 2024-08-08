@@ -1,0 +1,10 @@
+A maximum bipartite matching with 9 pairs:
+0 8
+19 16
+1 14
+4 15
+9 11
+2 10
+6 18
+13 7
+17 5

@@ -1,0 +1,49 @@
+Segment tree levels:
+ 200
+ 144 56
+ 85 59 56 0
+ 43 42 47 12 56 0 0 0
+ 27 16 13 29 16 31 5 7 35 21 0 0 0 0 0 0
+ 14 13 16 0 5 8 16 13 13 3 14 17 0 5 0 7 19 16 2 19 0 0 0 0 0 0 0 0 0 0 0 0
+
+
+Querying interval 14...19
+  left and right positions: 46 51
+  left and right positions: 23 25
+    updated result from 0 to 7 using S[23]=7
+  left and right positions: 12 12
+    updated result from 7 to 63 using S[12]=56
+
+Sum(14...19) = 63
+
+Querying interval 9...11
+  left and right positions: 41 43
+    updated result from 0 to 3 using S[41]=3
+  left and right positions: 21 21
+    updated result from 3 to 34 using S[21]=31
+
+Sum(9...11) = 34
+
+Updating V[15] = 16
+
+Querying interval 4...16
+  left and right positions: 36 48
+    updated result from 0 to 19 using S[48]=19
+  left and right positions: 18 23
+  left and right positions: 9 11
+    updated result from 19 to 61 using S[9]=42
+  left and right positions: 5 5
+    updated result from 61 to 129 using S[5]=68
+
+Sum(4...16) = 129
+
+Updating V[19] = 6
+
+Querying interval 12...19
+  left and right positions: 44 51
+  left and right positions: 22 25
+  left and right positions: 11 12
+    updated result from 0 to 21 using S[11]=21
+    updated result from 21 to 64 using S[12]=43
+
+Sum(12...19) = 64

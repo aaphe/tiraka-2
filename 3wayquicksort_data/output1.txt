@@ -1,0 +1,129 @@
+Original: space shock son sand swim star start surprise news slope start son smoke noise surprise snow news scale noise sand suggestion surprise surprise noise star shock noise surprise soap smoke
+Sorting subarray 0...29 with depth 0 and pivot surprise
+Sorting subarray 0...5 with depth 0 and pivot news
+Immediate return from subarray 0...-1 with depth 0
+Sorting subarray 0...5 with depth 1 and pivot news
+Immediate return from subarray 0...-1 with depth 1
+Sorting subarray 0...1 with depth 2 and pivot news
+Immediate return from subarray 0...-1 with depth 2
+Sorting subarray 0...1 with depth 3 and pivot news
+Immediate return from subarray 0...-1 with depth 3
+Sorting subarray 0...1 with depth 4 and pivot news
+Immediate return from subarray 0...-1 with depth 4
+Immediate return from subarray 2...1 with depth 4
+Immediate return from subarray 2...1 with depth 3
+Immediate return from subarray 2...1 with depth 2
+Sorting subarray 2...5 with depth 1 and pivot noise
+Immediate return from subarray 2...1 with depth 1
+Sorting subarray 2...5 with depth 2 and pivot noise
+Immediate return from subarray 2...1 with depth 2
+Sorting subarray 2...5 with depth 3 and pivot noise
+Immediate return from subarray 2...1 with depth 3
+Sorting subarray 2...5 with depth 4 and pivot noise
+Immediate return from subarray 2...1 with depth 4
+Sorting subarray 2...5 with depth 5 and pivot noise
+Immediate return from subarray 2...1 with depth 5
+Immediate return from subarray 6...5 with depth 5
+Immediate return from subarray 6...5 with depth 4
+Immediate return from subarray 6...5 with depth 3
+Immediate return from subarray 6...5 with depth 2
+Immediate return from subarray 6...5 with depth 1
+Immediate return from subarray 6...5 with depth 0
+Sorting subarray 6...29 with depth 1 and pivot scale
+Sorting subarray 6...7 with depth 1 and pivot sand
+Immediate return from subarray 6...5 with depth 1
+Sorting subarray 6...7 with depth 2 and pivot sand
+Immediate return from subarray 6...5 with depth 2
+Sorting subarray 6...7 with depth 3 and pivot sand
+Immediate return from subarray 6...5 with depth 3
+Sorting subarray 6...7 with depth 4 and pivot sand
+Immediate return from subarray 6...5 with depth 4
+Immediate return from subarray 8...7 with depth 4
+Immediate return from subarray 8...7 with depth 3
+Immediate return from subarray 8...7 with depth 2
+Immediate return from subarray 8...7 with depth 1
+Immediate return from subarray 8...8 with depth 2
+Sorting subarray 9...29 with depth 1 and pivot suggestion
+Sorting subarray 9...22 with depth 1 and pivot start
+Sorting subarray 9...18 with depth 1 and pivot son
+Sorting subarray 9...14 with depth 1 and pivot snow
+Sorting subarray 9...13 with depth 1 and pivot smoke
+Sorting subarray 9...11 with depth 1 and pivot slope
+Sorting subarray 9...10 with depth 1 and pivot shock
+Immediate return from subarray 9...8 with depth 1
+Sorting subarray 9...10 with depth 2 and pivot shock
+Immediate return from subarray 9...8 with depth 2
+Sorting subarray 9...10 with depth 3 and pivot shock
+Immediate return from subarray 9...8 with depth 3
+Sorting subarray 9...10 with depth 4 and pivot shock
+Immediate return from subarray 9...8 with depth 4
+Sorting subarray 9...10 with depth 5 and pivot shock
+Immediate return from subarray 9...8 with depth 5
+Immediate return from subarray 11...10 with depth 5
+Immediate return from subarray 11...10 with depth 4
+Immediate return from subarray 11...10 with depth 3
+Immediate return from subarray 11...10 with depth 2
+Immediate return from subarray 11...10 with depth 1
+Immediate return from subarray 11...11 with depth 2
+Immediate return from subarray 12...11 with depth 1
+Sorting subarray 12...13 with depth 2 and pivot smoke
+Immediate return from subarray 12...11 with depth 2
+Sorting subarray 12...13 with depth 3 and pivot smoke
+Immediate return from subarray 12...11 with depth 3
+Sorting subarray 12...13 with depth 4 and pivot smoke
+Immediate return from subarray 12...11 with depth 4
+Sorting subarray 12...13 with depth 5 and pivot smoke
+Immediate return from subarray 12...11 with depth 5
+Immediate return from subarray 14...13 with depth 5
+Immediate return from subarray 14...13 with depth 4
+Immediate return from subarray 14...13 with depth 3
+Immediate return from subarray 14...13 with depth 2
+Immediate return from subarray 14...13 with depth 1
+Immediate return from subarray 14...14 with depth 2
+Immediate return from subarray 15...14 with depth 1
+Sorting subarray 15...17 with depth 2 and pivot son
+Immediate return from subarray 15...15 with depth 2
+Sorting subarray 16...17 with depth 3 and pivot son
+Immediate return from subarray 16...15 with depth 3
+Immediate return from subarray 18...17 with depth 3
+Immediate return from subarray 18...17 with depth 2
+Immediate return from subarray 18...18 with depth 1
+Sorting subarray 19...22 with depth 2 and pivot star
+Immediate return from subarray 19...18 with depth 2
+Sorting subarray 19...22 with depth 3 and pivot start
+Immediate return from subarray 19...18 with depth 3
+Sorting subarray 19...22 with depth 4 and pivot star
+Immediate return from subarray 19...18 with depth 4
+Sorting subarray 21...22 with depth 4 and pivot start
+Immediate return from subarray 21...20 with depth 4
+Sorting subarray 21...22 with depth 5 and pivot start
+Immediate return from subarray 21...20 with depth 5
+Immediate return from subarray 23...22 with depth 5
+Immediate return from subarray 23...22 with depth 4
+Immediate return from subarray 23...22 with depth 3
+Immediate return from subarray 23...22 with depth 2
+Immediate return from subarray 23...22 with depth 1
+Sorting subarray 23...28 with depth 2 and pivot surprise
+Immediate return from subarray 23...23 with depth 2
+Sorting subarray 24...28 with depth 3 and pivot surprise
+Immediate return from subarray 24...23 with depth 3
+Sorting subarray 24...28 with depth 4 and pivot surprise
+Immediate return from subarray 24...23 with depth 4
+Sorting subarray 24...28 with depth 5 and pivot surprise
+Immediate return from subarray 24...23 with depth 5
+Sorting subarray 24...28 with depth 6 and pivot surprise
+Immediate return from subarray 24...23 with depth 6
+Sorting subarray 24...28 with depth 7 and pivot surprise
+Immediate return from subarray 24...23 with depth 7
+Sorting subarray 24...28 with depth 8 and pivot surprise
+Immediate return from subarray 24...23 with depth 8
+Immediate return from subarray 29...28 with depth 8
+Immediate return from subarray 29...28 with depth 7
+Immediate return from subarray 29...28 with depth 6
+Immediate return from subarray 29...28 with depth 5
+Immediate return from subarray 29...28 with depth 4
+Immediate return from subarray 29...28 with depth 3
+Immediate return from subarray 29...28 with depth 2
+Immediate return from subarray 29...29 with depth 1
+Immediate return from subarray 30...29 with depth 0
+Sorted: news news noise noise noise noise sand sand scale shock shock slope smoke smoke snow soap son son space star star start start suggestion surprise surprise surprise surprise surprise swim

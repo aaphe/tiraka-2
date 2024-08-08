@@ -1,0 +1,9 @@
+Improvements in iteration 1: d(3) = 27, d(4) = 25, d(14) = 27
+Improvements in iteration 2: d(1) = 33, d(6) = 18, d(7) = 36, d(8) = 18, d(10) = 55, d(13) = 4, d(15) = 54
+Improvements in iteration 3: d(1) = 30, d(5) = 3, d(10) = 19, d(11) = 2, d(14) = 19, d(15) = 37, d(16) = 29
+Improvements in iteration 4: d(1) = 25, d(7) = 21, d(13) = -4
+Improvements in iteration 5: d(10) = 11, d(11) = -6, d(16) = 21
+Improvements in iteration 6: d(4) = 22
+Improvements in iteration 7: d(8) = 15
+No improvements in iteration 8
+Distances from 9: d(1) = 25, d(2) = INF, d(3) = 27, d(4) = 22, d(5) = 3, d(6) = 18, d(7) = 21, d(8) = 15, d(9) = 0, d(10) = 11, d(11) = -6, d(12) = INF, d(13) = -4, d(14) = 19, d(15) = 37, d(16) = 21

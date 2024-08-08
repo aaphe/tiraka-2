@@ -1,0 +1,1182 @@
+Original: hear ice harmony process breath rice lift blow knowledge fiction side size sugar sound steam test country part stitch meeting request request harmony driving son thunder value seat flower wash comfort vessel learn insect fruit punishment destruction account distribution punishment argument field voice rice rice way reading paste soap attempt credit pleasure seat rhythm balance field belief disease part bite opinion punishment sky belief destruction way paper love state motion sort belief value rest song rhythm tendency country space death rice sound agree paste process structure request meeting state move space committee know process sister sand debt love attract news current structure transport talk value doubt vessel belief steam market effect own company top move committee top process destruction stitch state question jump agree instrument current mine act mother amusement seat relation grip opinion organization relation wood control blow bread death sky country tin canvas relation ice summer song purpose agree work copy glass step heat wind fiction sex debt fruit weight grip poison growth sort wind side vessel offer colour manager minute place side part heat talk process soap play insect account way know crush crush statement fruit quality record son blow quality cloth owner butter learning thing selection destruction pleasure twist steam harmony man man waste play colour seat breath grip rice stitch servant pain music agree produce ice committee voice talk lift produce thunder place humour metal son belief seat approval insect waste comfort hear mother exist love business brother expert love heat move organization offer cloth
+Sorting subarray 0...249 with depth 0 and pivot instrument
+Sorting subarray 0...85 with depth 0 and pivot growth
+Sorting subarray 0...71 with depth 0 and pivot crush
+Sorting subarray 0...27 with depth 0 and pivot butter
+Sorting subarray 0...11 with depth 0 and pivot act
+Immediate return from subarray 0...-1 with depth 0
+Sorting subarray 0...11 with depth 1 and pivot agree
+Sorting subarray 0...2 with depth 1 and pivot act
+Immediate return from subarray 0...-1 with depth 1
+Sorting subarray 0...2 with depth 2 and pivot account
+Immediate return from subarray 0...-1 with depth 2
+Sorting subarray 0...1 with depth 3 and pivot account
+Immediate return from subarray 0...-1 with depth 3
+Sorting subarray 0...1 with depth 4 and pivot account
+Immediate return from subarray 0...-1 with depth 4
+Sorting subarray 0...1 with depth 5 and pivot account
+Immediate return from subarray 0...-1 with depth 5
+Sorting subarray 0...1 with depth 6 and pivot account
+Immediate return from subarray 0...-1 with depth 6
+Sorting subarray 0...1 with depth 7 and pivot account
+Immediate return from subarray 0...-1 with depth 7
+Immediate return from subarray 2...1 with depth 7
+Immediate return from subarray 2...1 with depth 6
+Immediate return from subarray 2...1 with depth 5
+Immediate return from subarray 2...1 with depth 4
+Immediate return from subarray 2...1 with depth 3
+Immediate return from subarray 2...2 with depth 2
+Immediate return from subarray 3...2 with depth 1
+Sorting subarray 3...6 with depth 2 and pivot agree
+Immediate return from subarray 3...2 with depth 2
+Sorting subarray 3...6 with depth 3 and pivot agree
+Immediate return from subarray 3...2 with depth 3
+Sorting subarray 3...6 with depth 4 and pivot agree
+Immediate return from subarray 3...2 with depth 4
+Sorting subarray 3...6 with depth 5 and pivot agree
+Immediate return from subarray 3...2 with depth 5
+Immediate return from subarray 7...6 with depth 5
+Immediate return from subarray 7...6 with depth 4
+Immediate return from subarray 7...6 with depth 3
+Immediate return from subarray 7...6 with depth 2
+Sorting subarray 7...11 with depth 1 and pivot attract
+Sorting subarray 7...9 with depth 1 and pivot argument
+Sorting subarray 7...8 with depth 1 and pivot amusement
+Immediate return from subarray 7...6 with depth 1
+Immediate return from subarray 7...7 with depth 2
+Immediate return from subarray 8...8 with depth 1
+Immediate return from subarray 9...9 with depth 2
+Immediate return from subarray 10...9 with depth 1
+Sorting subarray 10...11 with depth 2 and pivot attempt
+Immediate return from subarray 10...9 with depth 2
+Sorting subarray 10...11 with depth 3 and pivot attempt
+Immediate return from subarray 10...9 with depth 3
+Immediate return from subarray 10...10 with depth 4
+Immediate return from subarray 11...11 with depth 3
+Immediate return from subarray 12...11 with depth 2
+Immediate return from subarray 12...11 with depth 1
+Immediate return from subarray 12...11 with depth 0
+Sorting subarray 12...27 with depth 1 and pivot blow
+Sorting subarray 12...18 with depth 1 and pivot belief
+Immediate return from subarray 12...12 with depth 1
+Sorting subarray 13...17 with depth 2 and pivot belief
+Immediate return from subarray 13...12 with depth 2
+Sorting subarray 13...17 with depth 3 and pivot belief
+Immediate return from subarray 13...12 with depth 3
+Sorting subarray 13...17 with depth 4 and pivot belief
+Immediate return from subarray 13...12 with depth 4
+Sorting subarray 13...17 with depth 5 and pivot belief
+Immediate return from subarray 13...12 with depth 5
+Sorting subarray 13...17 with depth 6 and pivot belief
+Immediate return from subarray 13...12 with depth 6
+Immediate return from subarray 18...17 with depth 6
+Immediate return from subarray 18...17 with depth 5
+Immediate return from subarray 18...17 with depth 4
+Immediate return from subarray 18...17 with depth 3
+Immediate return from subarray 18...17 with depth 2
+Immediate return from subarray 18...18 with depth 1
+Sorting subarray 19...21 with depth 2 and pivot blow
+Immediate return from subarray 19...18 with depth 2
+Sorting subarray 19...21 with depth 3 and pivot blow
+Immediate return from subarray 19...18 with depth 3
+Sorting subarray 19...21 with depth 4 and pivot blow
+Immediate return from subarray 19...18 with depth 4
+Immediate return from subarray 22...21 with depth 4
+Immediate return from subarray 22...21 with depth 3
+Immediate return from subarray 22...21 with depth 2
+Sorting subarray 22...27 with depth 1 and pivot brother
+Immediate return from subarray 22...21 with depth 1
+Sorting subarray 22...25 with depth 2 and pivot breath
+Immediate return from subarray 22...21 with depth 2
+Sorting subarray 22...24 with depth 3 and pivot bread
+Immediate return from subarray 22...21 with depth 3
+Sorting subarray 22...24 with depth 4 and pivot breath
+Immediate return from subarray 22...22 with depth 4
+Sorting subarray 23...24 with depth 5 and pivot breath
+Immediate return from subarray 23...22 with depth 5
+Sorting subarray 23...24 with depth 6 and pivot breath
+Immediate return from subarray 23...22 with depth 6
+Immediate return from subarray 25...24 with depth 6
+Immediate return from subarray 25...24 with depth 5
+Immediate return from subarray 25...24 with depth 4
+Immediate return from subarray 25...24 with depth 3
+Immediate return from subarray 25...25 with depth 2
+Sorting subarray 26...27 with depth 1 and pivot butter
+Immediate return from subarray 26...25 with depth 1
+Sorting subarray 26...27 with depth 2 and pivot butter
+Immediate return from subarray 26...26 with depth 2
+Immediate return from subarray 27...27 with depth 3
+Immediate return from subarray 28...27 with depth 2
+Immediate return from subarray 28...27 with depth 1
+Immediate return from subarray 28...27 with depth 0
+Sorting subarray 28...48 with depth 1 and pivot committee
+Sorting subarray 28...30 with depth 1 and pivot canvas
+Immediate return from subarray 28...27 with depth 1
+Immediate return from subarray 28...28 with depth 2
+Sorting subarray 29...30 with depth 1 and pivot cloth
+Immediate return from subarray 29...28 with depth 1
+Sorting subarray 29...30 with depth 2 and pivot cloth
+Immediate return from subarray 29...28 with depth 2
+Sorting subarray 29...30 with depth 3 and pivot cloth
+Immediate return from subarray 29...28 with depth 3
+Sorting subarray 29...30 with depth 4 and pivot cloth
+Immediate return from subarray 29...28 with depth 4
+Sorting subarray 29...30 with depth 5 and pivot cloth
+Immediate return from subarray 29...28 with depth 5
+Immediate return from subarray 31...30 with depth 5
+Immediate return from subarray 31...30 with depth 4
+Immediate return from subarray 31...30 with depth 3
+Immediate return from subarray 31...30 with depth 2
+Immediate return from subarray 31...30 with depth 1
+Sorting subarray 31...43 with depth 2 and pivot colour
+Immediate return from subarray 31...30 with depth 2
+Sorting subarray 31...32 with depth 3 and pivot colour
+Immediate return from subarray 31...30 with depth 3
+Sorting subarray 31...32 with depth 4 and pivot colour
+Immediate return from subarray 31...30 with depth 4
+Sorting subarray 31...32 with depth 5 and pivot colour
+Immediate return from subarray 31...30 with depth 5
+Sorting subarray 31...32 with depth 6 and pivot colour
+Immediate return from subarray 31...30 with depth 6
+Immediate return from subarray 33...32 with depth 6
+Immediate return from subarray 33...32 with depth 5
+Immediate return from subarray 33...32 with depth 4
+Immediate return from subarray 33...32 with depth 3
+Sorting subarray 33...43 with depth 2 and pivot comfort
+Immediate return from subarray 33...32 with depth 2
+Sorting subarray 33...38 with depth 3 and pivot company
+Sorting subarray 33...37 with depth 3 and pivot comfort
+Immediate return from subarray 33...32 with depth 3
+Sorting subarray 33...34 with depth 4 and pivot comfort
+Immediate return from subarray 33...32 with depth 4
+Sorting subarray 33...34 with depth 5 and pivot comfort
+Immediate return from subarray 33...32 with depth 5
+Sorting subarray 33...34 with depth 6 and pivot comfort
+Immediate return from subarray 33...32 with depth 6
+Sorting subarray 33...34 with depth 7 and pivot comfort
+Immediate return from subarray 33...32 with depth 7
+Immediate return from subarray 35...34 with depth 7
+Immediate return from subarray 35...34 with depth 6
+Immediate return from subarray 35...34 with depth 5
+Immediate return from subarray 35...34 with depth 4
+Sorting subarray 35...37 with depth 3 and pivot committee
+Immediate return from subarray 35...34 with depth 3
+Sorting subarray 35...37 with depth 4 and pivot committee
+Immediate return from subarray 35...34 with depth 4
+Sorting subarray 35...37 with depth 5 and pivot committee
+Immediate return from subarray 35...34 with depth 5
+Sorting subarray 35...37 with depth 6 and pivot committee
+Immediate return from subarray 35...34 with depth 6
+Sorting subarray 35...37 with depth 7 and pivot committee
+Immediate return from subarray 35...34 with depth 7
+Sorting subarray 35...37 with depth 8 and pivot committee
+Immediate return from subarray 35...34 with depth 8
+Sorting subarray 35...37 with depth 9 and pivot committee
+Immediate return from subarray 35...34 with depth 9
+Immediate return from subarray 38...37 with depth 9
+Immediate return from subarray 38...37 with depth 8
+Immediate return from subarray 38...37 with depth 7
+Immediate return from subarray 38...37 with depth 6
+Immediate return from subarray 38...37 with depth 5
+Immediate return from subarray 38...37 with depth 4
+Immediate return from subarray 38...37 with depth 3
+Immediate return from subarray 38...38 with depth 4
+Immediate return from subarray 39...38 with depth 3
+Sorting subarray 39...43 with depth 2 and pivot country
+Sorting subarray 39...40 with depth 2 and pivot copy
+Immediate return from subarray 39...39 with depth 2
+Immediate return from subarray 40...40 with depth 3
+Immediate return from subarray 41...40 with depth 2
+Sorting subarray 41...43 with depth 3 and pivot country
+Immediate return from subarray 41...40 with depth 3
+Sorting subarray 41...43 with depth 4 and pivot country
+Immediate return from subarray 41...40 with depth 4
+Sorting subarray 41...43 with depth 5 and pivot country
+Immediate return from subarray 41...40 with depth 5
+Sorting subarray 41...43 with depth 6 and pivot country
+Immediate return from subarray 41...40 with depth 6
+Sorting subarray 41...43 with depth 7 and pivot country
+Immediate return from subarray 41...40 with depth 7
+Immediate return from subarray 44...43 with depth 7
+Immediate return from subarray 44...43 with depth 6
+Immediate return from subarray 44...43 with depth 5
+Immediate return from subarray 44...43 with depth 4
+Immediate return from subarray 44...43 with depth 3
+Immediate return from subarray 44...43 with depth 2
+Sorting subarray 44...48 with depth 1 and pivot crush
+Immediate return from subarray 44...43 with depth 1
+Sorting subarray 44...46 with depth 2 and pivot credit
+Immediate return from subarray 44...43 with depth 2
+Immediate return from subarray 44...44 with depth 3
+Sorting subarray 45...46 with depth 2 and pivot crush
+Immediate return from subarray 45...44 with depth 2
+Sorting subarray 45...46 with depth 3 and pivot crush
+Immediate return from subarray 45...44 with depth 3
+Sorting subarray 45...46 with depth 4 and pivot crush
+Immediate return from subarray 45...44 with depth 4
+Sorting subarray 45...46 with depth 5 and pivot crush
+Immediate return from subarray 45...44 with depth 5
+Immediate return from subarray 47...46 with depth 5
+Immediate return from subarray 47...46 with depth 4
+Immediate return from subarray 47...46 with depth 3
+Immediate return from subarray 47...46 with depth 2
+Sorting subarray 47...48 with depth 1 and pivot current
+Immediate return from subarray 47...46 with depth 1
+Sorting subarray 47...48 with depth 2 and pivot current
+Immediate return from subarray 47...46 with depth 2
+Sorting subarray 47...48 with depth 3 and pivot current
+Immediate return from subarray 47...46 with depth 3
+Sorting subarray 47...48 with depth 4 and pivot current
+Immediate return from subarray 47...46 with depth 4
+Sorting subarray 47...48 with depth 5 and pivot current
+Immediate return from subarray 47...46 with depth 5
+Sorting subarray 47...48 with depth 6 and pivot current
+Immediate return from subarray 47...46 with depth 6
+Sorting subarray 47...48 with depth 7 and pivot current
+Immediate return from subarray 47...46 with depth 7
+Immediate return from subarray 49...48 with depth 7
+Immediate return from subarray 49...48 with depth 6
+Immediate return from subarray 49...48 with depth 5
+Immediate return from subarray 49...48 with depth 4
+Immediate return from subarray 49...48 with depth 3
+Immediate return from subarray 49...48 with depth 2
+Immediate return from subarray 49...48 with depth 1
+Sorting subarray 49...71 with depth 0 and pivot destruction
+Immediate return from subarray 49...48 with depth 0
+Sorting subarray 49...60 with depth 1 and pivot destruction
+Immediate return from subarray 49...48 with depth 1
+Sorting subarray 49...56 with depth 2 and pivot debt
+Sorting subarray 49...50 with depth 2 and pivot death
+Immediate return from subarray 49...48 with depth 2
+Sorting subarray 49...50 with depth 3 and pivot death
+Immediate return from subarray 49...48 with depth 3
+Sorting subarray 49...50 with depth 4 and pivot death
+Immediate return from subarray 49...48 with depth 4
+Sorting subarray 49...50 with depth 5 and pivot death
+Immediate return from subarray 49...48 with depth 5
+Immediate return from subarray 51...50 with depth 5
+Immediate return from subarray 51...50 with depth 4
+Immediate return from subarray 51...50 with depth 3
+Immediate return from subarray 51...50 with depth 2
+Sorting subarray 51...52 with depth 3 and pivot debt
+Immediate return from subarray 51...50 with depth 3
+Sorting subarray 51...52 with depth 4 and pivot debt
+Immediate return from subarray 51...50 with depth 4
+Immediate return from subarray 53...52 with depth 4
+Immediate return from subarray 53...52 with depth 3
+Sorting subarray 53...56 with depth 2 and pivot destruction
+Immediate return from subarray 53...52 with depth 2
+Sorting subarray 53...56 with depth 3 and pivot destruction
+Immediate return from subarray 53...52 with depth 3
+Sorting subarray 53...56 with depth 4 and pivot destruction
+Immediate return from subarray 53...52 with depth 4
+Sorting subarray 53...56 with depth 5 and pivot destruction
+Immediate return from subarray 53...52 with depth 5
+Sorting subarray 53...56 with depth 6 and pivot destruction
+Immediate return from subarray 53...52 with depth 6
+Sorting subarray 53...56 with depth 7 and pivot destruction
+Immediate return from subarray 53...52 with depth 7
+Sorting subarray 53...56 with depth 8 and pivot destruction
+Immediate return from subarray 53...52 with depth 8
+Sorting subarray 53...56 with depth 9 and pivot destruction
+Immediate return from subarray 53...52 with depth 9
+Sorting subarray 53...56 with depth 10 and pivot destruction
+Immediate return from subarray 53...52 with depth 10
+Sorting subarray 53...56 with depth 11 and pivot destruction
+Immediate return from subarray 53...52 with depth 11
+Immediate return from subarray 57...56 with depth 11
+Immediate return from subarray 57...56 with depth 10
+Immediate return from subarray 57...56 with depth 9
+Immediate return from subarray 57...56 with depth 8
+Immediate return from subarray 57...56 with depth 7
+Immediate return from subarray 57...56 with depth 6
+Immediate return from subarray 57...56 with depth 5
+Immediate return from subarray 57...56 with depth 4
+Immediate return from subarray 57...56 with depth 3
+Immediate return from subarray 57...56 with depth 2
+Sorting subarray 57...60 with depth 1 and pivot distribution
+Immediate return from subarray 57...56 with depth 1
+Sorting subarray 57...58 with depth 2 and pivot distribution
+Immediate return from subarray 57...56 with depth 2
+Sorting subarray 57...58 with depth 3 and pivot distribution
+Immediate return from subarray 57...57 with depth 3
+Immediate return from subarray 58...58 with depth 4
+Immediate return from subarray 59...58 with depth 3
+Immediate return from subarray 59...58 with depth 2
+Sorting subarray 59...60 with depth 1 and pivot driving
+Immediate return from subarray 59...59 with depth 1
+Immediate return from subarray 60...60 with depth 2
+Immediate return from subarray 61...60 with depth 1
+Sorting subarray 61...71 with depth 0 and pivot exist
+Immediate return from subarray 61...60 with depth 0
+Sorting subarray 61...63 with depth 1 and pivot effect
+Immediate return from subarray 61...60 with depth 1
+Immediate return from subarray 61...61 with depth 2
+Sorting subarray 62...63 with depth 1 and pivot expert
+Immediate return from subarray 62...61 with depth 1
+Sorting subarray 62...63 with depth 2 and pivot expert
+Immediate return from subarray 62...62 with depth 2
+Immediate return from subarray 63...63 with depth 3
+Immediate return from subarray 64...63 with depth 2
+Immediate return from subarray 64...63 with depth 1
+Sorting subarray 64...71 with depth 0 and pivot fruit
+Immediate return from subarray 64...63 with depth 0
+Sorting subarray 64...71 with depth 1 and pivot field
+Immediate return from subarray 64...63 with depth 1
+Sorting subarray 64...67 with depth 2 and pivot field
+Sorting subarray 64...65 with depth 2 and pivot fiction
+Immediate return from subarray 64...63 with depth 2
+Sorting subarray 64...65 with depth 3 and pivot fiction
+Immediate return from subarray 64...63 with depth 3
+Sorting subarray 64...65 with depth 4 and pivot fiction
+Immediate return from subarray 64...63 with depth 4
+Sorting subarray 64...65 with depth 5 and pivot fiction
+Immediate return from subarray 64...63 with depth 5
+Sorting subarray 64...65 with depth 6 and pivot fiction
+Immediate return from subarray 64...63 with depth 6
+Sorting subarray 64...65 with depth 7 and pivot fiction
+Immediate return from subarray 64...63 with depth 7
+Immediate return from subarray 66...65 with depth 7
+Immediate return from subarray 66...65 with depth 6
+Immediate return from subarray 66...65 with depth 5
+Immediate return from subarray 66...65 with depth 4
+Immediate return from subarray 66...65 with depth 3
+Immediate return from subarray 66...65 with depth 2
+Sorting subarray 66...67 with depth 3 and pivot field
+Immediate return from subarray 66...65 with depth 3
+Sorting subarray 66...67 with depth 4 and pivot field
+Immediate return from subarray 66...65 with depth 4
+Sorting subarray 66...67 with depth 5 and pivot field
+Immediate return from subarray 66...65 with depth 5
+Immediate return from subarray 68...67 with depth 5
+Immediate return from subarray 68...67 with depth 4
+Immediate return from subarray 68...67 with depth 3
+Immediate return from subarray 68...67 with depth 2
+Sorting subarray 68...71 with depth 1 and pivot fruit
+Immediate return from subarray 68...68 with depth 1
+Sorting subarray 69...71 with depth 2 and pivot fruit
+Immediate return from subarray 69...68 with depth 2
+Sorting subarray 69...71 with depth 3 and pivot fruit
+Immediate return from subarray 69...68 with depth 3
+Sorting subarray 69...71 with depth 4 and pivot fruit
+Immediate return from subarray 69...68 with depth 4
+Sorting subarray 69...71 with depth 5 and pivot fruit
+Immediate return from subarray 69...68 with depth 5
+Immediate return from subarray 72...71 with depth 5
+Immediate return from subarray 72...71 with depth 4
+Immediate return from subarray 72...71 with depth 3
+Immediate return from subarray 72...71 with depth 2
+Immediate return from subarray 72...71 with depth 1
+Immediate return from subarray 72...71 with depth 0
+Sorting subarray 72...76 with depth 1 and pivot growth
+Immediate return from subarray 72...72 with depth 1
+Sorting subarray 73...76 with depth 2 and pivot grip
+Immediate return from subarray 73...72 with depth 2
+Sorting subarray 73...75 with depth 3 and pivot grip
+Immediate return from subarray 73...72 with depth 3
+Sorting subarray 73...75 with depth 4 and pivot grip
+Immediate return from subarray 73...72 with depth 4
+Immediate return from subarray 76...75 with depth 4
+Immediate return from subarray 76...75 with depth 3
+Immediate return from subarray 76...76 with depth 2
+Immediate return from subarray 77...76 with depth 1
+Sorting subarray 77...85 with depth 0 and pivot harmony
+Immediate return from subarray 77...76 with depth 0
+Sorting subarray 77...85 with depth 1 and pivot hear
+Sorting subarray 77...79 with depth 1 and pivot harmony
+Immediate return from subarray 77...76 with depth 1
+Sorting subarray 77...79 with depth 2 and pivot harmony
+Immediate return from subarray 77...76 with depth 2
+Sorting subarray 77...79 with depth 3 and pivot harmony
+Immediate return from subarray 77...76 with depth 3
+Sorting subarray 77...79 with depth 4 and pivot harmony
+Immediate return from subarray 77...76 with depth 4
+Sorting subarray 77...79 with depth 5 and pivot harmony
+Immediate return from subarray 77...76 with depth 5
+Sorting subarray 77...79 with depth 6 and pivot harmony
+Immediate return from subarray 77...76 with depth 6
+Sorting subarray 77...79 with depth 7 and pivot harmony
+Immediate return from subarray 77...76 with depth 7
+Immediate return from subarray 80...79 with depth 7
+Immediate return from subarray 80...79 with depth 6
+Immediate return from subarray 80...79 with depth 5
+Immediate return from subarray 80...79 with depth 4
+Immediate return from subarray 80...79 with depth 3
+Immediate return from subarray 80...79 with depth 2
+Immediate return from subarray 80...79 with depth 1
+Sorting subarray 80...84 with depth 2 and pivot hear
+Immediate return from subarray 80...79 with depth 2
+Sorting subarray 80...84 with depth 3 and pivot heat
+Sorting subarray 80...81 with depth 3 and pivot hear
+Immediate return from subarray 80...79 with depth 3
+Sorting subarray 80...81 with depth 4 and pivot hear
+Immediate return from subarray 80...79 with depth 4
+Immediate return from subarray 82...81 with depth 4
+Immediate return from subarray 82...81 with depth 3
+Sorting subarray 82...84 with depth 4 and pivot heat
+Immediate return from subarray 82...81 with depth 4
+Immediate return from subarray 85...84 with depth 4
+Immediate return from subarray 85...84 with depth 3
+Immediate return from subarray 85...84 with depth 2
+Immediate return from subarray 85...85 with depth 1
+Immediate return from subarray 86...85 with depth 0
+Sorting subarray 86...92 with depth 1 and pivot insect
+Sorting subarray 86...88 with depth 1 and pivot ice
+Immediate return from subarray 86...85 with depth 1
+Sorting subarray 86...88 with depth 2 and pivot ice
+Immediate return from subarray 86...85 with depth 2
+Sorting subarray 86...88 with depth 3 and pivot ice
+Immediate return from subarray 86...85 with depth 3
+Immediate return from subarray 89...88 with depth 3
+Immediate return from subarray 89...88 with depth 2
+Immediate return from subarray 89...88 with depth 1
+Sorting subarray 89...92 with depth 2 and pivot insect
+Immediate return from subarray 89...88 with depth 2
+Sorting subarray 89...92 with depth 3 and pivot insect
+Immediate return from subarray 89...88 with depth 3
+Sorting subarray 89...91 with depth 4 and pivot insect
+Immediate return from subarray 89...88 with depth 4
+Sorting subarray 89...91 with depth 5 and pivot insect
+Immediate return from subarray 89...88 with depth 5
+Sorting subarray 89...91 with depth 6 and pivot insect
+Immediate return from subarray 89...88 with depth 6
+Immediate return from subarray 92...91 with depth 6
+Immediate return from subarray 92...91 with depth 5
+Immediate return from subarray 92...91 with depth 4
+Immediate return from subarray 92...92 with depth 3
+Immediate return from subarray 93...92 with depth 2
+Immediate return from subarray 93...92 with depth 1
+Sorting subarray 93...249 with depth 0 and pivot minute
+Sorting subarray 93...104 with depth 0 and pivot love
+Sorting subarray 93...96 with depth 0 and pivot knowledge
+Immediate return from subarray 93...93 with depth 0
+Sorting subarray 94...96 with depth 1 and pivot know
+Immediate return from subarray 94...93 with depth 1
+Sorting subarray 94...96 with depth 2 and pivot know
+Immediate return from subarray 94...93 with depth 2
+Sorting subarray 94...96 with depth 3 and pivot know
+Immediate return from subarray 94...93 with depth 3
+Sorting subarray 94...96 with depth 4 and pivot know
+Immediate return from subarray 94...93 with depth 4
+Immediate return from subarray 96...96 with depth 4
+Immediate return from subarray 97...96 with depth 3
+Immediate return from subarray 97...96 with depth 2
+Immediate return from subarray 97...96 with depth 1
+Immediate return from subarray 97...96 with depth 0
+Sorting subarray 97...104 with depth 1 and pivot learning
+Immediate return from subarray 97...96 with depth 1
+Sorting subarray 97...98 with depth 2 and pivot learning
+Immediate return from subarray 97...96 with depth 2
+Sorting subarray 97...98 with depth 3 and pivot learning
+Immediate return from subarray 97...96 with depth 3
+Sorting subarray 97...98 with depth 4 and pivot learning
+Immediate return from subarray 97...96 with depth 4
+Sorting subarray 97...98 with depth 5 and pivot learning
+Immediate return from subarray 97...97 with depth 5
+Immediate return from subarray 98...98 with depth 6
+Immediate return from subarray 99...98 with depth 5
+Immediate return from subarray 99...98 with depth 4
+Immediate return from subarray 99...98 with depth 3
+Immediate return from subarray 99...98 with depth 2
+Sorting subarray 99...104 with depth 1 and pivot love
+Sorting subarray 99...100 with depth 1 and pivot lift
+Immediate return from subarray 99...98 with depth 1
+Sorting subarray 99...100 with depth 2 and pivot lift
+Immediate return from subarray 99...98 with depth 2
+Sorting subarray 99...100 with depth 3 and pivot lift
+Immediate return from subarray 99...98 with depth 3
+Sorting subarray 99...100 with depth 4 and pivot lift
+Immediate return from subarray 99...98 with depth 4
+Immediate return from subarray 101...100 with depth 4
+Immediate return from subarray 101...100 with depth 3
+Immediate return from subarray 101...100 with depth 2
+Immediate return from subarray 101...100 with depth 1
+Sorting subarray 101...104 with depth 2 and pivot love
+Immediate return from subarray 101...100 with depth 2
+Sorting subarray 101...104 with depth 3 and pivot love
+Immediate return from subarray 101...100 with depth 3
+Sorting subarray 101...104 with depth 4 and pivot love
+Immediate return from subarray 101...100 with depth 4
+Immediate return from subarray 105...104 with depth 4
+Immediate return from subarray 105...104 with depth 3
+Immediate return from subarray 105...104 with depth 2
+Immediate return from subarray 105...104 with depth 1
+Immediate return from subarray 105...104 with depth 0
+Sorting subarray 105...120 with depth 1 and pivot mother
+Sorting subarray 105...113 with depth 1 and pivot minute
+Sorting subarray 105...111 with depth 1 and pivot man
+Immediate return from subarray 105...104 with depth 1
+Sorting subarray 105...108 with depth 2 and pivot manager
+Immediate return from subarray 105...104 with depth 2
+Sorting subarray 105...107 with depth 3 and pivot man
+Immediate return from subarray 105...104 with depth 3
+Immediate return from subarray 107...107 with depth 3
+Immediate return from subarray 108...108 with depth 2
+Sorting subarray 109...111 with depth 1 and pivot meeting
+Immediate return from subarray 109...108 with depth 1
+Sorting subarray 109...111 with depth 2 and pivot metal
+Sorting subarray 109...110 with depth 2 and pivot meeting
+Immediate return from subarray 109...108 with depth 2
+Sorting subarray 109...110 with depth 3 and pivot meeting
+Immediate return from subarray 109...108 with depth 3
+Sorting subarray 109...110 with depth 4 and pivot meeting
+Immediate return from subarray 109...108 with depth 4
+Sorting subarray 109...110 with depth 5 and pivot meeting
+Immediate return from subarray 109...108 with depth 5
+Sorting subarray 109...110 with depth 6 and pivot meeting
+Immediate return from subarray 109...108 with depth 6
+Sorting subarray 109...110 with depth 7 and pivot meeting
+Immediate return from subarray 109...108 with depth 7
+Immediate return from subarray 111...110 with depth 7
+Immediate return from subarray 111...110 with depth 6
+Immediate return from subarray 111...110 with depth 5
+Immediate return from subarray 111...110 with depth 4
+Immediate return from subarray 111...110 with depth 3
+Immediate return from subarray 111...110 with depth 2
+Immediate return from subarray 111...111 with depth 3
+Immediate return from subarray 112...111 with depth 2
+Immediate return from subarray 112...111 with depth 1
+Sorting subarray 112...113 with depth 2 and pivot minute
+Immediate return from subarray 112...111 with depth 2
+Sorting subarray 112...113 with depth 3 and pivot minute
+Immediate return from subarray 112...112 with depth 3
+Immediate return from subarray 113...113 with depth 4
+Immediate return from subarray 114...113 with depth 3
+Immediate return from subarray 114...113 with depth 2
+Immediate return from subarray 114...113 with depth 1
+Sorting subarray 114...119 with depth 2 and pivot mother
+Immediate return from subarray 114...113 with depth 2
+Sorting subarray 114...116 with depth 3 and pivot mother
+Immediate return from subarray 114...113 with depth 3
+Sorting subarray 114...115 with depth 4 and pivot mother
+Immediate return from subarray 114...113 with depth 4
+Sorting subarray 114...115 with depth 5 and pivot mother
+Immediate return from subarray 114...113 with depth 5
+Sorting subarray 114...115 with depth 6 and pivot mother
+Immediate return from subarray 114...113 with depth 6
+Immediate return from subarray 116...115 with depth 6
+Immediate return from subarray 116...115 with depth 5
+Immediate return from subarray 116...115 with depth 4
+Immediate return from subarray 116...116 with depth 3
+Sorting subarray 117...119 with depth 2 and pivot move
+Immediate return from subarray 117...116 with depth 2
+Sorting subarray 117...119 with depth 3 and pivot move
+Immediate return from subarray 117...116 with depth 3
+Sorting subarray 117...119 with depth 4 and pivot move
+Immediate return from subarray 117...116 with depth 4
+Immediate return from subarray 120...119 with depth 4
+Immediate return from subarray 120...119 with depth 3
+Immediate return from subarray 120...119 with depth 2
+Immediate return from subarray 120...120 with depth 1
+Sorting subarray 121...249 with depth 0 and pivot statement
+Sorting subarray 121...173 with depth 0 and pivot place
+Sorting subarray 121...129 with depth 0 and pivot organization
+Immediate return from subarray 121...121 with depth 0
+Sorting subarray 122...129 with depth 1 and pivot opinion
+Sorting subarray 122...123 with depth 1 and pivot offer
+Immediate return from subarray 122...121 with depth 1
+Sorting subarray 122...123 with depth 2 and pivot offer
+Immediate return from subarray 122...121 with depth 2
+Sorting subarray 122...123 with depth 3 and pivot offer
+Immediate return from subarray 122...121 with depth 3
+Sorting subarray 122...123 with depth 4 and pivot offer
+Immediate return from subarray 122...121 with depth 4
+Sorting subarray 122...123 with depth 5 and pivot offer
+Immediate return from subarray 122...121 with depth 5
+Immediate return from subarray 124...123 with depth 5
+Immediate return from subarray 124...123 with depth 4
+Immediate return from subarray 124...123 with depth 3
+Immediate return from subarray 124...123 with depth 2
+Immediate return from subarray 124...123 with depth 1
+Sorting subarray 124...125 with depth 2 and pivot opinion
+Immediate return from subarray 124...123 with depth 2
+Sorting subarray 124...125 with depth 3 and pivot opinion
+Immediate return from subarray 124...123 with depth 3
+Sorting subarray 124...125 with depth 4 and pivot opinion
+Immediate return from subarray 124...123 with depth 4
+Sorting subarray 124...125 with depth 5 and pivot opinion
+Immediate return from subarray 124...123 with depth 5
+Sorting subarray 124...125 with depth 6 and pivot opinion
+Immediate return from subarray 124...123 with depth 6
+Sorting subarray 124...125 with depth 7 and pivot opinion
+Immediate return from subarray 124...123 with depth 7
+Immediate return from subarray 126...125 with depth 7
+Immediate return from subarray 126...125 with depth 6
+Immediate return from subarray 126...125 with depth 5
+Immediate return from subarray 126...125 with depth 4
+Immediate return from subarray 126...125 with depth 3
+Immediate return from subarray 126...125 with depth 2
+Sorting subarray 126...129 with depth 1 and pivot owner
+Sorting subarray 126...127 with depth 1 and pivot organization
+Immediate return from subarray 126...125 with depth 1
+Sorting subarray 126...127 with depth 2 and pivot organization
+Immediate return from subarray 126...125 with depth 2
+Sorting subarray 126...127 with depth 3 and pivot organization
+Immediate return from subarray 126...125 with depth 3
+Sorting subarray 126...127 with depth 4 and pivot organization
+Immediate return from subarray 126...125 with depth 4
+Sorting subarray 126...127 with depth 5 and pivot organization
+Immediate return from subarray 126...125 with depth 5
+Sorting subarray 126...127 with depth 6 and pivot organization
+Immediate return from subarray 126...125 with depth 6
+Sorting subarray 126...127 with depth 7 and pivot organization
+Immediate return from subarray 126...125 with depth 7
+Sorting subarray 126...127 with depth 8 and pivot organization
+Immediate return from subarray 126...125 with depth 8
+Sorting subarray 126...127 with depth 9 and pivot organization
+Immediate return from subarray 126...125 with depth 9
+Sorting subarray 126...127 with depth 10 and pivot organization
+Immediate return from subarray 126...125 with depth 10
+Sorting subarray 126...127 with depth 11 and pivot organization
+Immediate return from subarray 126...125 with depth 11
+Sorting subarray 126...127 with depth 12 and pivot organization
+Immediate return from subarray 126...125 with depth 12
+Immediate return from subarray 128...127 with depth 12
+Immediate return from subarray 128...127 with depth 11
+Immediate return from subarray 128...127 with depth 10
+Immediate return from subarray 128...127 with depth 9
+Immediate return from subarray 128...127 with depth 8
+Immediate return from subarray 128...127 with depth 7
+Immediate return from subarray 128...127 with depth 6
+Immediate return from subarray 128...127 with depth 5
+Immediate return from subarray 128...127 with depth 4
+Immediate return from subarray 128...127 with depth 3
+Immediate return from subarray 128...127 with depth 2
+Immediate return from subarray 128...127 with depth 1
+Sorting subarray 128...129 with depth 2 and pivot owner
+Immediate return from subarray 128...127 with depth 2
+Sorting subarray 128...129 with depth 3 and pivot owner
+Immediate return from subarray 128...128 with depth 3
+Immediate return from subarray 129...129 with depth 4
+Immediate return from subarray 130...129 with depth 3
+Immediate return from subarray 130...129 with depth 2
+Immediate return from subarray 130...129 with depth 1
+Immediate return from subarray 130...129 with depth 0
+Sorting subarray 130...154 with depth 1 and pivot process
+Sorting subarray 130...143 with depth 1 and pivot pain
+Immediate return from subarray 130...129 with depth 1
+Sorting subarray 130...136 with depth 2 and pivot paper
+Immediate return from subarray 130...130 with depth 2
+Immediate return from subarray 131...131 with depth 3
+Sorting subarray 132...136 with depth 2 and pivot part
+Immediate return from subarray 132...131 with depth 2
+Sorting subarray 132...134 with depth 3 and pivot part
+Immediate return from subarray 132...131 with depth 3
+Sorting subarray 132...134 with depth 4 and pivot part
+Immediate return from subarray 132...131 with depth 4
+Immediate return from subarray 135...134 with depth 4
+Immediate return from subarray 135...134 with depth 3
+Sorting subarray 135...136 with depth 2 and pivot paste
+Immediate return from subarray 135...134 with depth 2
+Sorting subarray 135...136 with depth 3 and pivot paste
+Immediate return from subarray 135...134 with depth 3
+Sorting subarray 135...136 with depth 4 and pivot paste
+Immediate return from subarray 135...134 with depth 4
+Sorting subarray 135...136 with depth 5 and pivot paste
+Immediate return from subarray 135...134 with depth 5
+Immediate return from subarray 137...136 with depth 5
+Immediate return from subarray 137...136 with depth 4
+Immediate return from subarray 137...136 with depth 3
+Immediate return from subarray 137...136 with depth 2
+Sorting subarray 137...143 with depth 1 and pivot play
+Immediate return from subarray 137...136 with depth 1
+Sorting subarray 137...142 with depth 2 and pivot pleasure
+Sorting subarray 137...140 with depth 2 and pivot place
+Immediate return from subarray 137...136 with depth 2
+Sorting subarray 137...140 with depth 3 and pivot play
+Sorting subarray 137...138 with depth 3 and pivot place
+Immediate return from subarray 137...136 with depth 3
+Sorting subarray 137...138 with depth 4 and pivot place
+Immediate return from subarray 137...136 with depth 4
+Sorting subarray 137...138 with depth 5 and pivot place
+Immediate return from subarray 137...136 with depth 5
+Immediate return from subarray 139...138 with depth 5
+Immediate return from subarray 139...138 with depth 4
+Immediate return from subarray 139...138 with depth 3
+Sorting subarray 139...140 with depth 4 and pivot play
+Immediate return from subarray 139...138 with depth 4
+Immediate return from subarray 141...140 with depth 4
+Immediate return from subarray 141...140 with depth 3
+Immediate return from subarray 141...140 with depth 2
+Sorting subarray 141...142 with depth 3 and pivot pleasure
+Immediate return from subarray 141...140 with depth 3
+Sorting subarray 141...142 with depth 4 and pivot pleasure
+Immediate return from subarray 141...140 with depth 4
+Sorting subarray 141...142 with depth 5 and pivot pleasure
+Immediate return from subarray 141...140 with depth 5
+Sorting subarray 141...142 with depth 6 and pivot pleasure
+Immediate return from subarray 141...140 with depth 6
+Sorting subarray 141...142 with depth 7 and pivot pleasure
+Immediate return from subarray 141...140 with depth 7
+Sorting subarray 141...142 with depth 8 and pivot pleasure
+Immediate return from subarray 141...140 with depth 8
+Immediate return from subarray 143...142 with depth 8
+Immediate return from subarray 143...142 with depth 7
+Immediate return from subarray 143...142 with depth 6
+Immediate return from subarray 143...142 with depth 5
+Immediate return from subarray 143...142 with depth 4
+Immediate return from subarray 143...142 with depth 3
+Immediate return from subarray 143...142 with depth 2
+Immediate return from subarray 143...143 with depth 1
+Sorting subarray 144...150 with depth 2 and pivot process
+Immediate return from subarray 144...143 with depth 2
+Sorting subarray 144...150 with depth 3 and pivot process
+Immediate return from subarray 144...143 with depth 3
+Sorting subarray 144...148 with depth 4 and pivot process
+Immediate return from subarray 144...143 with depth 4
+Sorting subarray 144...148 with depth 5 and pivot process
+Immediate return from subarray 144...143 with depth 5
+Sorting subarray 144...148 with depth 6 and pivot process
+Immediate return from subarray 144...143 with depth 6
+Sorting subarray 144...148 with depth 7 and pivot process
+Immediate return from subarray 144...143 with depth 7
+Immediate return from subarray 149...148 with depth 7
+Immediate return from subarray 149...148 with depth 6
+Immediate return from subarray 149...148 with depth 5
+Immediate return from subarray 149...148 with depth 4
+Sorting subarray 149...150 with depth 3 and pivot produce
+Immediate return from subarray 149...148 with depth 3
+Sorting subarray 149...150 with depth 4 and pivot produce
+Immediate return from subarray 149...148 with depth 4
+Sorting subarray 149...150 with depth 5 and pivot produce
+Immediate return from subarray 149...148 with depth 5
+Sorting subarray 149...150 with depth 6 and pivot produce
+Immediate return from subarray 149...148 with depth 6
+Sorting subarray 149...150 with depth 7 and pivot produce
+Immediate return from subarray 149...148 with depth 7
+Immediate return from subarray 151...150 with depth 7
+Immediate return from subarray 151...150 with depth 6
+Immediate return from subarray 151...150 with depth 5
+Immediate return from subarray 151...150 with depth 4
+Immediate return from subarray 151...150 with depth 3
+Immediate return from subarray 151...150 with depth 2
+Sorting subarray 151...154 with depth 1 and pivot punishment
+Immediate return from subarray 151...150 with depth 1
+Sorting subarray 151...154 with depth 2 and pivot punishment
+Immediate return from subarray 151...150 with depth 2
+Sorting subarray 151...153 with depth 3 and pivot punishment
+Immediate return from subarray 151...150 with depth 3
+Sorting subarray 151...153 with depth 4 and pivot punishment
+Immediate return from subarray 151...150 with depth 4
+Sorting subarray 151...153 with depth 5 and pivot punishment
+Immediate return from subarray 151...150 with depth 5
+Sorting subarray 151...153 with depth 6 and pivot punishment
+Immediate return from subarray 151...150 with depth 6
+Sorting subarray 151...153 with depth 7 and pivot punishment
+Immediate return from subarray 151...150 with depth 7
+Sorting subarray 151...153 with depth 8 and pivot punishment
+Immediate return from subarray 151...150 with depth 8
+Sorting subarray 151...153 with depth 9 and pivot punishment
+Immediate return from subarray 151...150 with depth 9
+Sorting subarray 151...153 with depth 10 and pivot punishment
+Immediate return from subarray 151...150 with depth 10
+Immediate return from subarray 154...153 with depth 10
+Immediate return from subarray 154...153 with depth 9
+Immediate return from subarray 154...153 with depth 8
+Immediate return from subarray 154...153 with depth 7
+Immediate return from subarray 154...153 with depth 6
+Immediate return from subarray 154...153 with depth 5
+Immediate return from subarray 154...153 with depth 4
+Immediate return from subarray 154...153 with depth 3
+Immediate return from subarray 154...154 with depth 2
+Immediate return from subarray 155...154 with depth 1
+Sorting subarray 155...173 with depth 0 and pivot rice
+Sorting subarray 155...157 with depth 0 and pivot quality
+Immediate return from subarray 155...154 with depth 0
+Sorting subarray 155...157 with depth 1 and pivot quality
+Immediate return from subarray 155...154 with depth 1
+Sorting subarray 155...157 with depth 2 and pivot quality
+Immediate return from subarray 155...154 with depth 2
+Sorting subarray 155...156 with depth 3 and pivot quality
+Immediate return from subarray 155...154 with depth 3
+Sorting subarray 155...156 with depth 4 and pivot quality
+Immediate return from subarray 155...154 with depth 4
+Sorting subarray 155...156 with depth 5 and pivot quality
+Immediate return from subarray 155...154 with depth 5
+Sorting subarray 155...156 with depth 6 and pivot quality
+Immediate return from subarray 155...154 with depth 6
+Sorting subarray 155...156 with depth 7 and pivot quality
+Immediate return from subarray 155...154 with depth 7
+Immediate return from subarray 157...156 with depth 7
+Immediate return from subarray 157...156 with depth 6
+Immediate return from subarray 157...156 with depth 5
+Immediate return from subarray 157...156 with depth 4
+Immediate return from subarray 157...156 with depth 3
+Immediate return from subarray 157...157 with depth 2
+Immediate return from subarray 158...157 with depth 1
+Immediate return from subarray 158...157 with depth 0
+Sorting subarray 158...173 with depth 1 and pivot request
+Immediate return from subarray 158...157 with depth 1
+Sorting subarray 158...166 with depth 2 and pivot request
+Sorting subarray 158...162 with depth 2 and pivot relation
+Sorting subarray 158...159 with depth 2 and pivot reading
+Immediate return from subarray 158...157 with depth 2
+Immediate return from subarray 158...158 with depth 3
+Immediate return from subarray 159...159 with depth 2
+Sorting subarray 160...162 with depth 3 and pivot relation
+Immediate return from subarray 160...159 with depth 3
+Sorting subarray 160...162 with depth 4 and pivot relation
+Immediate return from subarray 160...159 with depth 4
+Sorting subarray 160...162 with depth 5 and pivot relation
+Immediate return from subarray 160...159 with depth 5
+Sorting subarray 160...162 with depth 6 and pivot relation
+Immediate return from subarray 160...159 with depth 6
+Sorting subarray 160...162 with depth 7 and pivot relation
+Immediate return from subarray 160...159 with depth 7
+Sorting subarray 160...162 with depth 8 and pivot relation
+Immediate return from subarray 160...159 with depth 8
+Immediate return from subarray 163...162 with depth 8
+Immediate return from subarray 163...162 with depth 7
+Immediate return from subarray 163...162 with depth 6
+Immediate return from subarray 163...162 with depth 5
+Immediate return from subarray 163...162 with depth 4
+Immediate return from subarray 163...162 with depth 3
+Immediate return from subarray 163...162 with depth 2
+Sorting subarray 163...165 with depth 3 and pivot request
+Immediate return from subarray 163...162 with depth 3
+Sorting subarray 163...165 with depth 4 and pivot request
+Immediate return from subarray 163...162 with depth 4
+Sorting subarray 163...165 with depth 5 and pivot request
+Immediate return from subarray 163...162 with depth 5
+Sorting subarray 163...165 with depth 6 and pivot request
+Immediate return from subarray 163...162 with depth 6
+Sorting subarray 163...165 with depth 7 and pivot request
+Immediate return from subarray 163...162 with depth 7
+Immediate return from subarray 166...165 with depth 7
+Immediate return from subarray 166...165 with depth 6
+Immediate return from subarray 166...165 with depth 5
+Immediate return from subarray 166...165 with depth 4
+Immediate return from subarray 166...165 with depth 3
+Immediate return from subarray 166...166 with depth 2
+Sorting subarray 167...173 with depth 1 and pivot rhythm
+Immediate return from subarray 167...166 with depth 1
+Sorting subarray 167...168 with depth 2 and pivot rhythm
+Immediate return from subarray 167...166 with depth 2
+Sorting subarray 167...168 with depth 3 and pivot rhythm
+Immediate return from subarray 167...166 with depth 3
+Sorting subarray 167...168 with depth 4 and pivot rhythm
+Immediate return from subarray 167...166 with depth 4
+Sorting subarray 167...168 with depth 5 and pivot rhythm
+Immediate return from subarray 167...166 with depth 5
+Sorting subarray 167...168 with depth 6 and pivot rhythm
+Immediate return from subarray 167...166 with depth 6
+Immediate return from subarray 169...168 with depth 6
+Immediate return from subarray 169...168 with depth 5
+Immediate return from subarray 169...168 with depth 4
+Immediate return from subarray 169...168 with depth 3
+Immediate return from subarray 169...168 with depth 2
+Sorting subarray 169...173 with depth 1 and pivot rice
+Immediate return from subarray 169...168 with depth 1
+Sorting subarray 169...173 with depth 2 and pivot rice
+Immediate return from subarray 169...168 with depth 2
+Sorting subarray 169...173 with depth 3 and pivot rice
+Immediate return from subarray 169...168 with depth 3
+Sorting subarray 169...173 with depth 4 and pivot rice
+Immediate return from subarray 169...168 with depth 4
+Immediate return from subarray 174...173 with depth 4
+Immediate return from subarray 174...173 with depth 3
+Immediate return from subarray 174...173 with depth 2
+Immediate return from subarray 174...173 with depth 1
+Immediate return from subarray 174...173 with depth 0
+Sorting subarray 174...217 with depth 1 and pivot seat
+Immediate return from subarray 174...174 with depth 1
+Sorting subarray 175...182 with depth 2 and pivot seat
+Immediate return from subarray 175...174 with depth 2
+Sorting subarray 175...179 with depth 3 and pivot seat
+Immediate return from subarray 175...174 with depth 3
+Sorting subarray 175...179 with depth 4 and pivot seat
+Immediate return from subarray 175...174 with depth 4
+Immediate return from subarray 180...179 with depth 4
+Immediate return from subarray 180...179 with depth 3
+Sorting subarray 180...182 with depth 2 and pivot sex
+Sorting subarray 180...181 with depth 2 and pivot selection
+Immediate return from subarray 180...179 with depth 2
+Immediate return from subarray 180...180 with depth 3
+Immediate return from subarray 181...181 with depth 2
+Immediate return from subarray 182...182 with depth 3
+Immediate return from subarray 183...182 with depth 2
+Sorting subarray 183...217 with depth 1 and pivot steam
+Sorting subarray 183...202 with depth 1 and pivot side
+Immediate return from subarray 183...182 with depth 1
+Sorting subarray 183...187 with depth 2 and pivot sister
+Sorting subarray 183...185 with depth 2 and pivot side
+Immediate return from subarray 183...182 with depth 2
+Sorting subarray 183...185 with depth 3 and pivot side
+Immediate return from subarray 183...182 with depth 3
+Sorting subarray 183...185 with depth 4 and pivot side
+Immediate return from subarray 183...182 with depth 4
+Immediate return from subarray 186...185 with depth 4
+Immediate return from subarray 186...185 with depth 3
+Immediate return from subarray 186...185 with depth 2
+Immediate return from subarray 186...186 with depth 3
+Immediate return from subarray 187...187 with depth 2
+Sorting subarray 188...202 with depth 1 and pivot sky
+Immediate return from subarray 188...187 with depth 1
+Sorting subarray 188...189 with depth 2 and pivot sky
+Immediate return from subarray 188...187 with depth 2
+Sorting subarray 188...189 with depth 3 and pivot sky
+Immediate return from subarray 188...187 with depth 3
+Immediate return from subarray 190...189 with depth 3
+Immediate return from subarray 190...189 with depth 2
+Sorting subarray 190...202 with depth 1 and pivot space
+Sorting subarray 190...200 with depth 1 and pivot sort
+Immediate return from subarray 190...189 with depth 1
+Sorting subarray 190...200 with depth 2 and pivot sound
+Sorting subarray 190...198 with depth 2 and pivot sort
+Sorting subarray 190...196 with depth 2 and pivot song
+Sorting subarray 190...191 with depth 2 and pivot soap
+Immediate return from subarray 190...189 with depth 2
+Sorting subarray 190...191 with depth 3 and pivot soap
+Immediate return from subarray 190...189 with depth 3
+Sorting subarray 190...191 with depth 4 and pivot soap
+Immediate return from subarray 190...189 with depth 4
+Immediate return from subarray 192...191 with depth 4
+Immediate return from subarray 192...191 with depth 3
+Immediate return from subarray 192...191 with depth 2
+Sorting subarray 192...196 with depth 3 and pivot son
+Immediate return from subarray 192...191 with depth 3
+Sorting subarray 195...196 with depth 3 and pivot song
+Immediate return from subarray 195...194 with depth 3
+Sorting subarray 195...196 with depth 4 and pivot song
+Immediate return from subarray 195...194 with depth 4
+Immediate return from subarray 197...196 with depth 4
+Immediate return from subarray 197...196 with depth 3
+Immediate return from subarray 197...196 with depth 2
+Sorting subarray 197...198 with depth 3 and pivot sort
+Immediate return from subarray 197...196 with depth 3
+Sorting subarray 197...198 with depth 4 and pivot sort
+Immediate return from subarray 197...196 with depth 4
+Immediate return from subarray 199...198 with depth 4
+Immediate return from subarray 199...198 with depth 3
+Immediate return from subarray 199...198 with depth 2
+Sorting subarray 199...200 with depth 3 and pivot sound
+Immediate return from subarray 199...198 with depth 3
+Sorting subarray 199...200 with depth 4 and pivot sound
+Immediate return from subarray 199...198 with depth 4
+Sorting subarray 199...200 with depth 5 and pivot sound
+Immediate return from subarray 199...198 with depth 5
+Immediate return from subarray 201...200 with depth 5
+Immediate return from subarray 201...200 with depth 4
+Immediate return from subarray 201...200 with depth 3
+Immediate return from subarray 201...200 with depth 2
+Immediate return from subarray 201...200 with depth 1
+Sorting subarray 201...202 with depth 2 and pivot space
+Immediate return from subarray 201...200 with depth 2
+Sorting subarray 201...202 with depth 3 and pivot space
+Immediate return from subarray 201...200 with depth 3
+Sorting subarray 201...202 with depth 4 and pivot space
+Immediate return from subarray 201...200 with depth 4
+Sorting subarray 201...202 with depth 5 and pivot space
+Immediate return from subarray 201...200 with depth 5
+Immediate return from subarray 203...202 with depth 5
+Immediate return from subarray 203...202 with depth 4
+Immediate return from subarray 203...202 with depth 3
+Immediate return from subarray 203...202 with depth 2
+Immediate return from subarray 203...202 with depth 1
+Sorting subarray 203...215 with depth 2 and pivot steam
+Sorting subarray 203...206 with depth 2 and pivot state
+Immediate return from subarray 203...202 with depth 2
+Sorting subarray 203...206 with depth 3 and pivot state
+Immediate return from subarray 203...202 with depth 3
+Sorting subarray 203...206 with depth 4 and pivot state
+Immediate return from subarray 203...202 with depth 4
+Sorting subarray 203...206 with depth 5 and pivot state
+Immediate return from subarray 203...202 with depth 5
+Immediate return from subarray 206...206 with depth 5
+Immediate return from subarray 207...206 with depth 4
+Immediate return from subarray 207...206 with depth 3
+Immediate return from subarray 207...206 with depth 2
+Sorting subarray 207...210 with depth 3 and pivot steam
+Immediate return from subarray 207...206 with depth 3
+Sorting subarray 207...209 with depth 4 and pivot steam
+Immediate return from subarray 207...206 with depth 4
+Sorting subarray 207...209 with depth 5 and pivot steam
+Immediate return from subarray 207...206 with depth 5
+Immediate return from subarray 210...209 with depth 5
+Immediate return from subarray 210...209 with depth 4
+Immediate return from subarray 210...210 with depth 3
+Sorting subarray 211...215 with depth 2 and pivot stitch
+Immediate return from subarray 211...210 with depth 2
+Sorting subarray 211...213 with depth 3 and pivot stitch
+Immediate return from subarray 211...210 with depth 3
+Sorting subarray 211...213 with depth 4 and pivot stitch
+Immediate return from subarray 211...210 with depth 4
+Sorting subarray 211...213 with depth 5 and pivot stitch
+Immediate return from subarray 211...210 with depth 5
+Sorting subarray 211...213 with depth 6 and pivot stitch
+Immediate return from subarray 211...210 with depth 6
+Immediate return from subarray 214...213 with depth 6
+Immediate return from subarray 214...213 with depth 5
+Immediate return from subarray 214...213 with depth 4
+Immediate return from subarray 214...213 with depth 3
+Sorting subarray 214...215 with depth 2 and pivot structure
+Immediate return from subarray 214...213 with depth 2
+Sorting subarray 214...215 with depth 3 and pivot structure
+Immediate return from subarray 214...213 with depth 3
+Sorting subarray 214...215 with depth 4 and pivot structure
+Immediate return from subarray 214...213 with depth 4
+Sorting subarray 214...215 with depth 5 and pivot structure
+Immediate return from subarray 214...213 with depth 5
+Sorting subarray 214...215 with depth 6 and pivot structure
+Immediate return from subarray 214...213 with depth 6
+Sorting subarray 214...215 with depth 7 and pivot structure
+Immediate return from subarray 214...213 with depth 7
+Sorting subarray 214...215 with depth 8 and pivot structure
+Immediate return from subarray 214...213 with depth 8
+Sorting subarray 214...215 with depth 9 and pivot structure
+Immediate return from subarray 214...213 with depth 9
+Immediate return from subarray 216...215 with depth 9
+Immediate return from subarray 216...215 with depth 8
+Immediate return from subarray 216...215 with depth 7
+Immediate return from subarray 216...215 with depth 6
+Immediate return from subarray 216...215 with depth 5
+Immediate return from subarray 216...215 with depth 4
+Immediate return from subarray 216...215 with depth 3
+Immediate return from subarray 216...215 with depth 2
+Sorting subarray 216...217 with depth 1 and pivot summer
+Immediate return from subarray 216...215 with depth 1
+Sorting subarray 216...217 with depth 2 and pivot summer
+Immediate return from subarray 216...216 with depth 2
+Immediate return from subarray 217...217 with depth 3
+Immediate return from subarray 218...217 with depth 2
+Immediate return from subarray 218...217 with depth 1
+Sorting subarray 218...249 with depth 0 and pivot voice
+Sorting subarray 218...230 with depth 0 and pivot test
+Immediate return from subarray 218...217 with depth 0
+Sorting subarray 218...230 with depth 1 and pivot talk
+Immediate return from subarray 218...217 with depth 1
+Sorting subarray 218...220 with depth 2 and pivot talk
+Immediate return from subarray 218...217 with depth 2
+Sorting subarray 218...220 with depth 3 and pivot talk
+Immediate return from subarray 218...217 with depth 3
+Sorting subarray 218...220 with depth 4 and pivot talk
+Immediate return from subarray 218...217 with depth 4
+Immediate return from subarray 221...220 with depth 4
+Immediate return from subarray 221...220 with depth 3
+Immediate return from subarray 221...220 with depth 2
+Sorting subarray 221...230 with depth 1 and pivot thunder
+Sorting subarray 221...222 with depth 1 and pivot tendency
+Immediate return from subarray 221...220 with depth 1
+Sorting subarray 221...222 with depth 2 and pivot tendency
+Immediate return from subarray 221...220 with depth 2
+Immediate return from subarray 221...221 with depth 3
+Immediate return from subarray 222...222 with depth 2
+Immediate return from subarray 223...222 with depth 1
+Sorting subarray 223...225 with depth 2 and pivot thunder
+Immediate return from subarray 223...223 with depth 2
+Sorting subarray 224...225 with depth 3 and pivot thunder
+Immediate return from subarray 224...223 with depth 3
+Sorting subarray 224...225 with depth 4 and pivot thunder
+Immediate return from subarray 224...223 with depth 4
+Sorting subarray 224...225 with depth 5 and pivot thunder
+Immediate return from subarray 224...223 with depth 5
+Sorting subarray 224...225 with depth 6 and pivot thunder
+Immediate return from subarray 224...223 with depth 6
+Sorting subarray 224...225 with depth 7 and pivot thunder
+Immediate return from subarray 224...223 with depth 7
+Immediate return from subarray 226...225 with depth 7
+Immediate return from subarray 226...225 with depth 6
+Immediate return from subarray 226...225 with depth 5
+Immediate return from subarray 226...225 with depth 4
+Immediate return from subarray 226...225 with depth 3
+Immediate return from subarray 226...225 with depth 2
+Sorting subarray 226...230 with depth 1 and pivot top
+Immediate return from subarray 226...226 with depth 1
+Sorting subarray 227...228 with depth 2 and pivot top
+Immediate return from subarray 227...226 with depth 2
+Sorting subarray 227...228 with depth 3 and pivot top
+Immediate return from subarray 227...226 with depth 3
+Immediate return from subarray 229...228 with depth 3
+Immediate return from subarray 229...228 with depth 2
+Sorting subarray 229...230 with depth 1 and pivot twist
+Immediate return from subarray 229...229 with depth 1
+Immediate return from subarray 230...230 with depth 2
+Immediate return from subarray 231...230 with depth 1
+Immediate return from subarray 231...230 with depth 0
+Sorting subarray 231...238 with depth 1 and pivot value
+Immediate return from subarray 231...230 with depth 1
+Sorting subarray 231...233 with depth 2 and pivot value
+Immediate return from subarray 231...230 with depth 2
+Sorting subarray 231...233 with depth 3 and pivot value
+Immediate return from subarray 231...230 with depth 3
+Sorting subarray 231...233 with depth 4 and pivot value
+Immediate return from subarray 231...230 with depth 4
+Sorting subarray 231...233 with depth 5 and pivot value
+Immediate return from subarray 231...230 with depth 5
+Immediate return from subarray 234...233 with depth 5
+Immediate return from subarray 234...233 with depth 4
+Immediate return from subarray 234...233 with depth 3
+Immediate return from subarray 234...233 with depth 2
+Sorting subarray 234...238 with depth 1 and pivot voice
+Sorting subarray 234...236 with depth 1 and pivot vessel
+Immediate return from subarray 234...233 with depth 1
+Sorting subarray 234...236 with depth 2 and pivot vessel
+Immediate return from subarray 234...233 with depth 2
+Sorting subarray 234...236 with depth 3 and pivot vessel
+Immediate return from subarray 234...233 with depth 3
+Sorting subarray 234...236 with depth 4 and pivot vessel
+Immediate return from subarray 234...233 with depth 4
+Sorting subarray 234...236 with depth 5 and pivot vessel
+Immediate return from subarray 234...233 with depth 5
+Sorting subarray 234...236 with depth 6 and pivot vessel
+Immediate return from subarray 234...233 with depth 6
+Immediate return from subarray 237...236 with depth 6
+Immediate return from subarray 237...236 with depth 5
+Immediate return from subarray 237...236 with depth 4
+Immediate return from subarray 237...236 with depth 3
+Immediate return from subarray 237...236 with depth 2
+Immediate return from subarray 237...236 with depth 1
+Sorting subarray 237...238 with depth 2 and pivot voice
+Immediate return from subarray 237...236 with depth 2
+Sorting subarray 237...238 with depth 3 and pivot voice
+Immediate return from subarray 237...236 with depth 3
+Sorting subarray 237...238 with depth 4 and pivot voice
+Immediate return from subarray 237...236 with depth 4
+Sorting subarray 237...238 with depth 5 and pivot voice
+Immediate return from subarray 237...236 with depth 5
+Immediate return from subarray 239...238 with depth 5
+Immediate return from subarray 239...238 with depth 4
+Immediate return from subarray 239...238 with depth 3
+Immediate return from subarray 239...238 with depth 2
+Immediate return from subarray 239...238 with depth 1
+Sorting subarray 239...249 with depth 0 and pivot work
+Immediate return from subarray 239...238 with depth 0
+Sorting subarray 239...249 with depth 1 and pivot way
+Immediate return from subarray 239...238 with depth 1
+Sorting subarray 239...244 with depth 2 and pivot wash
+Immediate return from subarray 239...238 with depth 2
+Sorting subarray 239...241 with depth 3 and pivot waste
+Immediate return from subarray 239...239 with depth 3
+Sorting subarray 240...241 with depth 4 and pivot waste
+Immediate return from subarray 240...239 with depth 4
+Sorting subarray 240...241 with depth 5 and pivot waste
+Immediate return from subarray 240...239 with depth 5
+Immediate return from subarray 242...241 with depth 5
+Immediate return from subarray 242...241 with depth 4
+Immediate return from subarray 242...241 with depth 3
+Sorting subarray 242...244 with depth 2 and pivot way
+Immediate return from subarray 242...241 with depth 2
+Sorting subarray 242...244 with depth 3 and pivot way
+Immediate return from subarray 242...241 with depth 3
+Immediate return from subarray 245...244 with depth 3
+Immediate return from subarray 245...244 with depth 2
+Sorting subarray 245...249 with depth 1 and pivot wind
+Immediate return from subarray 245...245 with depth 1
+Sorting subarray 246...247 with depth 2 and pivot wind
+Immediate return from subarray 246...245 with depth 2
+Sorting subarray 246...247 with depth 3 and pivot wind
+Immediate return from subarray 246...245 with depth 3
+Sorting subarray 246...247 with depth 4 and pivot wind
+Immediate return from subarray 246...245 with depth 4
+Immediate return from subarray 248...247 with depth 4
+Immediate return from subarray 248...247 with depth 3
+Immediate return from subarray 248...247 with depth 2
+Sorting subarray 248...249 with depth 1 and pivot work
+Immediate return from subarray 248...247 with depth 1
+Sorting subarray 248...249 with depth 2 and pivot work
+Immediate return from subarray 248...248 with depth 2
+Immediate return from subarray 249...249 with depth 3
+Immediate return from subarray 250...249 with depth 2
+Immediate return from subarray 250...249 with depth 1
+Immediate return from subarray 250...249 with depth 0
+Sorted: account account act agree agree agree agree amusement approval argument attempt attract balance belief belief belief belief belief bite blow blow blow bread breath breath brother business butter canvas cloth cloth colour colour comfort comfort committee committee committee company control copy country country country credit crush crush current current death death debt debt destruction destruction destruction destruction disease distribution doubt driving effect exist expert fiction fiction field field flower fruit fruit fruit glass grip grip grip growth harmony harmony harmony hear hear heat heat heat humour ice ice ice insect insect insect instrument jump know know knowledge learn learning lift lift love love love love man man manager market meeting meeting metal mine minute mother mother motion move move move music news offer offer opinion opinion organization organization own owner pain paper part part part paste paste place place play play pleasure pleasure poison process process process process process produce produce punishment punishment punishment purpose quality quality question reading record relation relation relation request request request rest rhythm rhythm rice rice rice rice rice sand seat seat seat seat seat selection servant sex side side side sister size sky sky soap soap son son son song song sort sort sound sound space space state state state statement steam steam steam step stitch stitch stitch structure structure sugar summer talk talk talk tendency test thing thunder thunder tin top top transport twist value value value vessel vessel vessel voice voice wash waste waste way way way weight wind wind wood work

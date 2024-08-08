@@ -1,0 +1,56 @@
+Trie levels:
+ level 1: (0-5, c) (0-1, w)
+ level 2: (1-81, a) (1-33, e) (1-114, i) (1-2, o) (1-24, r) (5-13, a) (5-45, h) (5-126, l) (5-6, o) (5-39, r) (5-66, u)
+ level 3: (2-30, m) (2-137, o) (2-3, r) (6-103, a) (6-62, l) (6-7, m) (6-17, n) (6-75, o) (6-77, p) (6-89, r) (6-98, u) (13-60, r) (13-14, u) (24-25, i) (33-34, a) (33-134, e) (33-41, i) (39-141, e) (39-86, i) (39-40, y) (45-46, a) (66-67, r) (81-139, l) (81-82, r) (81-101, s) (81-113, y) (114-115, n) (126-127, o)
+ level 4: (3-4, d) (3-12, k) (7-119, f) (7-107, m) (7-8, p) (14-15, s) (17-18, d) (17-91, n) (17-56, t) (25-26, t) (30-31, a) (34-35, t) (41-42, g) (46-47, l) (46-72, n) (60-61, d) (60-85, e) (62-63, o) (67-68, r) (67-124, v) (75-76, k) (77-78, p) (86-87, m) (89-90, k) (98-99, g) (98-130, n) (101-102, h) (101-105, t) (103-104, l) (115-123, d) (115-116, t) (127-128, t) (134-135, k) (137-138, l) (139-140, k) (141-142, d)
+ level 5: (8-9, a) (8-49, e) (15-16, e) (18-19, i) (26-27, i) (31-32, n) (35-36, h) (42-43, h) (47-48, k) (56-57, r) (63-64, u) (68-69, e) (72-83, c) (72-73, g) (78-79, e) (85-136, t) (87-88, e) (91-92, e) (99-100, h) (105-106, e) (107-108, i) (116-117, e) (119-120, o) (124-125, e) (128-129, h) (130-131, t) (142-143, i)
+ level 6: (9-10, n) (19-20, t) (27-28, n) (36-37, e) (43-44, t) (49-50, t) (57-58, o) (64-65, r) (69-70, n) (73-74, e) (79-80, r) (83-84, e) (92-93, c) (108-109, t) (117-118, r) (120-121, r) (131-132, r) (143-144, t)
+ level 7: (10-11, y) (20-21, i) (28-29, g) (37-38, r) (50-51, i) (58-59, l) (70-71, t) (93-94, t) (109-110, t) (121-122, t) (132-133, y)
+ level 8: (21-22, o) (51-52, t) (94-95, i) (110-111, e)
+ level 9: (22-23, n) (52-53, i) (95-96, o) (111-112, e)
+ level 10: (53-54, o) (96-97, n)
+ level 11: (54-55, n)
+
+Matching P = compete
+  searching c: [0, 2, w] [0, 1, c]
+  move from 0 to 5 with character P[0] = c
+  searching o: [0, 6, o]
+  move from 5 to 6 with character P[1] = o
+  searching m: [0, 8, o] [0, 4, m]
+  move from 6 to 7 with character P[2] = m
+  searching p: [0, 3, m] [2, 3, p]
+  move from 7 to 8 with character P[3] = p
+  searching e: [0, 2, e]
+  move from 8 to 49 with character P[4] = e
+  searching t: [0, 1, t]
+  move from 49 to 50 with character P[5] = t
+  searching e: [0, 1, i]
+  matching failed at 50 with character P[6] = e
+
+Matching P = car
+  searching c: [0, 2, w] [0, 1, c]
+  move from 0 to 5 with character P[0] = c
+  searching a: [0, 6, o] [0, 3, h] [0, 1, a]
+  move from 5 to 13 with character P[1] = a
+  searching r: [0, 2, u] [0, 1, r]
+  move from 13 to 60 with character P[2] = r
+  P matches with (prefixes of): S14 S22 S34 S40
+
+Matching P = worn
+  searching w: [0, 2, w]
+  move from 0 to 1 with character P[0] = w
+  searching o: [0, 5, i] [3, 5, r] [3, 4, o]
+  move from 1 to 2 with character P[1] = o
+  searching r: [0, 3, o] [2, 3, r]
+  move from 2 to 3 with character P[2] = r
+  searching n: [0, 2, k]
+  matching failed at 3 with character P[3] = n
+
+Matching P = was
+  searching w: [0, 2, w]
+  move from 0 to 1 with character P[0] = w
+  searching a: [0, 5, i] [0, 2, e] [0, 1, a]
+  move from 1 to 81 with character P[1] = a
+  searching s: [0, 4, s]
+  move from 81 to 101 with character P[2] = s
+  P matches with (prefixes of): S27 S29

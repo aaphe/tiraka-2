@@ -1,0 +1,1329 @@
+Edges of the level graph for iteration 1:
+ level 1: 0-1 0-2 0-3 0-4 0-5 0-6 0-7 0-8 0-9 0-10 0-11
+ level 2: 1-14 1-17 1-18 1-21 1-23 1-24 1-27 2-14 2-17 2-19 2-20 2-22 2-25 3-20 3-24 3-25 3-26 4-13 4-16 4-19 4-25 5-15 5-17 5-19 5-20 5-23 5-25 5-27 6-13 6-19 6-21 6-23 7-14 7-18 7-21 7-24 8-12 8-15 8-16 8-18 8-22 8-23 8-24 8-27 9-12 9-19 9-23 9-26 9-27 10-18 10-23 11-12 11-14 11-16 11-17 11-27
+ level 3: 12-28 12-30 12-35 12-36 13-28 13-29 13-31 13-32 13-33 13-35 13-37 14-28 14-30 14-31 14-34 14-35 14-36 15-29 15-32 15-36 15-37 16-29 16-33 16-37 17-30 17-32 17-36 17-37 18-32 18-35 19-32 19-34 19-35 19-37 20-28 20-30 20-35 21-33 22-28 22-30 22-34 22-35 23-29 23-31 23-32 23-33 23-35 24-30 25-30 25-31 25-34 25-36 25-37 26-32 26-37 27-28 27-29 27-31 27-35
+ level 4: 28-40 28-41 28-45 28-47 28-48 29-38 29-40 29-42 29-44 29-48 30-40 30-46 31-40 31-41 31-44 32-39 32-41 32-44 33-40 33-43 33-44 33-49 34-40 34-42 34-46 35-40 35-44 35-46 36-39 36-42 36-44 36-45 37-39 37-43
+ level 5: 38-50 38-54 38-58 39-54 40-52 41-50 41-53 41-54 42-52 43-52 43-53 43-59 44-51 44-52 45-54 45-56 45-57 45-59 46-56 46-57 46-59 47-50 47-56 48-53 48-54 48-58 48-59 49-58
+ level 6: 50-60 50-64 51-64 51-66 51-68 52-62 52-67 52-69 53-69 54-55 54-61 54-64 54-69 56-63 56-68 57-63 57-69 58-55 58-68 58-69 59-67 59-68
+ level 7: 55-65 60-76 61-70 61-79 62-74 62-76 63-73 63-75 63-78 64-65 64-77 66-71 66-76 66-79 67-71 67-72 67-78 68-78 69-75 69-78
+ level 8: 65-80 70-88 70-94 71-85 71-87 71-89 72-84 72-91 72-94 73-88 73-90 73-93 74-84 74-89 74-92 74-94 75-81 75-85 75-94 76-83 76-88 77-86 77-88 78-82 78-88 79-85
+ level 9: 81-95 82-95 83-95 84-95 85-95 86-95 87-95 88-95 89-95 90-95 91-95 92-95 93-95 94-95
+DFS steps from 0 to 1 with available capacity 10
+DFS steps from 1 to 14 with available capacity 16
+DFS steps from 14 to 28 with available capacity 14
+DFS steps from 28 to 40 with available capacity 8
+DFS steps from 40 to 52 with available capacity 17
+DFS steps from 52 to 62 with available capacity 5
+DFS steps from 62 to 74 with available capacity 22
+DFS steps from 74 to 84 with available capacity 13
+DFS steps from 84 to 95 with available capacity 17
+Found a path with capacity 5: 0 1 14 28 40 52 62 74 84 95
+DFS steps from 0 to 1 with available capacity 5
+DFS steps from 1 to 14 with available capacity 11
+DFS steps from 14 to 28 with available capacity 9
+DFS steps from 28 to 40 with available capacity 3
+DFS steps from 40 to 52 with available capacity 12
+DFS steps from 52 to 67 with available capacity 19
+DFS steps from 67 to 71 with available capacity 22
+DFS steps from 71 to 85 with available capacity 18
+DFS steps from 85 to 95 with available capacity 4
+Found a path with capacity 3: 0 1 14 28 40 52 67 71 85 95
+DFS steps from 0 to 1 with available capacity 2
+DFS steps from 1 to 14 with available capacity 8
+DFS steps from 14 to 28 with available capacity 6
+DFS steps from 28 to 41 with available capacity 23
+DFS steps from 41 to 50 with available capacity 25
+DFS steps from 50 to 60 with available capacity 13
+DFS steps from 60 to 76 with available capacity 15
+DFS steps from 76 to 83 with available capacity 19
+DFS steps from 83 to 95 with available capacity 18
+Found a path with capacity 2: 0 1 14 28 41 50 60 76 83 95
+DFS steps from 0 to 2 with available capacity 19
+DFS steps from 2 to 14 with available capacity 4
+DFS steps from 14 to 28 with available capacity 4
+DFS steps from 28 to 41 with available capacity 21
+DFS steps from 41 to 50 with available capacity 23
+DFS steps from 50 to 60 with available capacity 11
+DFS steps from 60 to 76 with available capacity 13
+DFS steps from 76 to 83 with available capacity 17
+DFS steps from 83 to 95 with available capacity 16
+Found a path with capacity 4: 0 2 14 28 41 50 60 76 83 95
+DFS steps from 0 to 2 with available capacity 15
+DFS steps from 2 to 17 with available capacity 12
+DFS steps from 17 to 30 with available capacity 22
+DFS steps from 30 to 40 with available capacity 22
+DFS steps from 40 to 52 with available capacity 9
+DFS steps from 52 to 67 with available capacity 16
+DFS steps from 67 to 71 with available capacity 19
+DFS steps from 71 to 85 with available capacity 15
+DFS steps from 85 to 95 with available capacity 1
+Found a path with capacity 1: 0 2 17 30 40 52 67 71 85 95
+DFS steps from 0 to 2 with available capacity 14
+DFS steps from 2 to 17 with available capacity 11
+DFS steps from 17 to 30 with available capacity 21
+DFS steps from 30 to 40 with available capacity 21
+DFS steps from 40 to 52 with available capacity 8
+DFS steps from 52 to 67 with available capacity 15
+DFS steps from 67 to 71 with available capacity 18
+DFS steps from 71 to 85 with available capacity 14
+DFS backtracks from 85 to 71
+DFS steps from 71 to 87 with available capacity 17
+DFS steps from 87 to 95 with available capacity 2
+Found a path with capacity 2: 0 2 17 30 40 52 67 71 87 95
+DFS steps from 0 to 2 with available capacity 12
+DFS steps from 2 to 17 with available capacity 9
+DFS steps from 17 to 30 with available capacity 19
+DFS steps from 30 to 40 with available capacity 19
+DFS steps from 40 to 52 with available capacity 6
+DFS steps from 52 to 67 with available capacity 13
+DFS steps from 67 to 71 with available capacity 16
+DFS steps from 71 to 87 with available capacity 15
+DFS backtracks from 87 to 71
+DFS steps from 71 to 89 with available capacity 9
+DFS steps from 89 to 95 with available capacity 11
+Found a path with capacity 6: 0 2 17 30 40 52 67 71 89 95
+DFS steps from 0 to 2 with available capacity 6
+DFS steps from 2 to 17 with available capacity 3
+DFS steps from 17 to 30 with available capacity 13
+DFS steps from 30 to 40 with available capacity 13
+DFS backtracks from 40 to 30
+DFS steps from 30 to 46 with available capacity 3
+DFS steps from 46 to 56 with available capacity 23
+DFS steps from 56 to 63 with available capacity 12
+DFS steps from 63 to 73 with available capacity 7
+DFS steps from 73 to 88 with available capacity 5
+DFS steps from 88 to 95 with available capacity 8
+Found a path with capacity 3: 0 2 17 30 46 56 63 73 88 95
+DFS steps from 0 to 2 with available capacity 3
+DFS steps from 2 to 19 with available capacity 19
+DFS steps from 19 to 32 with available capacity 17
+DFS steps from 32 to 39 with available capacity 5
+DFS steps from 39 to 54 with available capacity 11
+DFS steps from 54 to 55 with available capacity 7
+DFS steps from 55 to 65 with available capacity 7
+DFS steps from 65 to 80 with available capacity 25
+DFS backtracks from 80 to 65
+DFS backtracks from 65 to 55
+DFS backtracks from 55 to 54
+DFS steps from 54 to 61 with available capacity 23
+DFS steps from 61 to 70 with available capacity 3
+DFS steps from 70 to 88 with available capacity 10
+DFS steps from 88 to 95 with available capacity 5
+Found a path with capacity 3: 0 2 19 32 39 54 61 70 88 95
+DFS steps from 0 to 3 with available capacity 14
+DFS steps from 3 to 20 with available capacity 21
+DFS steps from 20 to 28 with available capacity 24
+DFS steps from 28 to 41 with available capacity 17
+DFS steps from 41 to 50 with available capacity 19
+DFS steps from 50 to 60 with available capacity 7
+DFS steps from 60 to 76 with available capacity 9
+DFS steps from 76 to 83 with available capacity 13
+DFS steps from 83 to 95 with available capacity 12
+Found a path with capacity 7: 0 3 20 28 41 50 60 76 83 95
+DFS steps from 0 to 3 with available capacity 7
+DFS steps from 3 to 20 with available capacity 14
+DFS steps from 20 to 28 with available capacity 17
+DFS steps from 28 to 41 with available capacity 10
+DFS steps from 41 to 50 with available capacity 12
+DFS steps from 50 to 64 with available capacity 25
+DFS steps from 64 to 77 with available capacity 21
+DFS steps from 77 to 86 with available capacity 8
+DFS steps from 86 to 95 with available capacity 4
+Found a path with capacity 4: 0 3 20 28 41 50 64 77 86 95
+DFS steps from 0 to 3 with available capacity 3
+DFS steps from 3 to 20 with available capacity 10
+DFS steps from 20 to 28 with available capacity 13
+DFS steps from 28 to 41 with available capacity 6
+DFS steps from 41 to 50 with available capacity 8
+DFS steps from 50 to 64 with available capacity 21
+DFS steps from 64 to 77 with available capacity 17
+DFS steps from 77 to 86 with available capacity 4
+DFS backtracks from 86 to 77
+DFS steps from 77 to 88 with available capacity 4
+DFS steps from 88 to 95 with available capacity 2
+Found a path with capacity 2: 0 3 20 28 41 50 64 77 88 95
+DFS steps from 0 to 3 with available capacity 1
+DFS steps from 3 to 20 with available capacity 8
+DFS steps from 20 to 28 with available capacity 11
+DFS steps from 28 to 41 with available capacity 4
+DFS steps from 41 to 50 with available capacity 6
+DFS steps from 50 to 64 with available capacity 19
+DFS steps from 64 to 77 with available capacity 15
+DFS steps from 77 to 88 with available capacity 2
+DFS backtracks from 88 to 77
+DFS backtracks from 77 to 64
+DFS backtracks from 64 to 50
+DFS backtracks from 50 to 41
+DFS steps from 41 to 53 with available capacity 10
+DFS steps from 53 to 69 with available capacity 23
+DFS steps from 69 to 75 with available capacity 10
+DFS steps from 75 to 81 with available capacity 6
+DFS steps from 81 to 95 with available capacity 18
+Found a path with capacity 1: 0 3 20 28 41 53 69 75 81 95
+DFS steps from 0 to 4 with available capacity 19
+DFS steps from 4 to 13 with available capacity 22
+DFS steps from 13 to 28 with available capacity 6
+DFS steps from 28 to 41 with available capacity 3
+DFS steps from 41 to 53 with available capacity 9
+DFS steps from 53 to 69 with available capacity 22
+DFS steps from 69 to 75 with available capacity 9
+DFS steps from 75 to 81 with available capacity 5
+DFS steps from 81 to 95 with available capacity 17
+Found a path with capacity 3: 0 4 13 28 41 53 69 75 81 95
+DFS steps from 0 to 4 with available capacity 16
+DFS steps from 4 to 13 with available capacity 19
+DFS steps from 13 to 28 with available capacity 3
+DFS steps from 28 to 45 with available capacity 13
+DFS steps from 45 to 54 with available capacity 2
+DFS steps from 54 to 61 with available capacity 20
+DFS steps from 61 to 79 with available capacity 25
+DFS backtracks from 79 to 61
+DFS backtracks from 61 to 54
+DFS steps from 54 to 69 with available capacity 20
+DFS steps from 69 to 75 with available capacity 6
+DFS steps from 75 to 81 with available capacity 2
+DFS steps from 81 to 95 with available capacity 14
+Found a path with capacity 2: 0 4 13 28 45 54 69 75 81 95
+DFS steps from 0 to 4 with available capacity 14
+DFS steps from 4 to 13 with available capacity 17
+DFS steps from 13 to 28 with available capacity 1
+DFS steps from 28 to 45 with available capacity 11
+DFS steps from 45 to 56 with available capacity 14
+DFS steps from 56 to 63 with available capacity 9
+DFS steps from 63 to 73 with available capacity 4
+DFS steps from 73 to 90 with available capacity 18
+DFS steps from 90 to 95 with available capacity 12
+Found a path with capacity 1: 0 4 13 28 45 56 63 73 90 95
+DFS steps from 0 to 4 with available capacity 13
+DFS steps from 4 to 13 with available capacity 16
+DFS steps from 13 to 29 with available capacity 10
+DFS steps from 29 to 38 with available capacity 14
+DFS steps from 38 to 54 with available capacity 16
+DFS steps from 54 to 69 with available capacity 18
+DFS steps from 69 to 75 with available capacity 4
+DFS steps from 75 to 94 with available capacity 3
+DFS steps from 94 to 95 with available capacity 23
+Found a path with capacity 3: 0 4 13 29 38 54 69 75 94 95
+DFS steps from 0 to 4 with available capacity 10
+DFS steps from 4 to 13 with available capacity 13
+DFS steps from 13 to 29 with available capacity 7
+DFS steps from 29 to 38 with available capacity 11
+DFS steps from 38 to 54 with available capacity 13
+DFS steps from 54 to 69 with available capacity 15
+DFS steps from 69 to 75 with available capacity 1
+DFS backtracks from 75 to 69
+DFS steps from 69 to 78 with available capacity 10
+DFS steps from 78 to 82 with available capacity 19
+DFS steps from 82 to 95 with available capacity 6
+Found a path with capacity 6: 0 4 13 29 38 54 69 78 82 95
+DFS steps from 0 to 4 with available capacity 4
+DFS steps from 4 to 13 with available capacity 7
+DFS steps from 13 to 29 with available capacity 1
+DFS steps from 29 to 38 with available capacity 5
+DFS steps from 38 to 54 with available capacity 7
+DFS steps from 54 to 69 with available capacity 9
+DFS steps from 69 to 78 with available capacity 4
+DFS steps from 78 to 82 with available capacity 13
+DFS backtracks from 82 to 78
+DFS backtracks from 78 to 69
+DFS backtracks from 69 to 54
+DFS backtracks from 54 to 38
+DFS steps from 38 to 58 with available capacity 22
+DFS steps from 58 to 68 with available capacity 5
+DFS backtracks from 68 to 58
+DFS backtracks from 58 to 38
+DFS backtracks from 38 to 29
+DFS steps from 29 to 42 with available capacity 5
+DFS steps from 42 to 52 with available capacity 18
+DFS steps from 52 to 67 with available capacity 7
+DFS steps from 67 to 71 with available capacity 10
+DFS steps from 71 to 89 with available capacity 3
+DFS steps from 89 to 95 with available capacity 5
+Found a path with capacity 1: 0 4 13 29 42 52 67 71 89 95
+DFS steps from 0 to 4 with available capacity 3
+DFS steps from 4 to 13 with available capacity 6
+DFS steps from 13 to 31 with available capacity 8
+DFS steps from 31 to 41 with available capacity 13
+DFS steps from 41 to 53 with available capacity 6
+DFS backtracks from 53 to 41
+DFS backtracks from 41 to 31
+DFS steps from 31 to 44 with available capacity 12
+DFS steps from 44 to 51 with available capacity 22
+DFS steps from 51 to 66 with available capacity 3
+DFS steps from 66 to 71 with available capacity 16
+DFS steps from 71 to 89 with available capacity 2
+DFS steps from 89 to 95 with available capacity 4
+Found a path with capacity 2: 0 4 13 31 44 51 66 71 89 95
+DFS steps from 0 to 4 with available capacity 1
+DFS steps from 4 to 13 with available capacity 4
+DFS steps from 13 to 31 with available capacity 6
+DFS steps from 31 to 44 with available capacity 10
+DFS steps from 44 to 51 with available capacity 20
+DFS steps from 51 to 66 with available capacity 1
+DFS steps from 66 to 71 with available capacity 14
+DFS backtracks from 71 to 66
+DFS steps from 66 to 76 with available capacity 3
+DFS steps from 76 to 83 with available capacity 6
+DFS steps from 83 to 95 with available capacity 5
+Found a path with capacity 1: 0 4 13 31 44 51 66 76 83 95
+DFS steps from 0 to 5 with available capacity 24
+DFS steps from 5 to 15 with available capacity 14
+DFS steps from 15 to 29 with available capacity 8
+DFS steps from 29 to 42 with available capacity 4
+DFS steps from 42 to 52 with available capacity 17
+DFS steps from 52 to 67 with available capacity 6
+DFS steps from 67 to 72 with available capacity 18
+DFS steps from 72 to 84 with available capacity 7
+DFS steps from 84 to 95 with available capacity 12
+Found a path with capacity 4: 0 5 15 29 42 52 67 72 84 95
+DFS steps from 0 to 5 with available capacity 20
+DFS steps from 5 to 15 with available capacity 10
+DFS steps from 15 to 29 with available capacity 4
+DFS steps from 29 to 44 with available capacity 6
+DFS steps from 44 to 51 with available capacity 19
+DFS backtracks from 51 to 44
+DFS steps from 44 to 52 with available capacity 16
+DFS steps from 52 to 67 with available capacity 2
+DFS steps from 67 to 72 with available capacity 14
+DFS steps from 72 to 84 with available capacity 3
+DFS steps from 84 to 95 with available capacity 8
+Found a path with capacity 2: 0 5 15 29 44 52 67 72 84 95
+DFS steps from 0 to 5 with available capacity 18
+DFS steps from 5 to 15 with available capacity 8
+DFS steps from 15 to 29 with available capacity 2
+DFS steps from 29 to 44 with available capacity 4
+DFS steps from 44 to 52 with available capacity 14
+DFS backtracks from 52 to 44
+DFS backtracks from 44 to 29
+DFS steps from 29 to 48 with available capacity 13
+DFS steps from 48 to 59 with available capacity 20
+DFS steps from 59 to 67 with available capacity 20
+DFS steps from 67 to 72 with available capacity 12
+DFS steps from 72 to 84 with available capacity 1
+DFS steps from 84 to 95 with available capacity 6
+Found a path with capacity 1: 0 5 15 29 48 59 67 72 84 95
+DFS steps from 0 to 5 with available capacity 17
+DFS steps from 5 to 15 with available capacity 7
+DFS steps from 15 to 29 with available capacity 1
+DFS steps from 29 to 48 with available capacity 12
+DFS steps from 48 to 59 with available capacity 19
+DFS steps from 59 to 67 with available capacity 19
+DFS steps from 67 to 72 with available capacity 11
+DFS steps from 72 to 91 with available capacity 21
+DFS steps from 91 to 95 with available capacity 12
+Found a path with capacity 1: 0 5 15 29 48 59 67 72 91 95
+DFS steps from 0 to 5 with available capacity 16
+DFS steps from 5 to 15 with available capacity 6
+DFS steps from 15 to 32 with available capacity 9
+DFS steps from 32 to 39 with available capacity 2
+DFS backtracks from 39 to 32
+DFS backtracks from 32 to 15
+DFS steps from 15 to 36 with available capacity 10
+DFS steps from 36 to 42 with available capacity 11
+DFS backtracks from 42 to 36
+DFS steps from 36 to 45 with available capacity 18
+DFS steps from 45 to 56 with available capacity 13
+DFS steps from 56 to 63 with available capacity 8
+DFS steps from 63 to 73 with available capacity 3
+DFS steps from 73 to 90 with available capacity 17
+DFS steps from 90 to 95 with available capacity 11
+Found a path with capacity 3: 0 5 15 36 45 56 63 73 90 95
+DFS steps from 0 to 5 with available capacity 13
+DFS steps from 5 to 15 with available capacity 3
+DFS steps from 15 to 36 with available capacity 7
+DFS steps from 36 to 45 with available capacity 15
+DFS steps from 45 to 56 with available capacity 10
+DFS steps from 56 to 63 with available capacity 5
+DFS backtracks from 63 to 56
+DFS backtracks from 56 to 45
+DFS steps from 45 to 57 with available capacity 5
+DFS backtracks from 57 to 45
+DFS steps from 45 to 59 with available capacity 24
+DFS steps from 59 to 67 with available capacity 18
+DFS steps from 67 to 72 with available capacity 10
+DFS steps from 72 to 91 with available capacity 20
+DFS steps from 91 to 95 with available capacity 11
+Found a path with capacity 3: 0 5 15 36 45 59 67 72 91 95
+DFS steps from 0 to 5 with available capacity 10
+DFS steps from 5 to 17 with available capacity 3
+DFS steps from 17 to 30 with available capacity 10
+DFS backtracks from 30 to 17
+DFS steps from 17 to 36 with available capacity 16
+DFS steps from 36 to 45 with available capacity 12
+DFS steps from 45 to 59 with available capacity 21
+DFS steps from 59 to 67 with available capacity 15
+DFS steps from 67 to 72 with available capacity 7
+DFS steps from 72 to 91 with available capacity 17
+DFS steps from 91 to 95 with available capacity 8
+Found a path with capacity 3: 0 5 17 36 45 59 67 72 91 95
+DFS steps from 0 to 5 with available capacity 7
+DFS steps from 5 to 19 with available capacity 17
+DFS steps from 19 to 34 with available capacity 4
+DFS steps from 34 to 46 with available capacity 7
+DFS steps from 46 to 59 with available capacity 20
+DFS steps from 59 to 67 with available capacity 12
+DFS steps from 67 to 72 with available capacity 4
+DFS steps from 72 to 91 with available capacity 14
+DFS steps from 91 to 95 with available capacity 5
+Found a path with capacity 4: 0 5 19 34 46 59 67 72 91 95
+DFS steps from 0 to 5 with available capacity 3
+DFS steps from 5 to 19 with available capacity 13
+DFS steps from 19 to 35 with available capacity 11
+DFS steps from 35 to 46 with available capacity 13
+DFS steps from 46 to 59 with available capacity 16
+DFS steps from 59 to 67 with available capacity 8
+DFS backtracks from 67 to 59
+DFS backtracks from 59 to 46
+DFS backtracks from 46 to 35
+DFS backtracks from 35 to 19
+DFS steps from 19 to 37 with available capacity 8
+DFS steps from 37 to 43 with available capacity 12
+DFS backtracks from 43 to 37
+DFS backtracks from 37 to 19
+DFS backtracks from 19 to 5
+DFS steps from 5 to 20 with available capacity 24
+DFS steps from 20 to 28 with available capacity 10
+DFS steps from 28 to 45 with available capacity 10
+DFS backtracks from 45 to 28
+DFS steps from 28 to 47 with available capacity 25
+DFS backtracks from 47 to 28
+DFS steps from 28 to 48 with available capacity 25
+DFS backtracks from 48 to 28
+DFS backtracks from 28 to 20
+DFS backtracks from 20 to 5
+DFS steps from 5 to 23 with available capacity 3
+DFS steps from 23 to 29 with available capacity 16
+DFS backtracks from 29 to 23
+DFS steps from 23 to 31 with available capacity 22
+DFS backtracks from 31 to 23
+DFS steps from 23 to 33 with available capacity 21
+DFS steps from 33 to 49 with available capacity 25
+DFS backtracks from 49 to 33
+DFS backtracks from 33 to 23
+DFS backtracks from 23 to 5
+DFS steps from 5 to 25 with available capacity 25
+DFS steps from 25 to 34 with available capacity 7
+DFS backtracks from 34 to 25
+DFS steps from 25 to 36 with available capacity 2
+DFS backtracks from 36 to 25
+DFS backtracks from 25 to 5
+DFS steps from 5 to 27 with available capacity 17
+DFS backtracks from 27 to 5
+DFS backtracks from 5 to 0
+DFS steps from 0 to 6 with available capacity 13
+DFS steps from 6 to 13 with available capacity 23
+DFS backtracks from 13 to 6
+DFS steps from 6 to 21 with available capacity 23
+DFS backtracks from 21 to 6
+DFS backtracks from 6 to 0
+DFS steps from 0 to 7 with available capacity 19
+DFS steps from 7 to 14 with available capacity 5
+DFS backtracks from 14 to 7
+DFS steps from 7 to 18 with available capacity 1
+DFS backtracks from 18 to 7
+DFS steps from 7 to 24 with available capacity 2
+DFS backtracks from 24 to 7
+DFS backtracks from 7 to 0
+DFS steps from 0 to 8 with available capacity 15
+DFS steps from 8 to 12 with available capacity 3
+DFS backtracks from 12 to 8
+DFS steps from 8 to 15 with available capacity 5
+DFS backtracks from 15 to 8
+DFS steps from 8 to 16 with available capacity 7
+DFS backtracks from 16 to 8
+DFS steps from 8 to 22 with available capacity 6
+DFS backtracks from 22 to 8
+DFS backtracks from 8 to 0
+DFS steps from 0 to 9 with available capacity 7
+DFS steps from 9 to 26 with available capacity 19
+DFS backtracks from 26 to 9
+DFS backtracks from 9 to 0
+DFS steps from 0 to 10 with available capacity 13
+DFS backtracks from 10 to 0
+DFS steps from 0 to 11 with available capacity 10
+DFS steps from 11 to 17 with available capacity 18
+DFS backtracks from 17 to 11
+DFS backtracks from 11 to 0
+
+Edges of the level graph for iteration 2:
+ level 1: 0-5 0-6 0-7 0-8 0-9 0-10 0-11
+ level 2: 5-1 5-19 5-20 5-23 5-25 5-27 6-1 6-2 6-13 6-19 6-21 6-23 7-2 7-14 7-18 7-21 7-24 8-1 8-12 8-15 8-16 8-18 8-22 8-23 8-24 8-27 9-1 9-2 9-12 9-19 9-23 9-26 9-27 10-1 10-4 10-18 10-23 11-2 11-3 11-12 11-14 11-16 11-17 11-27
+ level 3: 12-28 12-30 12-35 12-36 13-31 13-32 13-33 13-35 13-37 14-30 14-31 14-34 14-35 14-36 15-32 15-36 15-37 16-29 16-33 16-37 17-30 17-32 17-36 17-37 18-32 18-35 19-32 19-35 19-37 20-28 20-30 20-35 21-33 22-28 22-30 22-34 22-35 23-29 23-31 23-32 23-33 23-35 24-30 25-30 25-31 25-34 25-36 25-37 26-32 26-37 27-28 27-29 27-31 27-35
+ level 4: 28-45 28-47 28-48 29-38 29-40 29-44 29-48 30-40 31-40 31-41 31-44 32-39 32-41 32-44 33-40 33-43 33-44 33-49 34-40 34-42 34-46 35-40 35-44 35-46 36-39 36-42 36-44 36-45 37-39 37-43
+ level 5: 38-50 38-54 38-58 39-54 41-50 41-53 41-54 42-52 43-52 43-53 43-59 44-51 44-52 45-56 45-57 45-59 46-56 46-57 46-59 47-50 47-56 48-53 48-54 48-58 48-59 49-58
+ level 6: 50-64 51-64 51-68 52-69 53-69 54-55 54-61 54-64 54-69 56-63 56-68 57-63 57-69 58-55 58-68 58-69 59-67 59-68
+ level 7: 55-65 55-66 61-79 63-75 63-78 64-65 64-77 67-71 67-78 68-66 68-78 69-75 69-78
+ level 8: 65-70 65-73 65-80 66-76 71-76 71-85 71-87 75-85 77-70 77-86 77-88 78-70 78-82 78-88 79-62 79-85
+ level 9: 60-76 62-74 70-94 73-90 73-93 76-83 80-84 85-94 86-60 86-92
+ level 10: 72-84 74-89 83-95 84-95 90-95 92-91 92-95 93-95 94-95
+DFS steps from 0 to 5 with available capacity 3
+DFS steps from 5 to 1 with available capacity 4
+DFS backtracks from 1 to 5
+DFS steps from 5 to 19 with available capacity 13
+DFS steps from 19 to 32 with available capacity 14
+DFS steps from 32 to 39 with available capacity 2
+DFS steps from 39 to 54 with available capacity 8
+DFS steps from 54 to 55 with available capacity 7
+DFS steps from 55 to 65 with available capacity 7
+DFS steps from 65 to 70 with available capacity 12
+DFS steps from 70 to 94 with available capacity 24
+DFS steps from 94 to 95 with available capacity 20
+Found a path with capacity 2: 0 5 19 32 39 54 55 65 70 94 95
+DFS steps from 0 to 5 with available capacity 1
+DFS steps from 5 to 19 with available capacity 11
+DFS steps from 19 to 32 with available capacity 12
+DFS steps from 32 to 41 with available capacity 17
+DFS steps from 41 to 50 with available capacity 6
+DFS steps from 50 to 64 with available capacity 19
+DFS steps from 64 to 65 with available capacity 11
+DFS steps from 65 to 70 with available capacity 10
+DFS steps from 70 to 94 with available capacity 22
+DFS steps from 94 to 95 with available capacity 18
+Found a path with capacity 1: 0 5 19 32 41 50 64 65 70 94 95
+DFS steps from 0 to 6 with available capacity 13
+DFS steps from 6 to 2 with available capacity 22
+DFS backtracks from 2 to 6
+DFS steps from 6 to 13 with available capacity 23
+DFS steps from 13 to 31 with available capacity 5
+DFS steps from 31 to 40 with available capacity 13
+DFS backtracks from 40 to 31
+DFS steps from 31 to 41 with available capacity 13
+DFS steps from 41 to 50 with available capacity 5
+DFS steps from 50 to 64 with available capacity 18
+DFS steps from 64 to 65 with available capacity 10
+DFS steps from 65 to 70 with available capacity 9
+DFS steps from 70 to 94 with available capacity 21
+DFS steps from 94 to 95 with available capacity 17
+Found a path with capacity 5: 0 6 13 31 41 50 64 65 70 94 95
+DFS steps from 0 to 6 with available capacity 8
+DFS steps from 6 to 13 with available capacity 18
+DFS steps from 13 to 32 with available capacity 23
+DFS steps from 32 to 41 with available capacity 16
+DFS steps from 41 to 53 with available capacity 6
+DFS steps from 53 to 69 with available capacity 19
+DFS steps from 69 to 75 with available capacity 1
+DFS steps from 75 to 85 with available capacity 7
+DFS steps from 85 to 94 with available capacity 16
+DFS steps from 94 to 95 with available capacity 12
+Found a path with capacity 1: 0 6 13 32 41 53 69 75 85 94 95
+DFS steps from 0 to 6 with available capacity 7
+DFS steps from 6 to 13 with available capacity 17
+DFS steps from 13 to 32 with available capacity 22
+DFS steps from 32 to 41 with available capacity 15
+DFS steps from 41 to 53 with available capacity 5
+DFS steps from 53 to 69 with available capacity 18
+DFS steps from 69 to 78 with available capacity 4
+DFS steps from 78 to 70 with available capacity 19
+DFS steps from 70 to 94 with available capacity 16
+DFS steps from 94 to 95 with available capacity 11
+Found a path with capacity 4: 0 6 13 32 41 53 69 78 70 94 95
+DFS steps from 0 to 6 with available capacity 3
+DFS steps from 6 to 13 with available capacity 13
+DFS steps from 13 to 32 with available capacity 18
+DFS steps from 32 to 41 with available capacity 11
+DFS steps from 41 to 53 with available capacity 1
+DFS steps from 53 to 69 with available capacity 14
+DFS backtracks from 69 to 53
+DFS backtracks from 53 to 41
+DFS steps from 41 to 54 with available capacity 1
+DFS steps from 54 to 55 with available capacity 5
+DFS steps from 55 to 65 with available capacity 5
+DFS steps from 65 to 70 with available capacity 4
+DFS steps from 70 to 94 with available capacity 12
+DFS steps from 94 to 95 with available capacity 7
+Found a path with capacity 1: 0 6 13 32 41 54 55 65 70 94 95
+DFS steps from 0 to 6 with available capacity 2
+DFS steps from 6 to 13 with available capacity 12
+DFS steps from 13 to 32 with available capacity 17
+DFS steps from 32 to 41 with available capacity 10
+DFS backtracks from 41 to 32
+DFS steps from 32 to 44 with available capacity 6
+DFS steps from 44 to 51 with available capacity 19
+DFS steps from 51 to 64 with available capacity 17
+DFS steps from 64 to 65 with available capacity 5
+DFS steps from 65 to 70 with available capacity 3
+DFS steps from 70 to 94 with available capacity 11
+DFS steps from 94 to 95 with available capacity 6
+Found a path with capacity 2: 0 6 13 32 44 51 64 65 70 94 95
+DFS steps from 0 to 7 with available capacity 19
+DFS steps from 7 to 14 with available capacity 5
+DFS steps from 14 to 30 with available capacity 23
+DFS backtracks from 30 to 14
+DFS steps from 14 to 31 with available capacity 9
+DFS steps from 31 to 44 with available capacity 9
+DFS steps from 44 to 51 with available capacity 17
+DFS steps from 51 to 64 with available capacity 15
+DFS steps from 64 to 65 with available capacity 3
+DFS steps from 65 to 70 with available capacity 1
+DFS steps from 70 to 94 with available capacity 9
+DFS steps from 94 to 95 with available capacity 4
+Found a path with capacity 1: 0 7 14 31 44 51 64 65 70 94 95
+DFS steps from 0 to 7 with available capacity 18
+DFS steps from 7 to 14 with available capacity 4
+DFS steps from 14 to 31 with available capacity 8
+DFS steps from 31 to 44 with available capacity 8
+DFS steps from 44 to 51 with available capacity 16
+DFS steps from 51 to 64 with available capacity 14
+DFS steps from 64 to 65 with available capacity 2
+DFS steps from 65 to 73 with available capacity 17
+DFS steps from 73 to 90 with available capacity 14
+DFS steps from 90 to 95 with available capacity 8
+Found a path with capacity 2: 0 7 14 31 44 51 64 65 73 90 95
+DFS steps from 0 to 7 with available capacity 16
+DFS steps from 7 to 14 with available capacity 2
+DFS steps from 14 to 31 with available capacity 6
+DFS steps from 31 to 44 with available capacity 6
+DFS steps from 44 to 51 with available capacity 14
+DFS steps from 51 to 64 with available capacity 12
+DFS steps from 64 to 77 with available capacity 15
+DFS steps from 77 to 70 with available capacity 5
+DFS steps from 70 to 94 with available capacity 8
+DFS steps from 94 to 95 with available capacity 3
+Found a path with capacity 2: 0 7 14 31 44 51 64 77 70 94 95
+DFS steps from 0 to 7 with available capacity 14
+DFS steps from 7 to 18 with available capacity 1
+DFS steps from 18 to 32 with available capacity 6
+DFS steps from 32 to 44 with available capacity 4
+DFS steps from 44 to 51 with available capacity 12
+DFS steps from 51 to 64 with available capacity 10
+DFS steps from 64 to 77 with available capacity 13
+DFS steps from 77 to 70 with available capacity 3
+DFS steps from 70 to 94 with available capacity 6
+DFS steps from 94 to 95 with available capacity 1
+Found a path with capacity 1: 0 7 18 32 44 51 64 77 70 94 95
+DFS steps from 0 to 7 with available capacity 13
+DFS steps from 7 to 21 with available capacity 10
+DFS steps from 21 to 33 with available capacity 18
+DFS steps from 33 to 43 with available capacity 16
+DFS steps from 43 to 52 with available capacity 24
+DFS backtracks from 52 to 43
+DFS steps from 43 to 59 with available capacity 6
+DFS steps from 59 to 67 with available capacity 8
+DFS steps from 67 to 71 with available capacity 9
+DFS steps from 71 to 76 with available capacity 1
+DFS steps from 76 to 60 with available reverse capacity 13
+DFS backtracks from 60 to 76
+DFS steps from 76 to 83 with available capacity 5
+DFS steps from 83 to 95 with available capacity 4
+Found a path with capacity 1: 0 7 21 33 43 59 67 71 76 83 95
+DFS steps from 0 to 7 with available capacity 12
+DFS steps from 7 to 21 with available capacity 9
+DFS steps from 21 to 33 with available capacity 17
+DFS steps from 33 to 43 with available capacity 15
+DFS steps from 43 to 59 with available capacity 5
+DFS steps from 59 to 67 with available capacity 7
+DFS steps from 67 to 71 with available capacity 8
+DFS steps from 71 to 85 with available capacity 14
+DFS steps from 85 to 94 with available capacity 15
+DFS backtracks from 94 to 85
+DFS backtracks from 85 to 71
+DFS steps from 71 to 87 with available capacity 15
+DFS backtracks from 87 to 71
+DFS backtracks from 71 to 67
+DFS steps from 67 to 78 with available capacity 3
+DFS steps from 78 to 70 with available capacity 15
+DFS backtracks from 70 to 78
+DFS steps from 78 to 82 with available capacity 13
+DFS backtracks from 82 to 78
+DFS steps from 78 to 88 with available capacity 3
+DFS backtracks from 88 to 78
+DFS backtracks from 78 to 67
+DFS backtracks from 67 to 59
+DFS steps from 59 to 68 with available capacity 18
+DFS steps from 68 to 66 with available capacity 22
+DFS steps from 66 to 76 with available capacity 2
+DFS steps from 76 to 83 with available capacity 4
+DFS steps from 83 to 95 with available capacity 3
+Found a path with capacity 2: 0 7 21 33 43 59 68 66 76 83 95
+DFS steps from 0 to 7 with available capacity 10
+DFS steps from 7 to 21 with available capacity 7
+DFS steps from 21 to 33 with available capacity 15
+DFS steps from 33 to 43 with available capacity 13
+DFS steps from 43 to 59 with available capacity 3
+DFS steps from 59 to 68 with available capacity 16
+DFS steps from 68 to 66 with available capacity 20
+DFS backtracks from 66 to 68
+DFS backtracks from 68 to 59
+DFS backtracks from 59 to 43
+DFS backtracks from 43 to 33
+DFS steps from 33 to 44 with available capacity 10
+DFS steps from 44 to 51 with available capacity 11
+DFS steps from 51 to 64 with available capacity 9
+DFS steps from 64 to 77 with available capacity 12
+DFS steps from 77 to 86 with available capacity 4
+DFS steps from 86 to 92 with available capacity 5
+DFS steps from 92 to 91 with available capacity 9
+DFS backtracks from 91 to 92
+DFS steps from 92 to 95 with available capacity 6
+Found a path with capacity 4: 0 7 21 33 44 51 64 77 86 92 95
+DFS steps from 0 to 7 with available capacity 6
+DFS steps from 7 to 21 with available capacity 3
+DFS steps from 21 to 33 with available capacity 11
+DFS steps from 33 to 44 with available capacity 6
+DFS steps from 44 to 51 with available capacity 7
+DFS steps from 51 to 64 with available capacity 5
+DFS steps from 64 to 77 with available capacity 8
+DFS backtracks from 77 to 64
+DFS backtracks from 64 to 51
+DFS backtracks from 51 to 44
+DFS backtracks from 44 to 33
+DFS steps from 33 to 49 with available capacity 25
+DFS steps from 49 to 58 with available capacity 24
+DFS steps from 58 to 55 with available capacity 3
+DFS steps from 55 to 65 with available capacity 4
+DFS steps from 65 to 73 with available capacity 15
+DFS steps from 73 to 90 with available capacity 12
+DFS steps from 90 to 95 with available capacity 6
+Found a path with capacity 3: 0 7 21 33 49 58 55 65 73 90 95
+DFS steps from 0 to 7 with available capacity 3
+DFS steps from 7 to 24 with available capacity 2
+DFS backtracks from 24 to 7
+DFS backtracks from 7 to 0
+DFS steps from 0 to 8 with available capacity 15
+DFS steps from 8 to 12 with available capacity 3
+DFS steps from 12 to 28 with available capacity 12
+DFS steps from 28 to 45 with available capacity 10
+DFS steps from 45 to 56 with available capacity 10
+DFS steps from 56 to 63 with available capacity 5
+DFS steps from 63 to 75 with available capacity 10
+DFS backtracks from 75 to 63
+DFS backtracks from 63 to 56
+DFS backtracks from 56 to 45
+DFS steps from 45 to 57 with available capacity 5
+DFS backtracks from 57 to 45
+DFS backtracks from 45 to 28
+DFS steps from 28 to 47 with available capacity 25
+DFS steps from 47 to 50 with available capacity 19
+DFS backtracks from 50 to 47
+DFS backtracks from 47 to 28
+DFS steps from 28 to 48 with available capacity 25
+DFS steps from 48 to 54 with available capacity 14
+DFS steps from 54 to 55 with available capacity 4
+DFS steps from 55 to 65 with available capacity 1
+DFS steps from 65 to 73 with available capacity 12
+DFS steps from 73 to 90 with available capacity 9
+DFS steps from 90 to 95 with available capacity 3
+Found a path with capacity 1: 0 8 12 28 48 54 55 65 73 90 95
+DFS steps from 0 to 8 with available capacity 14
+DFS steps from 8 to 12 with available capacity 2
+DFS steps from 12 to 28 with available capacity 11
+DFS steps from 28 to 48 with available capacity 24
+DFS steps from 48 to 54 with available capacity 13
+DFS steps from 54 to 55 with available capacity 3
+DFS backtracks from 55 to 54
+DFS steps from 54 to 61 with available capacity 20
+DFS steps from 61 to 79 with available capacity 25
+DFS steps from 79 to 62 with available capacity 23
+DFS steps from 62 to 74 with available capacity 17
+DFS steps from 74 to 89 with available capacity 12
+DFS backtracks from 89 to 74
+DFS backtracks from 74 to 62
+DFS backtracks from 62 to 79
+DFS backtracks from 79 to 61
+DFS backtracks from 61 to 54
+DFS backtracks from 54 to 48
+DFS steps from 48 to 58 with available capacity 2
+DFS backtracks from 58 to 48
+DFS backtracks from 48 to 28
+DFS backtracks from 28 to 12
+DFS steps from 12 to 35 with available capacity 24
+DFS steps from 35 to 46 with available capacity 13
+DFS backtracks from 46 to 35
+DFS backtracks from 35 to 12
+DFS steps from 12 to 36 with available capacity 24
+DFS steps from 36 to 39 with available capacity 1
+DFS backtracks from 39 to 36
+DFS steps from 36 to 42 with available capacity 11
+DFS backtracks from 42 to 36
+DFS backtracks from 36 to 12
+DFS backtracks from 12 to 8
+DFS steps from 8 to 15 with available capacity 5
+DFS steps from 15 to 32 with available capacity 9
+DFS backtracks from 32 to 15
+DFS steps from 15 to 37 with available capacity 20
+DFS backtracks from 37 to 15
+DFS backtracks from 15 to 8
+DFS steps from 8 to 16 with available capacity 7
+DFS steps from 16 to 29 with available capacity 20
+DFS steps from 29 to 38 with available capacity 5
+DFS backtracks from 38 to 29
+DFS backtracks from 29 to 16
+DFS steps from 16 to 33 with available capacity 17
+DFS steps from 33 to 49 with available capacity 22
+DFS backtracks from 49 to 33
+DFS backtracks from 33 to 16
+DFS backtracks from 16 to 8
+DFS steps from 8 to 18 with available capacity 8
+DFS backtracks from 18 to 8
+DFS steps from 8 to 22 with available capacity 6
+DFS steps from 22 to 34 with available capacity 18
+DFS backtracks from 34 to 22
+DFS backtracks from 22 to 8
+DFS steps from 8 to 23 with available capacity 13
+DFS steps from 23 to 31 with available capacity 22
+DFS backtracks from 31 to 23
+DFS backtracks from 23 to 8
+DFS steps from 8 to 27 with available capacity 1
+DFS backtracks from 27 to 8
+DFS backtracks from 8 to 0
+DFS steps from 0 to 9 with available capacity 7
+DFS steps from 9 to 19 with available capacity 4
+DFS backtracks from 19 to 9
+DFS steps from 9 to 26 with available capacity 19
+DFS backtracks from 26 to 9
+DFS backtracks from 9 to 0
+DFS steps from 0 to 10 with available capacity 13
+DFS steps from 10 to 4 with available capacity 21
+DFS backtracks from 4 to 10
+DFS backtracks from 10 to 0
+DFS steps from 0 to 11 with available capacity 10
+DFS steps from 11 to 3 with available capacity 15
+DFS backtracks from 3 to 11
+DFS steps from 11 to 14 with available capacity 25
+DFS backtracks from 14 to 11
+DFS steps from 11 to 17 with available capacity 18
+DFS backtracks from 17 to 11
+DFS backtracks from 11 to 0
+
+Edges of the level graph for iteration 3:
+ level 1: 0-7 0-8 0-9 0-10 0-11
+ level 2: 7-2 7-24 8-1 8-12 8-15 8-16 8-18 8-22 8-23 8-24 8-27 9-1 9-2 9-12 9-19 9-23 9-26 9-27 10-1 10-4 10-5 10-6 10-18 10-23 11-2 11-3 11-5 11-12 11-14 11-16 11-17 11-27
+ level 3: 1-21 2-20 2-25 3-20 3-25 4-13 4-25 5-20 5-25 6-13 6-21 12-28 12-30 12-35 12-36 14-13 14-30 14-31 14-34 14-35 14-36 15-32 15-36 15-37 16-13 16-29 16-33 16-37 17-30 17-32 17-36 17-37 18-32 18-35 19-25 19-32 19-35 19-37 22-28 22-30 22-34 22-35 23-29 23-31 23-32 23-33 23-35 24-13 24-30 26-21 26-25 26-32 26-37 27-25 27-28 27-29 27-31 27-35
+ level 4: 28-45 28-47 28-48 29-38 29-40 29-44 29-48 30-40 31-40 31-41 31-44 32-41 32-44 33-40 33-43 33-44 33-49 34-40 34-42 34-46 35-40 35-44 35-46 36-39 36-42 36-44 36-45 37-39 37-43
+ level 5: 38-50 38-54 38-58 39-54 41-53 42-52 43-52 43-53 43-59 44-51 44-52 45-56 45-57 45-59 46-56 46-57 46-59 47-50 47-56 48-53 48-54 48-58 48-59 49-58
+ level 6: 50-64 51-64 51-68 52-69 53-69 54-55 54-61 54-64 54-69 56-63 56-68 57-63 57-69 58-68 58-69 59-67 59-68
+ level 7: 55-66 61-79 63-75 63-78 64-77 67-71 67-78 68-66 68-78
+ level 8: 71-85 71-87 75-85 77-65 77-70 77-88 78-70 78-82 78-88 79-62 79-85
+ level 9: 62-74 62-76 65-73 65-80 70-76 70-94 73-88 85-94 88-80
+ level 10: 60-76 73-90 73-93 74-84 74-89 74-92 76-83 80-84 94-84
+ level 11: 72-84 83-86 83-95 84-95 86-92 89-95 90-95 92-91 92-95 93-95
+DFS steps from 0 to 7 with available capacity 3
+DFS steps from 7 to 2 with available capacity 15
+DFS steps from 2 to 20 with available capacity 14
+DFS backtracks from 20 to 2
+DFS steps from 2 to 25 with available capacity 2
+DFS backtracks from 25 to 2
+DFS backtracks from 2 to 7
+DFS steps from 7 to 24 with available capacity 2
+DFS steps from 24 to 13 with available capacity 21
+DFS backtracks from 13 to 24
+DFS steps from 24 to 30 with available capacity 15
+DFS steps from 30 to 40 with available capacity 13
+DFS backtracks from 40 to 30
+DFS backtracks from 30 to 24
+DFS backtracks from 24 to 7
+DFS backtracks from 7 to 0
+DFS steps from 0 to 8 with available capacity 14
+DFS steps from 8 to 1 with available capacity 9
+DFS steps from 1 to 21 with available capacity 22
+DFS backtracks from 21 to 1
+DFS backtracks from 1 to 8
+DFS steps from 8 to 12 with available capacity 2
+DFS steps from 12 to 28 with available capacity 11
+DFS steps from 28 to 45 with available capacity 10
+DFS steps from 45 to 56 with available capacity 10
+DFS steps from 56 to 63 with available capacity 5
+DFS steps from 63 to 75 with available capacity 10
+DFS steps from 75 to 85 with available capacity 6
+DFS steps from 85 to 94 with available capacity 15
+DFS steps from 94 to 84 with available capacity 2
+DFS steps from 84 to 72 with available reverse capacity 7
+DFS backtracks from 72 to 84
+DFS steps from 84 to 95 with available capacity 5
+Found a path with capacity 2: 0 8 12 28 45 56 63 75 85 94 84 95
+DFS steps from 0 to 8 with available capacity 12
+DFS steps from 8 to 15 with available capacity 5
+DFS steps from 15 to 32 with available capacity 9
+DFS steps from 32 to 41 with available capacity 10
+DFS steps from 41 to 53 with available capacity 1
+DFS steps from 53 to 69 with available capacity 14
+DFS backtracks from 69 to 53
+DFS backtracks from 53 to 41
+DFS backtracks from 41 to 32
+DFS steps from 32 to 44 with available capacity 3
+DFS steps from 44 to 51 with available capacity 7
+DFS steps from 51 to 64 with available capacity 5
+DFS steps from 64 to 77 with available capacity 8
+DFS steps from 77 to 65 with available capacity 9
+DFS steps from 65 to 73 with available capacity 11
+DFS steps from 73 to 90 with available capacity 8
+DFS steps from 90 to 95 with available capacity 2
+Found a path with capacity 2: 0 8 15 32 44 51 64 77 65 73 90 95
+DFS steps from 0 to 8 with available capacity 10
+DFS steps from 8 to 15 with available capacity 3
+DFS steps from 15 to 32 with available capacity 7
+DFS steps from 32 to 44 with available capacity 1
+DFS steps from 44 to 51 with available capacity 5
+DFS steps from 51 to 64 with available capacity 3
+DFS steps from 64 to 77 with available capacity 6
+DFS steps from 77 to 65 with available capacity 7
+DFS steps from 65 to 73 with available capacity 9
+DFS steps from 73 to 90 with available capacity 6
+DFS backtracks from 90 to 73
+DFS steps from 73 to 93 with available capacity 22
+DFS steps from 93 to 95 with available capacity 10
+Found a path with capacity 1: 0 8 15 32 44 51 64 77 65 73 93 95
+DFS steps from 0 to 8 with available capacity 9
+DFS steps from 8 to 15 with available capacity 2
+DFS steps from 15 to 32 with available capacity 6
+DFS backtracks from 32 to 15
+DFS steps from 15 to 36 with available capacity 4
+DFS steps from 36 to 39 with available capacity 1
+DFS steps from 39 to 54 with available capacity 6
+DFS steps from 54 to 55 with available capacity 3
+DFS steps from 55 to 66 with available capacity 9
+DFS backtracks from 66 to 55
+DFS backtracks from 55 to 54
+DFS steps from 54 to 61 with available capacity 20
+DFS steps from 61 to 79 with available capacity 25
+DFS steps from 79 to 62 with available capacity 23
+DFS steps from 62 to 74 with available capacity 17
+DFS steps from 74 to 84 with available capacity 8
+DFS steps from 84 to 95 with available capacity 3
+Found a path with capacity 1: 0 8 15 36 39 54 61 79 62 74 84 95
+DFS steps from 0 to 8 with available capacity 8
+DFS steps from 8 to 15 with available capacity 1
+DFS steps from 15 to 36 with available capacity 3
+DFS steps from 36 to 42 with available capacity 11
+DFS steps from 42 to 52 with available capacity 13
+DFS backtracks from 52 to 42
+DFS backtracks from 42 to 36
+DFS steps from 36 to 44 with available capacity 5
+DFS steps from 44 to 51 with available capacity 4
+DFS steps from 51 to 64 with available capacity 2
+DFS steps from 64 to 77 with available capacity 5
+DFS steps from 77 to 65 with available capacity 6
+DFS steps from 65 to 73 with available capacity 8
+DFS steps from 73 to 93 with available capacity 21
+DFS steps from 93 to 95 with available capacity 9
+Found a path with capacity 1: 0 8 15 36 44 51 64 77 65 73 93 95
+DFS steps from 0 to 8 with available capacity 7
+DFS steps from 8 to 16 with available capacity 7
+DFS steps from 16 to 29 with available capacity 20
+DFS steps from 29 to 38 with available capacity 5
+DFS steps from 38 to 50 with available capacity 3
+DFS steps from 50 to 64 with available capacity 13
+DFS steps from 64 to 77 with available capacity 4
+DFS steps from 77 to 65 with available capacity 5
+DFS steps from 65 to 73 with available capacity 7
+DFS steps from 73 to 93 with available capacity 20
+DFS steps from 93 to 95 with available capacity 8
+Found a path with capacity 3: 0 8 16 29 38 50 64 77 65 73 93 95
+DFS steps from 0 to 8 with available capacity 4
+DFS steps from 8 to 16 with available capacity 4
+DFS steps from 16 to 29 with available capacity 17
+DFS steps from 29 to 38 with available capacity 2
+DFS steps from 38 to 54 with available capacity 7
+DFS steps from 54 to 61 with available capacity 19
+DFS steps from 61 to 79 with available capacity 24
+DFS steps from 79 to 62 with available capacity 22
+DFS steps from 62 to 74 with available capacity 16
+DFS steps from 74 to 84 with available capacity 7
+DFS steps from 84 to 95 with available capacity 2
+Found a path with capacity 2: 0 8 16 29 38 54 61 79 62 74 84 95
+DFS steps from 0 to 8 with available capacity 2
+DFS steps from 8 to 16 with available capacity 2
+DFS steps from 16 to 29 with available capacity 15
+DFS steps from 29 to 44 with available capacity 4
+DFS steps from 44 to 51 with available capacity 3
+DFS steps from 51 to 64 with available capacity 1
+DFS steps from 64 to 77 with available capacity 1
+DFS steps from 77 to 65 with available capacity 2
+DFS steps from 65 to 73 with available capacity 4
+DFS steps from 73 to 93 with available capacity 17
+DFS steps from 93 to 95 with available capacity 5
+Found a path with capacity 1: 0 8 16 29 44 51 64 77 65 73 93 95
+DFS steps from 0 to 8 with available capacity 1
+DFS steps from 8 to 16 with available capacity 1
+DFS steps from 16 to 29 with available capacity 14
+DFS steps from 29 to 44 with available capacity 3
+DFS steps from 44 to 51 with available capacity 2
+DFS steps from 51 to 68 with available capacity 17
+DFS steps from 68 to 78 with available capacity 14
+DFS steps from 78 to 70 with available capacity 15
+DFS steps from 70 to 76 with available capacity 3
+DFS steps from 76 to 60 with available reverse capacity 13
+DFS backtracks from 60 to 76
+DFS steps from 76 to 83 with available capacity 2
+DFS steps from 83 to 86 with available capacity 3
+DFS backtracks from 86 to 83
+DFS steps from 83 to 95 with available capacity 1
+Found a path with capacity 1: 0 8 16 29 44 51 68 78 70 76 83 95
+DFS steps from 0 to 9 with available capacity 7
+DFS steps from 9 to 12 with available capacity 10
+DFS steps from 12 to 28 with available capacity 9
+DFS steps from 28 to 45 with available capacity 8
+DFS steps from 45 to 56 with available capacity 8
+DFS steps from 56 to 63 with available capacity 3
+DFS steps from 63 to 75 with available capacity 8
+DFS steps from 75 to 85 with available capacity 4
+DFS steps from 85 to 94 with available capacity 13
+DFS backtracks from 94 to 85
+DFS backtracks from 85 to 75
+DFS backtracks from 75 to 63
+DFS steps from 63 to 78 with available capacity 18
+DFS steps from 78 to 70 with available capacity 14
+DFS steps from 70 to 76 with available capacity 2
+DFS steps from 76 to 83 with available capacity 1
+DFS backtracks from 83 to 76
+DFS backtracks from 76 to 70
+DFS backtracks from 70 to 78
+DFS steps from 78 to 82 with available capacity 13
+DFS backtracks from 82 to 78
+DFS steps from 78 to 88 with available capacity 3
+DFS steps from 88 to 73 with available reverse capacity 3
+DFS steps from 73 to 93 with available capacity 16
+DFS steps from 93 to 95 with available capacity 4
+Found a path with capacity 3: 0 9 12 28 45 56 63 78 88 73 93 95
+DFS steps from 0 to 9 with available capacity 4
+DFS steps from 9 to 12 with available capacity 7
+DFS steps from 12 to 28 with available capacity 6
+DFS steps from 28 to 45 with available capacity 5
+DFS steps from 45 to 56 with available capacity 5
+DFS steps from 56 to 68 with available capacity 13
+DFS steps from 68 to 78 with available capacity 13
+DFS backtracks from 78 to 68
+DFS backtracks from 68 to 56
+DFS backtracks from 56 to 45
+DFS steps from 45 to 57 with available capacity 5
+DFS steps from 57 to 63 with available capacity 24
+DFS backtracks from 63 to 57
+DFS backtracks from 57 to 45
+DFS steps from 45 to 59 with available capacity 18
+DFS steps from 59 to 67 with available capacity 7
+DFS steps from 67 to 71 with available capacity 8
+DFS steps from 71 to 87 with available capacity 15
+DFS backtracks from 87 to 71
+DFS backtracks from 71 to 67
+DFS backtracks from 67 to 59
+DFS backtracks from 59 to 45
+DFS backtracks from 45 to 28
+DFS steps from 28 to 47 with available capacity 25
+DFS steps from 47 to 50 with available capacity 19
+DFS steps from 50 to 64 with available capacity 10
+DFS backtracks from 64 to 50
+DFS backtracks from 50 to 47
+DFS backtracks from 47 to 28
+DFS steps from 28 to 48 with available capacity 24
+DFS steps from 48 to 54 with available capacity 13
+DFS steps from 54 to 61 with available capacity 17
+DFS steps from 61 to 79 with available capacity 22
+DFS steps from 79 to 62 with available capacity 20
+DFS steps from 62 to 74 with available capacity 14
+DFS steps from 74 to 84 with available capacity 5
+DFS backtracks from 84 to 74
+DFS steps from 74 to 89 with available capacity 12
+DFS steps from 89 to 95 with available capacity 2
+Found a path with capacity 2: 0 9 12 28 48 54 61 79 62 74 89 95
+DFS steps from 0 to 9 with available capacity 2
+DFS steps from 9 to 12 with available capacity 5
+DFS steps from 12 to 28 with available capacity 4
+DFS steps from 28 to 48 with available capacity 22
+DFS steps from 48 to 54 with available capacity 11
+DFS steps from 54 to 61 with available capacity 15
+DFS steps from 61 to 79 with available capacity 20
+DFS steps from 79 to 62 with available capacity 18
+DFS steps from 62 to 74 with available capacity 12
+DFS steps from 74 to 89 with available capacity 10
+DFS backtracks from 89 to 74
+DFS steps from 74 to 92 with available capacity 7
+DFS steps from 92 to 91 with available capacity 9
+DFS backtracks from 91 to 92
+DFS steps from 92 to 95 with available capacity 2
+Found a path with capacity 2: 0 9 12 28 48 54 61 79 62 74 92 95
+DFS steps from 0 to 10 with available capacity 13
+DFS steps from 10 to 4 with available capacity 21
+DFS backtracks from 4 to 10
+DFS steps from 10 to 5 with available capacity 3
+DFS backtracks from 5 to 10
+DFS steps from 10 to 6 with available capacity 17
+DFS backtracks from 6 to 10
+DFS steps from 10 to 18 with available capacity 4
+DFS steps from 18 to 35 with available capacity 23
+DFS steps from 35 to 44 with available capacity 20
+DFS steps from 44 to 51 with available capacity 1
+DFS backtracks from 51 to 44
+DFS backtracks from 44 to 35
+DFS steps from 35 to 46 with available capacity 13
+DFS backtracks from 46 to 35
+DFS backtracks from 35 to 18
+DFS backtracks from 18 to 10
+DFS steps from 10 to 23 with available capacity 23
+DFS steps from 23 to 29 with available capacity 16
+DFS steps from 29 to 48 with available capacity 11
+DFS steps from 48 to 54 with available capacity 9
+DFS steps from 54 to 61 with available capacity 13
+DFS steps from 61 to 79 with available capacity 18
+DFS steps from 79 to 62 with available capacity 16
+DFS steps from 62 to 74 with available capacity 10
+DFS steps from 74 to 92 with available capacity 5
+DFS backtracks from 92 to 74
+DFS backtracks from 74 to 62
+DFS backtracks from 62 to 79
+DFS backtracks from 79 to 61
+DFS backtracks from 61 to 54
+DFS backtracks from 54 to 48
+DFS steps from 48 to 58 with available capacity 2
+DFS backtracks from 58 to 48
+DFS backtracks from 48 to 29
+DFS backtracks from 29 to 23
+DFS steps from 23 to 31 with available capacity 22
+DFS backtracks from 31 to 23
+DFS steps from 23 to 33 with available capacity 21
+DFS steps from 33 to 43 with available capacity 13
+DFS backtracks from 43 to 33
+DFS steps from 33 to 49 with available capacity 22
+DFS backtracks from 49 to 33
+DFS backtracks from 33 to 23
+DFS backtracks from 23 to 10
+DFS backtracks from 10 to 0
+DFS steps from 0 to 11 with available capacity 10
+DFS steps from 11 to 3 with available capacity 15
+DFS backtracks from 3 to 11
+DFS steps from 11 to 12 with available capacity 23
+DFS steps from 12 to 28 with available capacity 2
+DFS backtracks from 28 to 12
+DFS steps from 12 to 36 with available capacity 24
+DFS backtracks from 36 to 12
+DFS backtracks from 12 to 11
+DFS steps from 11 to 14 with available capacity 25
+DFS steps from 14 to 34 with available capacity 20
+DFS backtracks from 34 to 14
+DFS backtracks from 14 to 11
+DFS steps from 11 to 16 with available capacity 11
+DFS steps from 16 to 37 with available capacity 15
+DFS steps from 37 to 39 with available capacity 7
+DFS backtracks from 39 to 37
+DFS backtracks from 37 to 16
+DFS backtracks from 16 to 11
+DFS steps from 11 to 17 with available capacity 18
+DFS backtracks from 17 to 11
+DFS steps from 11 to 27 with available capacity 2
+DFS backtracks from 27 to 11
+DFS backtracks from 11 to 0
+
+Edges of the level graph for iteration 4:
+ level 1: 0-7 0-10 0-11
+ level 2: 7-2 7-8 7-9 7-24 10-1 10-4 10-5 10-6 10-8 10-18 10-23 11-2 11-3 11-5 11-12 11-14 11-16 11-17 11-27
+ level 3: 1-21 2-19 2-20 2-22 2-25 3-20 3-25 3-26 4-13 4-19 4-25 5-19 5-20 5-25 6-13 6-19 6-21 8-22 9-19 9-26 12-15 12-19 12-28 12-30 12-35 12-36 14-13 14-15 14-30 14-31 14-34 14-35 14-36 16-13 16-29 16-33 16-37 17-22 17-30 17-32 17-36 17-37 18-32 18-35 23-26 23-29 23-31 23-32 23-33 23-35 24-13 24-26 24-30 27-25 27-28 27-29 27-31 27-35
+ level 4: 28-45 28-47 28-48 29-40 29-44 29-48 30-40 31-40 31-41 31-44 32-41 33-40 33-43 33-44 33-49 34-40 34-42 34-46 35-40 35-44 35-46 36-42 36-44 36-45 37-39 37-43
+ level 5: 39-54 41-53 42-52 43-52 43-53 43-59 44-51 44-52 45-56 45-57 45-59 46-56 46-57 46-59 47-50 47-56 48-53 48-54 48-58 48-59 49-58
+ level 6: 38-50 38-54 50-64 51-68 52-69 53-38 53-69 54-55 54-61 54-64 54-69 56-68 57-63 57-69 58-68 58-69 59-67 59-68
+ level 7: 55-66 61-79 63-75 63-78 67-71 67-78 68-66 68-78
+ level 8: 71-85 71-87 75-85 78-70 78-82 79-62 79-85
+ level 9: 62-74 62-76 65-70 70-76 70-88 70-94 77-70 85-94 87-77
+ level 10: 60-76 65-73 65-80 74-73 74-84 74-89 74-92 76-83 88-80
+ level 11: 72-84 73-90 73-93 83-86 84-90 86-92 92-91 92-93
+ level 12: 91-95 93-95
+DFS steps from 0 to 7 with available capacity 3
+DFS steps from 7 to 2 with available capacity 15
+DFS steps from 2 to 19 with available capacity 16
+DFS backtracks from 19 to 2
+DFS steps from 2 to 20 with available capacity 14
+DFS backtracks from 20 to 2
+DFS steps from 2 to 22 with available capacity 24
+DFS backtracks from 22 to 2
+DFS steps from 2 to 25 with available capacity 2
+DFS backtracks from 25 to 2
+DFS backtracks from 2 to 7
+DFS steps from 7 to 8 with available capacity 4
+DFS backtracks from 8 to 7
+DFS steps from 7 to 9 with available capacity 8
+DFS steps from 9 to 26 with available capacity 19
+DFS backtracks from 26 to 9
+DFS backtracks from 9 to 7
+DFS steps from 7 to 24 with available capacity 2
+DFS steps from 24 to 13 with available capacity 21
+DFS backtracks from 13 to 24
+DFS steps from 24 to 30 with available capacity 15
+DFS steps from 30 to 40 with available capacity 13
+DFS backtracks from 40 to 30
+DFS backtracks from 30 to 24
+DFS backtracks from 24 to 7
+DFS backtracks from 7 to 0
+DFS steps from 0 to 10 with available capacity 13
+DFS steps from 10 to 1 with available capacity 18
+DFS steps from 1 to 21 with available capacity 22
+DFS backtracks from 21 to 1
+DFS backtracks from 1 to 10
+DFS steps from 10 to 4 with available capacity 21
+DFS backtracks from 4 to 10
+DFS steps from 10 to 5 with available capacity 3
+DFS backtracks from 5 to 10
+DFS steps from 10 to 6 with available capacity 17
+DFS backtracks from 6 to 10
+DFS steps from 10 to 18 with available capacity 4
+DFS steps from 18 to 32 with available capacity 5
+DFS steps from 32 to 41 with available capacity 10
+DFS steps from 41 to 53 with available capacity 1
+DFS steps from 53 to 38 with available capacity 22
+DFS backtracks from 38 to 53
+DFS steps from 53 to 69 with available capacity 14
+DFS backtracks from 69 to 53
+DFS backtracks from 53 to 41
+DFS backtracks from 41 to 32
+DFS backtracks from 32 to 18
+DFS steps from 18 to 35 with available capacity 23
+DFS steps from 35 to 44 with available capacity 20
+DFS steps from 44 to 51 with available capacity 1
+DFS steps from 51 to 68 with available capacity 16
+DFS steps from 68 to 66 with available capacity 20
+DFS backtracks from 66 to 68
+DFS steps from 68 to 78 with available capacity 13
+DFS steps from 78 to 70 with available capacity 14
+DFS steps from 70 to 65 with available reverse capacity 12
+DFS steps from 65 to 73 with available capacity 3
+DFS steps from 73 to 90 with available capacity 6
+DFS backtracks from 90 to 73
+DFS steps from 73 to 93 with available capacity 13
+DFS steps from 93 to 95 with available capacity 1
+Found a path with capacity 1: 0 10 18 35 44 51 68 78 70 65 73 93 95
+DFS steps from 0 to 10 with available capacity 12
+DFS steps from 10 to 18 with available capacity 3
+DFS steps from 18 to 35 with available capacity 22
+DFS steps from 35 to 44 with available capacity 19
+DFS steps from 44 to 52 with available capacity 14
+DFS backtracks from 52 to 44
+DFS backtracks from 44 to 35
+DFS steps from 35 to 46 with available capacity 13
+DFS steps from 46 to 56 with available capacity 20
+DFS steps from 56 to 68 with available capacity 13
+DFS steps from 68 to 78 with available capacity 12
+DFS steps from 78 to 70 with available capacity 13
+DFS steps from 70 to 65 with available reverse capacity 11
+DFS steps from 65 to 73 with available capacity 2
+DFS steps from 73 to 93 with available capacity 12
+DFS backtracks from 93 to 73
+DFS backtracks from 73 to 65
+DFS steps from 65 to 80 with available capacity 25
+DFS backtracks from 80 to 65
+DFS backtracks from 65 to 70
+DFS steps from 70 to 76 with available capacity 2
+DFS steps from 76 to 60 with available reverse capacity 13
+DFS backtracks from 60 to 76
+DFS steps from 76 to 83 with available capacity 1
+DFS steps from 83 to 86 with available capacity 3
+DFS backtracks from 86 to 83
+DFS backtracks from 83 to 76
+DFS backtracks from 76 to 70
+DFS steps from 70 to 77 with available reverse capacity 3
+DFS backtracks from 77 to 70
+DFS steps from 70 to 88 with available capacity 7
+DFS backtracks from 88 to 70
+DFS steps from 70 to 94 with available capacity 5
+DFS backtracks from 94 to 70
+DFS backtracks from 70 to 78
+DFS steps from 78 to 82 with available capacity 13
+DFS backtracks from 82 to 78
+DFS backtracks from 78 to 68
+DFS backtracks from 68 to 56
+DFS backtracks from 56 to 46
+DFS steps from 46 to 57 with available capacity 2
+DFS steps from 57 to 63 with available capacity 24
+DFS steps from 63 to 75 with available capacity 8
+DFS steps from 75 to 85 with available capacity 4
+DFS backtracks from 85 to 75
+DFS backtracks from 75 to 63
+DFS backtracks from 63 to 57
+DFS backtracks from 57 to 46
+DFS steps from 46 to 59 with available capacity 16
+DFS steps from 59 to 67 with available capacity 7
+DFS steps from 67 to 71 with available capacity 8
+DFS steps from 71 to 87 with available capacity 15
+DFS backtracks from 87 to 71
+DFS backtracks from 71 to 67
+DFS backtracks from 67 to 59
+DFS backtracks from 59 to 46
+DFS backtracks from 46 to 35
+DFS backtracks from 35 to 18
+DFS backtracks from 18 to 10
+DFS steps from 10 to 23 with available capacity 23
+DFS steps from 23 to 29 with available capacity 16
+DFS steps from 29 to 48 with available capacity 11
+DFS steps from 48 to 54 with available capacity 9
+DFS steps from 54 to 55 with available capacity 3
+DFS backtracks from 55 to 54
+DFS steps from 54 to 61 with available capacity 13
+DFS steps from 61 to 79 with available capacity 18
+DFS steps from 79 to 62 with available capacity 16
+DFS steps from 62 to 74 with available capacity 10
+DFS steps from 74 to 84 with available capacity 5
+DFS steps from 84 to 72 with available reverse capacity 7
+DFS backtracks from 72 to 84
+DFS backtracks from 84 to 74
+DFS steps from 74 to 89 with available capacity 10
+DFS backtracks from 89 to 74
+DFS steps from 74 to 92 with available capacity 5
+DFS steps from 92 to 91 with available capacity 9
+DFS steps from 91 to 95 with available capacity 1
+Found a path with capacity 1: 0 10 23 29 48 54 61 79 62 74 92 91 95
+DFS steps from 0 to 10 with available capacity 11
+DFS steps from 10 to 23 with available capacity 22
+DFS steps from 23 to 29 with available capacity 15
+DFS steps from 29 to 48 with available capacity 10
+DFS steps from 48 to 54 with available capacity 8
+DFS steps from 54 to 61 with available capacity 12
+DFS steps from 61 to 79 with available capacity 17
+DFS steps from 79 to 62 with available capacity 15
+DFS steps from 62 to 74 with available capacity 9
+DFS steps from 74 to 92 with available capacity 4
+DFS steps from 92 to 91 with available capacity 8
+DFS backtracks from 91 to 92
+DFS backtracks from 92 to 74
+DFS backtracks from 74 to 62
+DFS backtracks from 62 to 79
+DFS backtracks from 79 to 61
+DFS backtracks from 61 to 54
+DFS steps from 54 to 64 with available capacity 1
+DFS backtracks from 64 to 54
+DFS backtracks from 54 to 48
+DFS steps from 48 to 58 with available capacity 2
+DFS backtracks from 58 to 48
+DFS backtracks from 48 to 29
+DFS backtracks from 29 to 23
+DFS steps from 23 to 31 with available capacity 22
+DFS backtracks from 31 to 23
+DFS steps from 23 to 33 with available capacity 21
+DFS steps from 33 to 43 with available capacity 13
+DFS backtracks from 43 to 33
+DFS steps from 33 to 49 with available capacity 22
+DFS backtracks from 49 to 33
+DFS backtracks from 33 to 23
+DFS backtracks from 23 to 10
+DFS backtracks from 10 to 0
+DFS steps from 0 to 11 with available capacity 10
+DFS steps from 11 to 3 with available capacity 15
+DFS backtracks from 3 to 11
+DFS steps from 11 to 12 with available capacity 23
+DFS steps from 12 to 15 with available capacity 23
+DFS backtracks from 15 to 12
+DFS steps from 12 to 28 with available capacity 2
+DFS steps from 28 to 45 with available capacity 5
+DFS backtracks from 45 to 28
+DFS steps from 28 to 47 with available capacity 25
+DFS steps from 47 to 50 with available capacity 19
+DFS backtracks from 50 to 47
+DFS backtracks from 47 to 28
+DFS backtracks from 28 to 12
+DFS steps from 12 to 36 with available capacity 24
+DFS steps from 36 to 42 with available capacity 11
+DFS backtracks from 42 to 36
+DFS backtracks from 36 to 12
+DFS backtracks from 12 to 11
+DFS steps from 11 to 14 with available capacity 25
+DFS steps from 14 to 34 with available capacity 20
+DFS backtracks from 34 to 14
+DFS backtracks from 14 to 11
+DFS steps from 11 to 16 with available capacity 11
+DFS steps from 16 to 37 with available capacity 15
+DFS steps from 37 to 39 with available capacity 7
+DFS backtracks from 39 to 37
+DFS backtracks from 37 to 16
+DFS backtracks from 16 to 11
+DFS steps from 11 to 17 with available capacity 18
+DFS backtracks from 17 to 11
+DFS steps from 11 to 27 with available capacity 2
+DFS backtracks from 27 to 11
+DFS backtracks from 11 to 0
+
+Maximum flow: 139

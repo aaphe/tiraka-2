@@ -1,0 +1,240 @@
+P: ggagga
+Suffix function f: 0 1 0 1 2 3
+P at pos 0 with i = 0 and j = 0
+  mismatch T[0] = A != P[0] = g
+  incremented i from 0 to 1
+P at pos 1 with i = 1 and j = 0
+  mismatch T[1] = C != P[0] = g
+  incremented i from 1 to 2
+P at pos 2 with i = 2 and j = 0
+  mismatch T[2] = T != P[0] = g
+  incremented i from 2 to 3
+P at pos 3 with i = 3 and j = 0
+  mismatch T[3] = T != P[0] = g
+  incremented i from 3 to 4
+P at pos 4 with i = 4 and j = 0
+  matched T[4..5] = GG = P[0..1] = gg
+  mismatch T[6] = G != P[2] = a
+  updated j from 2 to f[1] = 1
+P at pos 5 with i = 6 and j = 1
+  matched T[6..10] = GAGGA = P[1..5] = gagga
+  found an occurrence of P
+  updated j from 6 to f[5] = 3
+P at pos 8 with i = 11 and j = 3
+  mismatch T[11] = T != P[3] = g
+  updated j from 3 to f[2] = 0
+P at pos 11 with i = 11 and j = 0
+  mismatch T[11] = T != P[0] = g
+  incremented i from 11 to 12
+P at pos 12 with i = 12 and j = 0
+  mismatch T[12] = T != P[0] = g
+  incremented i from 12 to 13
+P at pos 13 with i = 13 and j = 0
+  mismatch T[13] = A != P[0] = g
+  incremented i from 13 to 14
+P at pos 14 with i = 14 and j = 0
+  mismatch T[14] = A != P[0] = g
+  incremented i from 14 to 15
+P at pos 15 with i = 15 and j = 0
+  mismatch T[15] = C != P[0] = g
+  incremented i from 15 to 16
+P at pos 16 with i = 16 and j = 0
+  mismatch T[16] = A != P[0] = g
+  incremented i from 16 to 17
+P at pos 17 with i = 17 and j = 0
+  matched T[17..17] = G = P[0..0] = g
+  mismatch T[18] = T != P[1] = g
+  updated j from 1 to f[0] = 0
+P at pos 18 with i = 18 and j = 0
+  mismatch T[18] = T != P[0] = g
+  incremented i from 18 to 19
+P at pos 19 with i = 19 and j = 0
+  mismatch T[19] = A != P[0] = g
+  incremented i from 19 to 20
+P at pos 20 with i = 20 and j = 0
+  mismatch T[20] = T != P[0] = g
+  incremented i from 20 to 21
+P at pos 21 with i = 21 and j = 0
+  mismatch T[21] = A != P[0] = g
+  incremented i from 21 to 22
+P at pos 22 with i = 22 and j = 0
+  matched T[22..27] = GGAGGA = P[0..5] = ggagga
+  found an occurrence of P
+  updated j from 6 to f[5] = 3
+P at pos 25 with i = 28 and j = 3
+  matched T[28..28] = G = P[3..3] = g
+  mismatch T[29] = A != P[4] = g
+  updated j from 4 to f[3] = 1
+P at pos 28 with i = 29 and j = 1
+  mismatch T[29] = A != P[1] = g
+  updated j from 1 to f[0] = 0
+P at pos 29 with i = 29 and j = 0
+  mismatch T[29] = A != P[0] = g
+  incremented i from 29 to 30
+P at pos 30 with i = 30 and j = 0
+  mismatch T[30] = C != P[0] = g
+  incremented i from 30 to 31
+P at pos 31 with i = 31 and j = 0
+  mismatch T[31] = A != P[0] = g
+  incremented i from 31 to 32
+P at pos 32 with i = 32 and j = 0
+  matched T[32..32] = G = P[0..0] = g
+  mismatch T[33] = C != P[1] = g
+  updated j from 1 to f[0] = 0
+P at pos 33 with i = 33 and j = 0
+  mismatch T[33] = C != P[0] = g
+  incremented i from 33 to 34
+P at pos 34 with i = 34 and j = 0
+  mismatch T[34] = T != P[0] = g
+  incremented i from 34 to 35
+P at pos 35 with i = 35 and j = 0
+  mismatch T[35] = T != P[0] = g
+  incremented i from 35 to 36
+P at pos 36 with i = 36 and j = 0
+  mismatch T[36] = A != P[0] = g
+  incremented i from 36 to 37
+P at pos 37 with i = 37 and j = 0
+  mismatch T[37] = T != P[0] = g
+  incremented i from 37 to 38
+P at pos 38 with i = 38 and j = 0
+  mismatch T[38] = A != P[0] = g
+  incremented i from 38 to 39
+P at pos 39 with i = 39 and j = 0
+  matched T[39..39] = G = P[0..0] = g
+  mismatch T[40] = C != P[1] = g
+  updated j from 1 to f[0] = 0
+P at pos 40 with i = 40 and j = 0
+  mismatch T[40] = C != P[0] = g
+  incremented i from 40 to 41
+P at pos 41 with i = 41 and j = 0
+  mismatch T[41] = C != P[0] = g
+  incremented i from 41 to 42
+P at pos 42 with i = 42 and j = 0
+  matched T[42..43] = GG = P[0..1] = gg
+  mismatch T[44] = G != P[2] = a
+  updated j from 2 to f[1] = 1
+P at pos 43 with i = 44 and j = 1
+  matched T[44..48] = GAGGA = P[1..5] = gagga
+  found an occurrence of P
+  updated j from 6 to f[5] = 3
+P at pos 46 with i = 49 and j = 3
+  mismatch T[49] = T != P[3] = g
+  updated j from 3 to f[2] = 0
+P at pos 49 with i = 49 and j = 0
+  mismatch T[49] = T != P[0] = g
+  incremented i from 49 to 50
+P at pos 50 with i = 50 and j = 0
+  mismatch T[50] = C != P[0] = g
+  incremented i from 50 to 51
+P at pos 51 with i = 51 and j = 0
+  matched T[51..51] = G = P[0..0] = g
+  mismatch T[52] = C != P[1] = g
+  updated j from 1 to f[0] = 0
+P at pos 52 with i = 52 and j = 0
+  mismatch T[52] = C != P[0] = g
+  incremented i from 52 to 53
+P at pos 53 with i = 53 and j = 0
+  mismatch T[53] = T != P[0] = g
+  incremented i from 53 to 54
+P at pos 54 with i = 54 and j = 0
+  mismatch T[54] = T != P[0] = g
+  incremented i from 54 to 55
+P at pos 55 with i = 55 and j = 0
+  matched T[55..55] = G = P[0..0] = g
+  mismatch T[56] = T != P[1] = g
+  updated j from 1 to f[0] = 0
+P at pos 56 with i = 56 and j = 0
+  mismatch T[56] = T != P[0] = g
+  incremented i from 56 to 57
+P at pos 57 with i = 57 and j = 0
+  mismatch T[57] = C != P[0] = g
+  incremented i from 57 to 58
+P at pos 58 with i = 58 and j = 0
+  mismatch T[58] = T != P[0] = g
+  incremented i from 58 to 59
+P at pos 59 with i = 59 and j = 0
+  matched T[59..59] = G = P[0..0] = g
+  mismatch T[60] = A != P[1] = g
+  updated j from 1 to f[0] = 0
+P at pos 60 with i = 60 and j = 0
+  mismatch T[60] = A != P[0] = g
+  incremented i from 60 to 61
+P at pos 61 with i = 61 and j = 0
+  mismatch T[61] = C != P[0] = g
+  incremented i from 61 to 62
+P at pos 62 with i = 62 and j = 0
+  mismatch T[62] = C != P[0] = g
+  incremented i from 62 to 63
+P at pos 63 with i = 63 and j = 0
+  mismatch T[63] = T != P[0] = g
+  incremented i from 63 to 64
+P at pos 64 with i = 64 and j = 0
+  matched T[64..69] = GGAGGA = P[0..5] = ggagga
+  found an occurrence of P
+  updated j from 6 to f[5] = 3
+P at pos 67 with i = 70 and j = 3
+  mismatch T[70] = T != P[3] = g
+  updated j from 3 to f[2] = 0
+P at pos 70 with i = 70 and j = 0
+  mismatch T[70] = T != P[0] = g
+  incremented i from 70 to 71
+P at pos 71 with i = 71 and j = 0
+  mismatch T[71] = T != P[0] = g
+  incremented i from 71 to 72
+P at pos 72 with i = 72 and j = 0
+  mismatch T[72] = A != P[0] = g
+  incremented i from 72 to 73
+P at pos 73 with i = 73 and j = 0
+  mismatch T[73] = C != P[0] = g
+  incremented i from 73 to 74
+P at pos 74 with i = 74 and j = 0
+  mismatch T[74] = T != P[0] = g
+  incremented i from 74 to 75
+P at pos 75 with i = 75 and j = 0
+  mismatch T[75] = T != P[0] = g
+  incremented i from 75 to 76
+P at pos 76 with i = 76 and j = 0
+  mismatch T[76] = T != P[0] = g
+  incremented i from 76 to 77
+P at pos 77 with i = 77 and j = 0
+  mismatch T[77] = C != P[0] = g
+  incremented i from 77 to 78
+P at pos 78 with i = 78 and j = 0
+  matched T[78..78] = G = P[0..0] = g
+  mismatch T[79] = C != P[1] = g
+  updated j from 1 to f[0] = 0
+P at pos 79 with i = 79 and j = 0
+  mismatch T[79] = C != P[0] = g
+  incremented i from 79 to 80
+P at pos 80 with i = 80 and j = 0
+  mismatch T[80] = T != P[0] = g
+  incremented i from 80 to 81
+P at pos 81 with i = 81 and j = 0
+  mismatch T[81] = C != P[0] = g
+  incremented i from 81 to 82
+P at pos 82 with i = 82 and j = 0
+  mismatch T[82] = T != P[0] = g
+  incremented i from 82 to 83
+P at pos 83 with i = 83 and j = 0
+  matched T[83..88] = GGAGGA = P[0..5] = ggagga
+  found an occurrence of P
+  updated j from 6 to f[5] = 3
+P at pos 86 with i = 89 and j = 3
+  mismatch T[89] = C != P[3] = g
+  updated j from 3 to f[2] = 0
+P at pos 89 with i = 89 and j = 0
+  mismatch T[89] = C != P[0] = g
+  incremented i from 89 to 90
+P at pos 90 with i = 90 and j = 0
+  matched T[90..90] = G = P[0..0] = g
+  mismatch T[91] = A != P[1] = g
+  updated j from 1 to f[0] = 0
+P at pos 91 with i = 91 and j = 0
+  mismatch T[91] = A != P[0] = g
+  incremented i from 91 to 92
+P at pos 92 with i = 92 and j = 0
+  mismatch T[92] = C != P[0] = g
+  incremented i from 92 to 93
+P at pos 93 with i = 93 and j = 0
+  mismatch T[93] = A != P[0] = g
+  incremented i from 93 to 94

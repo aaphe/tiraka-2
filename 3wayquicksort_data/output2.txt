@@ -1,0 +1,230 @@
+Original: win rice waste win reward belie winter wave reading respect reading rice work run balance view respect broth bit walk room win range reason winter rice record reading winter birth work river view rest ray record view vessel word belief reading view reason reason reason rest record winter water wine range rhythm rub wool rule reading view wool road bread verse win respect vessel week
+Sorting subarray 0...64 with depth 0 and pivot view
+Sorting subarray 0...37 with depth 0 and pivot reason
+Sorting subarray 0...6 with depth 0 and pivot broth
+Immediate return from subarray 0...-1 with depth 0
+Sorting subarray 0...6 with depth 1 and pivot belie
+Immediate return from subarray 0...0 with depth 1
+Sorting subarray 1...2 with depth 2 and pivot belief
+Immediate return from subarray 1...0 with depth 2
+Sorting subarray 1...2 with depth 3 and pivot belief
+Immediate return from subarray 1...0 with depth 3
+Sorting subarray 1...2 with depth 4 and pivot belief
+Immediate return from subarray 1...0 with depth 4
+Sorting subarray 1...2 with depth 5 and pivot belief
+Immediate return from subarray 1...1 with depth 5
+Immediate return from subarray 2...2 with depth 6
+Immediate return from subarray 3...2 with depth 5
+Immediate return from subarray 3...2 with depth 4
+Immediate return from subarray 3...2 with depth 3
+Immediate return from subarray 3...2 with depth 2
+Sorting subarray 3...6 with depth 1 and pivot birth
+Immediate return from subarray 3...2 with depth 1
+Sorting subarray 3...4 with depth 2 and pivot birth
+Immediate return from subarray 3...2 with depth 2
+Immediate return from subarray 3...3 with depth 3
+Immediate return from subarray 4...4 with depth 2
+Sorting subarray 5...6 with depth 1 and pivot bread
+Immediate return from subarray 5...4 with depth 1
+Sorting subarray 5...6 with depth 2 and pivot bread
+Immediate return from subarray 5...4 with depth 2
+Immediate return from subarray 5...5 with depth 3
+Immediate return from subarray 6...6 with depth 2
+Immediate return from subarray 7...6 with depth 1
+Immediate return from subarray 7...6 with depth 0
+Sorting subarray 7...37 with depth 1 and pivot reading
+Sorting subarray 7...9 with depth 1 and pivot ray
+Immediate return from subarray 7...6 with depth 1
+Sorting subarray 7...9 with depth 2 and pivot range
+Immediate return from subarray 7...6 with depth 2
+Sorting subarray 7...8 with depth 3 and pivot range
+Immediate return from subarray 7...6 with depth 3
+Sorting subarray 7...8 with depth 4 and pivot range
+Immediate return from subarray 7...6 with depth 4
+Sorting subarray 7...8 with depth 5 and pivot range
+Immediate return from subarray 7...6 with depth 5
+Immediate return from subarray 9...8 with depth 5
+Immediate return from subarray 9...8 with depth 4
+Immediate return from subarray 9...8 with depth 3
+Immediate return from subarray 9...9 with depth 2
+Immediate return from subarray 10...9 with depth 1
+Sorting subarray 10...27 with depth 2 and pivot reading
+Immediate return from subarray 10...9 with depth 2
+Sorting subarray 10...18 with depth 3 and pivot reading
+Immediate return from subarray 10...9 with depth 3
+Sorting subarray 10...14 with depth 4 and pivot reading
+Immediate return from subarray 10...9 with depth 4
+Sorting subarray 10...14 with depth 5 and pivot reading
+Immediate return from subarray 10...9 with depth 5
+Sorting subarray 10...14 with depth 6 and pivot reading
+Immediate return from subarray 10...9 with depth 6
+Sorting subarray 10...14 with depth 7 and pivot reading
+Immediate return from subarray 10...9 with depth 7
+Immediate return from subarray 15...14 with depth 7
+Immediate return from subarray 15...14 with depth 6
+Immediate return from subarray 15...14 with depth 5
+Immediate return from subarray 15...14 with depth 4
+Sorting subarray 15...18 with depth 3 and pivot reason
+Immediate return from subarray 15...14 with depth 3
+Sorting subarray 15...18 with depth 4 and pivot reason
+Immediate return from subarray 15...14 with depth 4
+Sorting subarray 15...18 with depth 5 and pivot reason
+Immediate return from subarray 15...14 with depth 5
+Sorting subarray 15...18 with depth 6 and pivot reason
+Immediate return from subarray 15...14 with depth 6
+Immediate return from subarray 19...18 with depth 6
+Immediate return from subarray 19...18 with depth 5
+Immediate return from subarray 19...18 with depth 4
+Immediate return from subarray 19...18 with depth 3
+Sorting subarray 19...27 with depth 2 and pivot respect
+Sorting subarray 19...21 with depth 2 and pivot record
+Immediate return from subarray 19...18 with depth 2
+Sorting subarray 19...21 with depth 3 and pivot record
+Immediate return from subarray 19...18 with depth 3
+Sorting subarray 19...21 with depth 4 and pivot record
+Immediate return from subarray 19...18 with depth 4
+Sorting subarray 19...21 with depth 5 and pivot record
+Immediate return from subarray 19...18 with depth 5
+Sorting subarray 19...21 with depth 6 and pivot record
+Immediate return from subarray 19...18 with depth 6
+Immediate return from subarray 22...21 with depth 6
+Immediate return from subarray 22...21 with depth 5
+Immediate return from subarray 22...21 with depth 4
+Immediate return from subarray 22...21 with depth 3
+Immediate return from subarray 22...21 with depth 2
+Sorting subarray 22...26 with depth 3 and pivot rest
+Sorting subarray 22...24 with depth 3 and pivot respect
+Immediate return from subarray 22...21 with depth 3
+Sorting subarray 22...24 with depth 4 and pivot respect
+Immediate return from subarray 22...21 with depth 4
+Sorting subarray 22...24 with depth 5 and pivot respect
+Immediate return from subarray 22...21 with depth 5
+Sorting subarray 22...24 with depth 6 and pivot respect
+Immediate return from subarray 22...21 with depth 6
+Sorting subarray 22...24 with depth 7 and pivot respect
+Immediate return from subarray 22...21 with depth 7
+Immediate return from subarray 25...24 with depth 7
+Immediate return from subarray 25...24 with depth 6
+Immediate return from subarray 25...24 with depth 5
+Immediate return from subarray 25...24 with depth 4
+Immediate return from subarray 25...24 with depth 3
+Sorting subarray 25...26 with depth 4 and pivot rest
+Immediate return from subarray 25...24 with depth 4
+Immediate return from subarray 27...26 with depth 4
+Immediate return from subarray 27...26 with depth 3
+Immediate return from subarray 27...27 with depth 2
+Sorting subarray 28...37 with depth 1 and pivot rule
+Sorting subarray 28...34 with depth 1 and pivot rice
+Immediate return from subarray 28...28 with depth 1
+Sorting subarray 29...32 with depth 2 and pivot river
+Sorting subarray 29...31 with depth 2 and pivot rice
+Immediate return from subarray 29...28 with depth 2
+Sorting subarray 29...31 with depth 3 and pivot rice
+Immediate return from subarray 29...28 with depth 3
+Sorting subarray 29...31 with depth 4 and pivot rice
+Immediate return from subarray 29...28 with depth 4
+Immediate return from subarray 32...31 with depth 4
+Immediate return from subarray 32...31 with depth 3
+Immediate return from subarray 32...31 with depth 2
+Immediate return from subarray 32...32 with depth 3
+Immediate return from subarray 33...32 with depth 2
+Sorting subarray 33...34 with depth 1 and pivot road
+Immediate return from subarray 33...32 with depth 1
+Sorting subarray 33...34 with depth 2 and pivot road
+Immediate return from subarray 33...32 with depth 2
+Immediate return from subarray 33...33 with depth 3
+Immediate return from subarray 34...34 with depth 2
+Immediate return from subarray 35...34 with depth 1
+Sorting subarray 35...37 with depth 2 and pivot rule
+Immediate return from subarray 35...35 with depth 2
+Immediate return from subarray 36...36 with depth 3
+Immediate return from subarray 37...37 with depth 2
+Immediate return from subarray 38...37 with depth 1
+Immediate return from subarray 38...37 with depth 0
+Sorting subarray 38...45 with depth 1 and pivot view
+Sorting subarray 38...40 with depth 1 and pivot verse
+Immediate return from subarray 38...37 with depth 1
+Sorting subarray 38...40 with depth 2 and pivot vessel
+Immediate return from subarray 38...38 with depth 2
+Sorting subarray 39...40 with depth 3 and pivot vessel
+Immediate return from subarray 39...38 with depth 3
+Sorting subarray 39...40 with depth 4 and pivot vessel
+Immediate return from subarray 39...38 with depth 4
+Sorting subarray 39...40 with depth 5 and pivot vessel
+Immediate return from subarray 39...38 with depth 5
+Sorting subarray 39...40 with depth 6 and pivot vessel
+Immediate return from subarray 39...38 with depth 6
+Immediate return from subarray 41...40 with depth 6
+Immediate return from subarray 41...40 with depth 5
+Immediate return from subarray 41...40 with depth 4
+Immediate return from subarray 41...40 with depth 3
+Immediate return from subarray 41...40 with depth 2
+Immediate return from subarray 41...40 with depth 1
+Sorting subarray 41...45 with depth 2 and pivot view
+Immediate return from subarray 41...40 with depth 2
+Sorting subarray 41...45 with depth 3 and pivot view
+Immediate return from subarray 41...40 with depth 3
+Sorting subarray 41...45 with depth 4 and pivot view
+Immediate return from subarray 41...40 with depth 4
+Immediate return from subarray 46...45 with depth 4
+Immediate return from subarray 46...45 with depth 3
+Immediate return from subarray 46...45 with depth 2
+Immediate return from subarray 46...45 with depth 1
+Sorting subarray 46...64 with depth 0 and pivot win
+Immediate return from subarray 46...45 with depth 0
+Sorting subarray 46...64 with depth 1 and pivot winter
+Sorting subarray 46...50 with depth 1 and pivot week
+Sorting subarray 46...49 with depth 1 and pivot water
+Immediate return from subarray 46...45 with depth 1
+Sorting subarray 46...49 with depth 2 and pivot waste
+Immediate return from subarray 46...46 with depth 2
+Immediate return from subarray 47...47 with depth 3
+Sorting subarray 48...49 with depth 2 and pivot wave
+Immediate return from subarray 48...48 with depth 2
+Immediate return from subarray 49...49 with depth 3
+Immediate return from subarray 50...49 with depth 2
+Immediate return from subarray 50...49 with depth 1
+Immediate return from subarray 50...50 with depth 2
+Immediate return from subarray 51...50 with depth 1
+Sorting subarray 51...59 with depth 2 and pivot win
+Immediate return from subarray 51...50 with depth 2
+Sorting subarray 51...59 with depth 3 and pivot wine
+Sorting subarray 51...54 with depth 3 and pivot win
+Immediate return from subarray 51...50 with depth 3
+Immediate return from subarray 55...54 with depth 3
+Immediate return from subarray 55...55 with depth 4
+Sorting subarray 56...59 with depth 3 and pivot winter
+Immediate return from subarray 56...55 with depth 3
+Sorting subarray 56...59 with depth 4 and pivot winter
+Immediate return from subarray 56...55 with depth 4
+Sorting subarray 56...59 with depth 5 and pivot winter
+Immediate return from subarray 56...55 with depth 5
+Sorting subarray 56...59 with depth 6 and pivot winter
+Immediate return from subarray 56...55 with depth 6
+Immediate return from subarray 60...59 with depth 6
+Immediate return from subarray 60...59 with depth 5
+Immediate return from subarray 60...59 with depth 4
+Immediate return from subarray 60...59 with depth 3
+Immediate return from subarray 60...59 with depth 2
+Sorting subarray 60...64 with depth 1 and pivot wool
+Immediate return from subarray 60...59 with depth 1
+Sorting subarray 60...64 with depth 2 and pivot work
+Sorting subarray 60...61 with depth 2 and pivot wool
+Immediate return from subarray 60...59 with depth 2
+Sorting subarray 60...61 with depth 3 and pivot wool
+Immediate return from subarray 60...59 with depth 3
+Sorting subarray 60...61 with depth 4 and pivot wool
+Immediate return from subarray 60...59 with depth 4
+Immediate return from subarray 62...61 with depth 4
+Immediate return from subarray 62...61 with depth 3
+Immediate return from subarray 62...61 with depth 2
+Sorting subarray 62...64 with depth 3 and pivot work
+Immediate return from subarray 62...62 with depth 3
+Sorting subarray 63...64 with depth 4 and pivot work
+Immediate return from subarray 63...62 with depth 4
+Immediate return from subarray 65...64 with depth 4
+Immediate return from subarray 65...64 with depth 3
+Immediate return from subarray 65...64 with depth 2
+Immediate return from subarray 65...64 with depth 1
+Immediate return from subarray 65...64 with depth 0
+Sorted: balance belie belief birth bit bread broth range range ray reading reading reading reading reading reason reason reason reason record record record respect respect respect rest rest reward rhythm rice rice rice river road room rub rule run verse vessel vessel view view view view view walk waste water wave week win win win win wine winter winter winter winter wool wool word work work

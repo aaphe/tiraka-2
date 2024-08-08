@@ -1,0 +1,14 @@
+A maximum bipartite matching with 13 pairs:
+20 8
+16 26
+19 17
+0 29
+18 24
+3 21
+13 7
+9 25
+14 4
+12 15
+28 23
+2 27
+1 11

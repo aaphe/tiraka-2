@@ -1,0 +1,102 @@
+Segment tree levels:
+ 847
+ 438 409
+ 252 186 193 216
+ 121 131 83 103 88 105 151 65
+ 48 73 49 82 50 33 12 91 62 26 26 79 87 64 65 0
+ 13 35 35 38 0 49 46 36 22 28 32 1 5 7 41 50 23 39 24 2 18 8 31 48 40 47 40 24 22 43 0 0
+
+
+Querying interval 2...13
+  left and right positions: 34 45
+  left and right positions: 17 22
+    updated result from 0 to 73 using S[17]=73
+    updated result from 73 to 85 using S[22]=12
+  left and right positions: 9 10
+    updated result from 85 to 216 using S[9]=131
+    updated result from 216 to 299 using S[10]=83
+
+Sum(2...13) = 299
+
+Querying interval 11...26
+  left and right positions: 43 58
+    updated result from 0 to 1 using S[43]=1
+    updated result from 1 to 41 using S[58]=40
+  left and right positions: 22 28
+    updated result from 41 to 128 using S[28]=87
+  left and right positions: 11 13
+    updated result from 128 to 231 using S[11]=103
+  left and right positions: 6 6
+    updated result from 231 to 424 using S[6]=193
+
+Sum(11...26) = 424
+
+Querying interval 3...9
+  left and right positions: 35 41
+    updated result from 0 to 38 using S[35]=38
+  left and right positions: 18 20
+    updated result from 38 to 88 using S[20]=50
+  left and right positions: 9 9
+    updated result from 88 to 219 using S[9]=131
+
+Sum(3...9) = 219
+
+Updating V[16] = 39
+
+Querying interval 9...29
+  left and right positions: 41 61
+    updated result from 0 to 28 using S[41]=28
+  left and right positions: 21 30
+    updated result from 28 to 61 using S[21]=33
+    updated result from 61 to 126 using S[30]=65
+  left and right positions: 11 14
+    updated result from 126 to 229 using S[11]=103
+    updated result from 229 to 380 using S[14]=151
+  left and right positions: 6 6
+    updated result from 380 to 589 using S[6]=209
+
+Sum(9...29) = 589
+
+Querying interval 7...8
+  left and right positions: 39 40
+    updated result from 0 to 36 using S[39]=36
+    updated result from 36 to 58 using S[40]=22
+
+Sum(7...8) = 58
+
+Querying interval 0...27
+  left and right positions: 32 59
+  left and right positions: 16 29
+  left and right positions: 8 14
+    updated result from 0 to 151 using S[14]=151
+  left and right positions: 4 6
+    updated result from 151 to 360 using S[6]=209
+  left and right positions: 2 2
+    updated result from 360 to 798 using S[2]=438
+
+Sum(0...27) = 798
+
+Updating V[6] = 28
+
+Querying interval 3...19
+  left and right positions: 35 51
+    updated result from 0 to 38 using S[35]=38
+  left and right positions: 18 25
+  left and right positions: 9 12
+    updated result from 38 to 151 using S[9]=113
+    updated result from 151 to 255 using S[12]=104
+  left and right positions: 5 5
+    updated result from 255 to 441 using S[5]=186
+
+Sum(3...19) = 441
+
+Querying interval 12...24
+  left and right positions: 44 56
+    updated result from 0 to 40 using S[56]=40
+  left and right positions: 22 27
+  left and right positions: 11 13
+    updated result from 40 to 143 using S[11]=103
+  left and right positions: 6 6
+    updated result from 143 to 352 using S[6]=209
+
+Sum(12...24) = 352

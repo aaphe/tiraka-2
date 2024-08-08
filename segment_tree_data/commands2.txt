@@ -1,0 +1,10 @@
+query 2 13
+query 11 26
+query 3 9
+set 16 39
+query 9 29
+query 7 8
+query 0 27
+set 6 28
+query 3 19
+query 12 24

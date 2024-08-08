@@ -1,0 +1,17 @@
+Improvements in iteration 1: d(2) = -13, d(15) = 21
+Improvements in iteration 2: d(3) = -17, d(5) = -26, d(6) = 42, d(12) = 20
+Improvements in iteration 3: d(1) = -20, d(4) = -7, d(7) = 3, d(8) = 36, d(10) = 23
+Improvements in iteration 4: d(8) = 10, d(9) = 15, d(12) = -15, d(16) = -2
+Improvements in iteration 5: d(10) = -12, d(11) = 32
+Improvements in iteration 6: d(4) = -22, d(7) = -20, d(13) = 73, d(15) = 10
+Improvements in iteration 7: d(6) = 31, d(8) = -13, d(16) = -17
+Improvements in iteration 8: d(9) = -8
+Improvements in iteration 9: d(2) = -18, d(11) = 9
+Improvements in iteration 10: d(3) = -22, d(5) = -31, d(13) = 50
+Improvements in iteration 11: d(1) = -25, d(14) = -2
+Improvements in iteration 12: d(12) = -20
+Improvements in iteration 13: d(10) = -17
+Improvements in iteration 14: d(4) = -27, d(7) = -25, d(15) = 5
+Improvements in iteration 15: d(6) = 26, d(8) = -18, d(16) = -22
+Improvements in iteration 16: d(9) = -13
+A negative cycle with cost -5 detected: 9 2 3 1 12 10 7 8 9

@@ -1,0 +1,1152 @@
+P: ASSASSIN
+Suffix function f: 0 0 0 1 2 3 0 0
+P at pos 0 with i = 0 and j = 0
+  mismatch T[0] = W != P[0] = A
+  incremented i from 0 to 1
+P at pos 1 with i = 1 and j = 0
+  mismatch T[1] = h != P[0] = A
+  incremented i from 1 to 2
+P at pos 2 with i = 2 and j = 0
+  matched T[2..2] = a = P[0..0] = A
+  mismatch T[3] = t != P[1] = S
+  updated j from 1 to f[0] = 0
+P at pos 3 with i = 3 and j = 0
+  mismatch T[3] = t != P[0] = A
+  incremented i from 3 to 4
+P at pos 4 with i = 4 and j = 0
+  mismatch T[4] =   != P[0] = A
+  incremented i from 4 to 5
+P at pos 5 with i = 5 and j = 0
+  mismatch T[5] = w != P[0] = A
+  incremented i from 5 to 6
+P at pos 6 with i = 6 and j = 0
+  matched T[6..7] = as = P[0..1] = AS
+  mismatch T[8] =   != P[2] = S
+  updated j from 2 to f[1] = 0
+P at pos 8 with i = 8 and j = 0
+  mismatch T[8] =   != P[0] = A
+  incremented i from 8 to 9
+P at pos 9 with i = 9 and j = 0
+  mismatch T[9] = t != P[0] = A
+  incremented i from 9 to 10
+P at pos 10 with i = 10 and j = 0
+  mismatch T[10] = h != P[0] = A
+  incremented i from 10 to 11
+P at pos 11 with i = 11 and j = 0
+  matched T[11..11] = a = P[0..0] = A
+  mismatch T[12] = t != P[1] = S
+  updated j from 1 to f[0] = 0
+P at pos 12 with i = 12 and j = 0
+  mismatch T[12] = t != P[0] = A
+  incremented i from 12 to 13
+P at pos 13 with i = 13 and j = 0
+  mismatch T[13] =   != P[0] = A
+  incremented i from 13 to 14
+P at pos 14 with i = 14 and j = 0
+  mismatch T[14] = e != P[0] = A
+  incremented i from 14 to 15
+P at pos 15 with i = 15 and j = 0
+  mismatch T[15] = x != P[0] = A
+  incremented i from 15 to 16
+P at pos 16 with i = 16 and j = 0
+  mismatch T[16] = p != P[0] = A
+  incremented i from 16 to 17
+P at pos 17 with i = 17 and j = 0
+  mismatch T[17] = r != P[0] = A
+  incremented i from 17 to 18
+P at pos 18 with i = 18 and j = 0
+  mismatch T[18] = e != P[0] = A
+  incremented i from 18 to 19
+P at pos 19 with i = 19 and j = 0
+  mismatch T[19] = s != P[0] = A
+  incremented i from 19 to 20
+P at pos 20 with i = 20 and j = 0
+  mismatch T[20] = s != P[0] = A
+  incremented i from 20 to 21
+P at pos 21 with i = 21 and j = 0
+  mismatch T[21] = i != P[0] = A
+  incremented i from 21 to 22
+P at pos 22 with i = 22 and j = 0
+  mismatch T[22] = o != P[0] = A
+  incremented i from 22 to 23
+P at pos 23 with i = 23 and j = 0
+  mismatch T[23] = n != P[0] = A
+  incremented i from 23 to 24
+P at pos 24 with i = 24 and j = 0
+  mismatch T[24] =   != P[0] = A
+  incremented i from 24 to 25
+P at pos 25 with i = 25 and j = 0
+  mismatch T[25] = u != P[0] = A
+  incremented i from 25 to 26
+P at pos 26 with i = 26 and j = 0
+  mismatch T[26] = s != P[0] = A
+  incremented i from 26 to 27
+P at pos 27 with i = 27 and j = 0
+  mismatch T[27] = e != P[0] = A
+  incremented i from 27 to 28
+P at pos 28 with i = 28 and j = 0
+  mismatch T[28] = d != P[0] = A
+  incremented i from 28 to 29
+P at pos 29 with i = 29 and j = 0
+  mismatch T[29] =   != P[0] = A
+  incremented i from 29 to 30
+P at pos 30 with i = 30 and j = 0
+  mismatch T[30] = b != P[0] = A
+  incremented i from 30 to 31
+P at pos 31 with i = 31 and j = 0
+  mismatch T[31] = y != P[0] = A
+  incremented i from 31 to 32
+P at pos 32 with i = 32 and j = 0
+  mismatch T[32] =   != P[0] = A
+  incremented i from 32 to 33
+P at pos 33 with i = 33 and j = 0
+  mismatch T[33] = E != P[0] = A
+  incremented i from 33 to 34
+P at pos 34 with i = 34 and j = 0
+  matched T[34..34] = a = P[0..0] = A
+  mismatch T[35] = r != P[1] = S
+  updated j from 1 to f[0] = 0
+P at pos 35 with i = 35 and j = 0
+  mismatch T[35] = r != P[0] = A
+  incremented i from 35 to 36
+P at pos 36 with i = 36 and j = 0
+  mismatch T[36] = t != P[0] = A
+  incremented i from 36 to 37
+P at pos 37 with i = 37 and j = 0
+  mismatch T[37] = h != P[0] = A
+  incremented i from 37 to 38
+P at pos 38 with i = 38 and j = 0
+  mismatch T[38] =   != P[0] = A
+  incremented i from 38 to 39
+P at pos 39 with i = 39 and j = 0
+  mismatch T[39] = p != P[0] = A
+  incremented i from 39 to 40
+P at pos 40 with i = 40 and j = 0
+  mismatch T[40] = e != P[0] = A
+  incremented i from 40 to 41
+P at pos 41 with i = 41 and j = 0
+  mismatch T[41] = o != P[0] = A
+  incremented i from 41 to 42
+P at pos 42 with i = 42 and j = 0
+  mismatch T[42] = p != P[0] = A
+  incremented i from 42 to 43
+P at pos 43 with i = 43 and j = 0
+  mismatch T[43] = l != P[0] = A
+  incremented i from 43 to 44
+P at pos 44 with i = 44 and j = 0
+  mismatch T[44] = e != P[0] = A
+  incremented i from 44 to 45
+P at pos 45 with i = 45 and j = 0
+  mismatch T[45] =   != P[0] = A
+  incremented i from 45 to 46
+P at pos 46 with i = 46 and j = 0
+  mismatch T[46] = o != P[0] = A
+  incremented i from 46 to 47
+P at pos 47 with i = 47 and j = 0
+  mismatch T[47] = f != P[0] = A
+  incremented i from 47 to 48
+P at pos 48 with i = 48 and j = 0
+  mismatch T[48] =   != P[0] = A
+  incremented i from 48 to 49
+P at pos 49 with i = 49 and j = 0
+  mismatch T[49] = t != P[0] = A
+  incremented i from 49 to 50
+P at pos 50 with i = 50 and j = 0
+  mismatch T[50] = h != P[0] = A
+  incremented i from 50 to 51
+P at pos 51 with i = 51 and j = 0
+  mismatch T[51] = e != P[0] = A
+  incremented i from 51 to 52
+P at pos 52 with i = 52 and j = 0
+  mismatch T[52] =   != P[0] = A
+  incremented i from 52 to 53
+P at pos 53 with i = 53 and j = 0
+  mismatch T[53] = 2 != P[0] = A
+  incremented i from 53 to 54
+P at pos 54 with i = 54 and j = 0
+  mismatch T[54] = 0 != P[0] = A
+  incremented i from 54 to 55
+P at pos 55 with i = 55 and j = 0
+  mismatch T[55] = t != P[0] = A
+  incremented i from 55 to 56
+P at pos 56 with i = 56 and j = 0
+  mismatch T[56] = h != P[0] = A
+  incremented i from 56 to 57
+P at pos 57 with i = 57 and j = 0
+  mismatch T[57] =   != P[0] = A
+  incremented i from 57 to 58
+P at pos 58 with i = 58 and j = 0
+  mismatch T[58] = c != P[0] = A
+  incremented i from 58 to 59
+P at pos 59 with i = 59 and j = 0
+  mismatch T[59] = e != P[0] = A
+  incremented i from 59 to 60
+P at pos 60 with i = 60 and j = 0
+  mismatch T[60] = n != P[0] = A
+  incremented i from 60 to 61
+P at pos 61 with i = 61 and j = 0
+  mismatch T[61] = t != P[0] = A
+  incremented i from 61 to 62
+P at pos 62 with i = 62 and j = 0
+  mismatch T[62] = u != P[0] = A
+  incremented i from 62 to 63
+P at pos 63 with i = 63 and j = 0
+  mismatch T[63] = r != P[0] = A
+  incremented i from 63 to 64
+P at pos 64 with i = 64 and j = 0
+  mismatch T[64] = y != P[0] = A
+  incremented i from 64 to 65
+P at pos 65 with i = 65 and j = 0
+  mismatch T[65] = ? != P[0] = A
+  incremented i from 65 to 66
+P at pos 66 with i = 66 and j = 0
+  mismatch T[66] =   != P[0] = A
+  incremented i from 66 to 67
+P at pos 67 with i = 67 and j = 0
+  mismatch T[67] = I != P[0] = A
+  incremented i from 67 to 68
+P at pos 68 with i = 68 and j = 0
+  mismatch T[68] =   != P[0] = A
+  incremented i from 68 to 69
+P at pos 69 with i = 69 and j = 0
+  mismatch T[69] = s != P[0] = A
+  incremented i from 69 to 70
+P at pos 70 with i = 70 and j = 0
+  mismatch T[70] = h != P[0] = A
+  incremented i from 70 to 71
+P at pos 71 with i = 71 and j = 0
+  mismatch T[71] = i != P[0] = A
+  incremented i from 71 to 72
+P at pos 72 with i = 72 and j = 0
+  mismatch T[72] = f != P[0] = A
+  incremented i from 72 to 73
+P at pos 73 with i = 73 and j = 0
+  mismatch T[73] = t != P[0] = A
+  incremented i from 73 to 74
+P at pos 74 with i = 74 and j = 0
+  mismatch T[74] = e != P[0] = A
+  incremented i from 74 to 75
+P at pos 75 with i = 75 and j = 0
+  mismatch T[75] = d != P[0] = A
+  incremented i from 75 to 76
+P at pos 76 with i = 76 and j = 0
+  mismatch T[76] =   != P[0] = A
+  incremented i from 76 to 77
+P at pos 77 with i = 77 and j = 0
+  mismatch T[77] = b != P[0] = A
+  incremented i from 77 to 78
+P at pos 78 with i = 78 and j = 0
+  matched T[78..78] = a = P[0..0] = A
+  mismatch T[79] = c != P[1] = S
+  updated j from 1 to f[0] = 0
+P at pos 79 with i = 79 and j = 0
+  mismatch T[79] = c != P[0] = A
+  incremented i from 79 to 80
+P at pos 80 with i = 80 and j = 0
+  mismatch T[80] = k != P[0] = A
+  incremented i from 80 to 81
+P at pos 81 with i = 81 and j = 0
+  mismatch T[81] =   != P[0] = A
+  incremented i from 81 to 82
+P at pos 82 with i = 82 and j = 0
+  mismatch T[82] = t != P[0] = A
+  incremented i from 82 to 83
+P at pos 83 with i = 83 and j = 0
+  mismatch T[83] = h != P[0] = A
+  incremented i from 83 to 84
+P at pos 84 with i = 84 and j = 0
+  mismatch T[84] = r != P[0] = A
+  incremented i from 84 to 85
+P at pos 85 with i = 85 and j = 0
+  mismatch T[85] = o != P[0] = A
+  incremented i from 85 to 86
+P at pos 86 with i = 86 and j = 0
+  mismatch T[86] = u != P[0] = A
+  incremented i from 86 to 87
+P at pos 87 with i = 87 and j = 0
+  mismatch T[87] = g != P[0] = A
+  incremented i from 87 to 88
+P at pos 88 with i = 88 and j = 0
+  mismatch T[88] = h != P[0] = A
+  incremented i from 88 to 89
+P at pos 89 with i = 89 and j = 0
+  mismatch T[89] =   != P[0] = A
+  incremented i from 89 to 90
+P at pos 90 with i = 90 and j = 0
+  mismatch T[90] = m != P[0] = A
+  incremented i from 90 to 91
+P at pos 91 with i = 91 and j = 0
+  mismatch T[91] = y != P[0] = A
+  incremented i from 91 to 92
+P at pos 92 with i = 92 and j = 0
+  mismatch T[92] =   != P[0] = A
+  incremented i from 92 to 93
+P at pos 93 with i = 93 and j = 0
+  mismatch T[93] = t != P[0] = A
+  incremented i from 93 to 94
+P at pos 94 with i = 94 and j = 0
+  mismatch T[94] = r != P[0] = A
+  incremented i from 94 to 95
+P at pos 95 with i = 95 and j = 0
+  matched T[95..95] = a = P[0..0] = A
+  mismatch T[96] = i != P[1] = S
+  updated j from 1 to f[0] = 0
+P at pos 96 with i = 96 and j = 0
+  mismatch T[96] = i != P[0] = A
+  incremented i from 96 to 97
+P at pos 97 with i = 97 and j = 0
+  mismatch T[97] = n != P[0] = A
+  incremented i from 97 to 98
+P at pos 98 with i = 98 and j = 0
+  mismatch T[98] = i != P[0] = A
+  incremented i from 98 to 99
+P at pos 99 with i = 99 and j = 0
+  mismatch T[99] = n != P[0] = A
+  incremented i from 99 to 100
+P at pos 100 with i = 100 and j = 0
+  mismatch T[100] = g != P[0] = A
+  incremented i from 100 to 101
+P at pos 101 with i = 101 and j = 0
+  mismatch T[101] = , != P[0] = A
+  incremented i from 101 to 102
+P at pos 102 with i = 102 and j = 0
+  mismatch T[102] =   != P[0] = A
+  incremented i from 102 to 103
+P at pos 103 with i = 103 and j = 0
+  mismatch T[103] = s != P[0] = A
+  incremented i from 103 to 104
+P at pos 104 with i = 104 and j = 0
+  mismatch T[104] = h != P[0] = A
+  incremented i from 104 to 105
+P at pos 105 with i = 105 and j = 0
+  mismatch T[105] = u != P[0] = A
+  incremented i from 105 to 106
+P at pos 106 with i = 106 and j = 0
+  mismatch T[106] = f != P[0] = A
+  incremented i from 106 to 107
+P at pos 107 with i = 107 and j = 0
+  mismatch T[107] = f != P[0] = A
+  incremented i from 107 to 108
+P at pos 108 with i = 108 and j = 0
+  mismatch T[108] = l != P[0] = A
+  incremented i from 108 to 109
+P at pos 109 with i = 109 and j = 0
+  mismatch T[109] = e != P[0] = A
+  incremented i from 109 to 110
+P at pos 110 with i = 110 and j = 0
+  mismatch T[110] = d != P[0] = A
+  incremented i from 110 to 111
+P at pos 111 with i = 111 and j = 0
+  mismatch T[111] =   != P[0] = A
+  incremented i from 111 to 112
+P at pos 112 with i = 112 and j = 0
+  mismatch T[112] = t != P[0] = A
+  incremented i from 112 to 113
+P at pos 113 with i = 113 and j = 0
+  mismatch T[113] = h != P[0] = A
+  incremented i from 113 to 114
+P at pos 114 with i = 114 and j = 0
+  mismatch T[114] = r != P[0] = A
+  incremented i from 114 to 115
+P at pos 115 with i = 115 and j = 0
+  mismatch T[115] = o != P[0] = A
+  incremented i from 115 to 116
+P at pos 116 with i = 116 and j = 0
+  mismatch T[116] = u != P[0] = A
+  incremented i from 116 to 117
+P at pos 117 with i = 117 and j = 0
+  mismatch T[117] = g != P[0] = A
+  incremented i from 117 to 118
+P at pos 118 with i = 118 and j = 0
+  mismatch T[118] = h != P[0] = A
+  incremented i from 118 to 119
+P at pos 119 with i = 119 and j = 0
+  mismatch T[119] =   != P[0] = A
+  incremented i from 119 to 120
+P at pos 120 with i = 120 and j = 0
+  mismatch T[120] = t != P[0] = A
+  incremented i from 120 to 121
+P at pos 121 with i = 121 and j = 0
+  mismatch T[121] = h != P[0] = A
+  incremented i from 121 to 122
+P at pos 122 with i = 122 and j = 0
+  mismatch T[122] = e != P[0] = A
+  incremented i from 122 to 123
+P at pos 123 with i = 123 and j = 0
+  mismatch T[123] =   != P[0] = A
+  incremented i from 123 to 124
+P at pos 124 with i = 124 and j = 0
+  mismatch T[124] = f != P[0] = A
+  incremented i from 124 to 125
+P at pos 125 with i = 125 and j = 0
+  matched T[125..125] = a = P[0..0] = A
+  mismatch T[126] = c != P[1] = S
+  updated j from 1 to f[0] = 0
+P at pos 126 with i = 126 and j = 0
+  mismatch T[126] = c != P[0] = A
+  incremented i from 126 to 127
+P at pos 127 with i = 127 and j = 0
+  mismatch T[127] = t != P[0] = A
+  incremented i from 127 to 128
+P at pos 128 with i = 128 and j = 0
+  mismatch T[128] = s != P[0] = A
+  incremented i from 128 to 129
+P at pos 129 with i = 129 and j = 0
+  mismatch T[129] =   != P[0] = A
+  incremented i from 129 to 130
+P at pos 130 with i = 130 and j = 0
+  matched T[130..130] = a = P[0..0] = A
+  mismatch T[131] = b != P[1] = S
+  updated j from 1 to f[0] = 0
+P at pos 131 with i = 131 and j = 0
+  mismatch T[131] = b != P[0] = A
+  incremented i from 131 to 132
+P at pos 132 with i = 132 and j = 0
+  mismatch T[132] = o != P[0] = A
+  incremented i from 132 to 133
+P at pos 133 with i = 133 and j = 0
+  mismatch T[133] = u != P[0] = A
+  incremented i from 133 to 134
+P at pos 134 with i = 134 and j = 0
+  mismatch T[134] = t != P[0] = A
+  incremented i from 134 to 135
+P at pos 135 with i = 135 and j = 0
+  mismatch T[135] =   != P[0] = A
+  incremented i from 135 to 136
+P at pos 136 with i = 136 and j = 0
+  mismatch T[136] = E != P[0] = A
+  incremented i from 136 to 137
+P at pos 137 with i = 137 and j = 0
+  matched T[137..137] = a = P[0..0] = A
+  mismatch T[138] = r != P[1] = S
+  updated j from 1 to f[0] = 0
+P at pos 138 with i = 138 and j = 0
+  mismatch T[138] = r != P[0] = A
+  incremented i from 138 to 139
+P at pos 139 with i = 139 and j = 0
+  mismatch T[139] = t != P[0] = A
+  incremented i from 139 to 140
+P at pos 140 with i = 140 and j = 0
+  mismatch T[140] = h != P[0] = A
+  incremented i from 140 to 141
+P at pos 141 with i = 141 and j = 0
+  mismatch T[141] = ' != P[0] = A
+  incremented i from 141 to 142
+P at pos 142 with i = 142 and j = 0
+  mismatch T[142] = s != P[0] = A
+  incremented i from 142 to 143
+P at pos 143 with i = 143 and j = 0
+  mismatch T[143] =   != P[0] = A
+  incremented i from 143 to 144
+P at pos 144 with i = 144 and j = 0
+  mismatch T[144] = p != P[0] = A
+  incremented i from 144 to 145
+P at pos 145 with i = 145 and j = 0
+  matched T[145..146] = as = P[0..1] = AS
+  mismatch T[147] = t != P[2] = S
+  updated j from 2 to f[1] = 0
+P at pos 147 with i = 147 and j = 0
+  mismatch T[147] = t != P[0] = A
+  incremented i from 147 to 148
+P at pos 148 with i = 148 and j = 0
+  mismatch T[148] =   != P[0] = A
+  incremented i from 148 to 149
+P at pos 149 with i = 149 and j = 0
+  mismatch T[149] = h != P[0] = A
+  incremented i from 149 to 150
+P at pos 150 with i = 150 and j = 0
+  mismatch T[150] = i != P[0] = A
+  incremented i from 150 to 151
+P at pos 151 with i = 151 and j = 0
+  mismatch T[151] = s != P[0] = A
+  incremented i from 151 to 152
+P at pos 152 with i = 152 and j = 0
+  mismatch T[152] = t != P[0] = A
+  incremented i from 152 to 153
+P at pos 153 with i = 153 and j = 0
+  mismatch T[153] = o != P[0] = A
+  incremented i from 153 to 154
+P at pos 154 with i = 154 and j = 0
+  mismatch T[154] = r != P[0] = A
+  incremented i from 154 to 155
+P at pos 155 with i = 155 and j = 0
+  mismatch T[155] = y != P[0] = A
+  incremented i from 155 to 156
+P at pos 156 with i = 156 and j = 0
+  mismatch T[156] =   != P[0] = A
+  incremented i from 156 to 157
+P at pos 157 with i = 157 and j = 0
+  mismatch T[157] = w != P[0] = A
+  incremented i from 157 to 158
+P at pos 158 with i = 158 and j = 0
+  mismatch T[158] = i != P[0] = A
+  incremented i from 158 to 159
+P at pos 159 with i = 159 and j = 0
+  mismatch T[159] = t != P[0] = A
+  incremented i from 159 to 160
+P at pos 160 with i = 160 and j = 0
+  mismatch T[160] = h != P[0] = A
+  incremented i from 160 to 161
+P at pos 161 with i = 161 and j = 0
+  mismatch T[161] =   != P[0] = A
+  incremented i from 161 to 162
+P at pos 162 with i = 162 and j = 0
+  mismatch T[162] = w != P[0] = A
+  incremented i from 162 to 163
+P at pos 163 with i = 163 and j = 0
+  mismatch T[163] = h != P[0] = A
+  incremented i from 163 to 164
+P at pos 164 with i = 164 and j = 0
+  mismatch T[164] = i != P[0] = A
+  incremented i from 164 to 165
+P at pos 165 with i = 165 and j = 0
+  mismatch T[165] = c != P[0] = A
+  incremented i from 165 to 166
+P at pos 166 with i = 166 and j = 0
+  mismatch T[166] = h != P[0] = A
+  incremented i from 166 to 167
+P at pos 167 with i = 167 and j = 0
+  mismatch T[167] =   != P[0] = A
+  incremented i from 167 to 168
+P at pos 168 with i = 168 and j = 0
+  mismatch T[168] = I != P[0] = A
+  incremented i from 168 to 169
+P at pos 169 with i = 169 and j = 0
+  mismatch T[169] =   != P[0] = A
+  incremented i from 169 to 170
+P at pos 170 with i = 170 and j = 0
+  mismatch T[170] = h != P[0] = A
+  incremented i from 170 to 171
+P at pos 171 with i = 171 and j = 0
+  matched T[171..171] = a = P[0..0] = A
+  mismatch T[172] = d != P[1] = S
+  updated j from 1 to f[0] = 0
+P at pos 172 with i = 172 and j = 0
+  mismatch T[172] = d != P[0] = A
+  incremented i from 172 to 173
+P at pos 173 with i = 173 and j = 0
+  mismatch T[173] =   != P[0] = A
+  incremented i from 173 to 174
+P at pos 174 with i = 174 and j = 0
+  mismatch T[174] = b != P[0] = A
+  incremented i from 174 to 175
+P at pos 175 with i = 175 and j = 0
+  mismatch T[175] = e != P[0] = A
+  incremented i from 175 to 176
+P at pos 176 with i = 176 and j = 0
+  mismatch T[176] = e != P[0] = A
+  incremented i from 176 to 177
+P at pos 177 with i = 177 and j = 0
+  mismatch T[177] = n != P[0] = A
+  incremented i from 177 to 178
+P at pos 178 with i = 178 and j = 0
+  mismatch T[178] =   != P[0] = A
+  incremented i from 178 to 179
+P at pos 179 with i = 179 and j = 0
+  mismatch T[179] = i != P[0] = A
+  incremented i from 179 to 180
+P at pos 180 with i = 180 and j = 0
+  mismatch T[180] = n != P[0] = A
+  incremented i from 180 to 181
+P at pos 181 with i = 181 and j = 0
+  mismatch T[181] = d != P[0] = A
+  incremented i from 181 to 182
+P at pos 182 with i = 182 and j = 0
+  mismatch T[182] = o != P[0] = A
+  incremented i from 182 to 183
+P at pos 183 with i = 183 and j = 0
+  mismatch T[183] = c != P[0] = A
+  incremented i from 183 to 184
+P at pos 184 with i = 184 and j = 0
+  mismatch T[184] = t != P[0] = A
+  incremented i from 184 to 185
+P at pos 185 with i = 185 and j = 0
+  mismatch T[185] = r != P[0] = A
+  incremented i from 185 to 186
+P at pos 186 with i = 186 and j = 0
+  mismatch T[186] = i != P[0] = A
+  incremented i from 186 to 187
+P at pos 187 with i = 187 and j = 0
+  mismatch T[187] = n != P[0] = A
+  incremented i from 187 to 188
+P at pos 188 with i = 188 and j = 0
+  matched T[188..188] = a = P[0..0] = A
+  mismatch T[189] = t != P[1] = S
+  updated j from 1 to f[0] = 0
+P at pos 189 with i = 189 and j = 0
+  mismatch T[189] = t != P[0] = A
+  incremented i from 189 to 190
+P at pos 190 with i = 190 and j = 0
+  mismatch T[190] = e != P[0] = A
+  incremented i from 190 to 191
+P at pos 191 with i = 191 and j = 0
+  mismatch T[191] = d != P[0] = A
+  incremented i from 191 to 192
+P at pos 192 with i = 192 and j = 0
+  mismatch T[192] = , != P[0] = A
+  incremented i from 192 to 193
+P at pos 193 with i = 193 and j = 0
+  mismatch T[193] =   != P[0] = A
+  incremented i from 193 to 194
+P at pos 194 with i = 194 and j = 0
+  mismatch T[194] = s != P[0] = A
+  incremented i from 194 to 195
+P at pos 195 with i = 195 and j = 0
+  mismatch T[195] = e != P[0] = A
+  incremented i from 195 to 196
+P at pos 196 with i = 196 and j = 0
+  matched T[196..196] = a = P[0..0] = A
+  mismatch T[197] = r != P[1] = S
+  updated j from 1 to f[0] = 0
+P at pos 197 with i = 197 and j = 0
+  mismatch T[197] = r != P[0] = A
+  incremented i from 197 to 198
+P at pos 198 with i = 198 and j = 0
+  mismatch T[198] = c != P[0] = A
+  incremented i from 198 to 199
+P at pos 199 with i = 199 and j = 0
+  mismatch T[199] = h != P[0] = A
+  incremented i from 199 to 200
+P at pos 200 with i = 200 and j = 0
+  mismatch T[200] = i != P[0] = A
+  incremented i from 200 to 201
+P at pos 201 with i = 201 and j = 0
+  mismatch T[201] = n != P[0] = A
+  incremented i from 201 to 202
+P at pos 202 with i = 202 and j = 0
+  mismatch T[202] = g != P[0] = A
+  incremented i from 202 to 203
+P at pos 203 with i = 203 and j = 0
+  mismatch T[203] =   != P[0] = A
+  incremented i from 203 to 204
+P at pos 204 with i = 204 and j = 0
+  mismatch T[204] = f != P[0] = A
+  incremented i from 204 to 205
+P at pos 205 with i = 205 and j = 0
+  mismatch T[205] = o != P[0] = A
+  incremented i from 205 to 206
+P at pos 206 with i = 206 and j = 0
+  mismatch T[206] = r != P[0] = A
+  incremented i from 206 to 207
+P at pos 207 with i = 207 and j = 0
+  mismatch T[207] =   != P[0] = A
+  incremented i from 207 to 208
+P at pos 208 with i = 208 and j = 0
+  mismatch T[208] = t != P[0] = A
+  incremented i from 208 to 209
+P at pos 209 with i = 209 and j = 0
+  mismatch T[209] = h != P[0] = A
+  incremented i from 209 to 210
+P at pos 210 with i = 210 and j = 0
+  mismatch T[210] = e != P[0] = A
+  incremented i from 210 to 211
+P at pos 211 with i = 211 and j = 0
+  mismatch T[211] =   != P[0] = A
+  incremented i from 211 to 212
+P at pos 212 with i = 212 and j = 0
+  mismatch T[212] = w != P[0] = A
+  incremented i from 212 to 213
+P at pos 213 with i = 213 and j = 0
+  mismatch T[213] = o != P[0] = A
+  incremented i from 213 to 214
+P at pos 214 with i = 214 and j = 0
+  mismatch T[214] = r != P[0] = A
+  incremented i from 214 to 215
+P at pos 215 with i = 215 and j = 0
+  mismatch T[215] = d != P[0] = A
+  incremented i from 215 to 216
+P at pos 216 with i = 216 and j = 0
+  mismatch T[216] = . != P[0] = A
+  incremented i from 216 to 217
+P at pos 217 with i = 217 and j = 0
+  mismatch T[217] =   != P[0] = A
+  incremented i from 217 to 218
+P at pos 218 with i = 218 and j = 0
+  matched T[218..225] = Assassin = P[0..7] = ASSASSIN
+  found an occurrence of P
+  updated j from 8 to f[7] = 0
+P at pos 226 with i = 226 and j = 0
+  mismatch T[226] = ! != P[0] = A
+  incremented i from 226 to 227
+P at pos 227 with i = 227 and j = 0
+  mismatch T[227] =   != P[0] = A
+  incremented i from 227 to 228
+P at pos 228 with i = 228 and j = 0
+  mismatch T[228] = T != P[0] = A
+  incremented i from 228 to 229
+P at pos 229 with i = 229 and j = 0
+  mismatch T[229] = h != P[0] = A
+  incremented i from 229 to 230
+P at pos 230 with i = 230 and j = 0
+  matched T[230..230] = a = P[0..0] = A
+  mismatch T[231] = t != P[1] = S
+  updated j from 1 to f[0] = 0
+P at pos 231 with i = 231 and j = 0
+  mismatch T[231] = t != P[0] = A
+  incremented i from 231 to 232
+P at pos 232 with i = 232 and j = 0
+  mismatch T[232] =   != P[0] = A
+  incremented i from 232 to 233
+P at pos 233 with i = 233 and j = 0
+  mismatch T[233] = w != P[0] = A
+  incremented i from 233 to 234
+P at pos 234 with i = 234 and j = 0
+  matched T[234..235] = as = P[0..1] = AS
+  mismatch T[236] =   != P[2] = S
+  updated j from 2 to f[1] = 0
+P at pos 236 with i = 236 and j = 0
+  mismatch T[236] =   != P[0] = A
+  incremented i from 236 to 237
+P at pos 237 with i = 237 and j = 0
+  mismatch T[237] = i != P[0] = A
+  incremented i from 237 to 238
+P at pos 238 with i = 238 and j = 0
+  mismatch T[238] = t != P[0] = A
+  incremented i from 238 to 239
+P at pos 239 with i = 239 and j = 0
+  mismatch T[239] = . != P[0] = A
+  incremented i from 239 to 240
+P at pos 240 with i = 240 and j = 0
+  mismatch T[240] =   != P[0] = A
+  incremented i from 240 to 241
+P at pos 241 with i = 241 and j = 0
+  mismatch T[241] = B != P[0] = A
+  incremented i from 241 to 242
+P at pos 242 with i = 242 and j = 0
+  mismatch T[242] = u != P[0] = A
+  incremented i from 242 to 243
+P at pos 243 with i = 243 and j = 0
+  mismatch T[243] = t != P[0] = A
+  incremented i from 243 to 244
+P at pos 244 with i = 244 and j = 0
+  mismatch T[244] =   != P[0] = A
+  incremented i from 244 to 245
+P at pos 245 with i = 245 and j = 0
+  mismatch T[245] = t != P[0] = A
+  incremented i from 245 to 246
+P at pos 246 with i = 246 and j = 0
+  mismatch T[246] = h != P[0] = A
+  incremented i from 246 to 247
+P at pos 247 with i = 247 and j = 0
+  mismatch T[247] = e != P[0] = A
+  incremented i from 247 to 248
+P at pos 248 with i = 248 and j = 0
+  mismatch T[248] =   != P[0] = A
+  incremented i from 248 to 249
+P at pos 249 with i = 249 and j = 0
+  mismatch T[249] = t != P[0] = A
+  incremented i from 249 to 250
+P at pos 250 with i = 250 and j = 0
+  mismatch T[250] = e != P[0] = A
+  incremented i from 250 to 251
+P at pos 251 with i = 251 and j = 0
+  mismatch T[251] = r != P[0] = A
+  incremented i from 251 to 252
+P at pos 252 with i = 252 and j = 0
+  mismatch T[252] = m != P[0] = A
+  incremented i from 252 to 253
+P at pos 253 with i = 253 and j = 0
+  mismatch T[253] =   != P[0] = A
+  incremented i from 253 to 254
+P at pos 254 with i = 254 and j = 0
+  mismatch T[254] = f != P[0] = A
+  incremented i from 254 to 255
+P at pos 255 with i = 255 and j = 0
+  mismatch T[255] = e != P[0] = A
+  incremented i from 255 to 256
+P at pos 256 with i = 256 and j = 0
+  mismatch T[256] = l != P[0] = A
+  incremented i from 256 to 257
+P at pos 257 with i = 257 and j = 0
+  mismatch T[257] = l != P[0] = A
+  incremented i from 257 to 258
+P at pos 258 with i = 258 and j = 0
+  mismatch T[258] =   != P[0] = A
+  incremented i from 258 to 259
+P at pos 259 with i = 259 and j = 0
+  mismatch T[259] = s != P[0] = A
+  incremented i from 259 to 260
+P at pos 260 with i = 260 and j = 0
+  mismatch T[260] = h != P[0] = A
+  incremented i from 260 to 261
+P at pos 261 with i = 261 and j = 0
+  mismatch T[261] = o != P[0] = A
+  incremented i from 261 to 262
+P at pos 262 with i = 262 and j = 0
+  mismatch T[262] = r != P[0] = A
+  incremented i from 262 to 263
+P at pos 263 with i = 263 and j = 0
+  mismatch T[263] = t != P[0] = A
+  incremented i from 263 to 264
+P at pos 264 with i = 264 and j = 0
+  mismatch T[264] = . != P[0] = A
+  incremented i from 264 to 265
+P at pos 265 with i = 265 and j = 0
+  mismatch T[265] =   != P[0] = A
+  incremented i from 265 to 266
+P at pos 266 with i = 266 and j = 0
+  mismatch T[266] = I != P[0] = A
+  incremented i from 266 to 267
+P at pos 267 with i = 267 and j = 0
+  mismatch T[267] = t != P[0] = A
+  incremented i from 267 to 268
+P at pos 268 with i = 268 and j = 0
+  mismatch T[268] =   != P[0] = A
+  incremented i from 268 to 269
+P at pos 269 with i = 269 and j = 0
+  mismatch T[269] = l != P[0] = A
+  incremented i from 269 to 270
+P at pos 270 with i = 270 and j = 0
+  matched T[270..270] = a = P[0..0] = A
+  mismatch T[271] = c != P[1] = S
+  updated j from 1 to f[0] = 0
+P at pos 271 with i = 271 and j = 0
+  mismatch T[271] = c != P[0] = A
+  incremented i from 271 to 272
+P at pos 272 with i = 272 and j = 0
+  mismatch T[272] = k != P[0] = A
+  incremented i from 272 to 273
+P at pos 273 with i = 273 and j = 0
+  mismatch T[273] = e != P[0] = A
+  incremented i from 273 to 274
+P at pos 274 with i = 274 and j = 0
+  mismatch T[274] = d != P[0] = A
+  incremented i from 274 to 275
+P at pos 275 with i = 275 and j = 0
+  mismatch T[275] =   != P[0] = A
+  incremented i from 275 to 276
+P at pos 276 with i = 276 and j = 0
+  mismatch T[276] = i != P[0] = A
+  incremented i from 276 to 277
+P at pos 277 with i = 277 and j = 0
+  mismatch T[277] = n != P[0] = A
+  incremented i from 277 to 278
+P at pos 278 with i = 278 and j = 0
+  mismatch T[278] =   != P[0] = A
+  incremented i from 278 to 279
+P at pos 279 with i = 279 and j = 0
+  mismatch T[279] = m != P[0] = A
+  incremented i from 279 to 280
+P at pos 280 with i = 280 and j = 0
+  matched T[280..280] = a = P[0..0] = A
+  mismatch T[281] = g != P[1] = S
+  updated j from 1 to f[0] = 0
+P at pos 281 with i = 281 and j = 0
+  mismatch T[281] = g != P[0] = A
+  incremented i from 281 to 282
+P at pos 282 with i = 282 and j = 0
+  mismatch T[282] = n != P[0] = A
+  incremented i from 282 to 283
+P at pos 283 with i = 283 and j = 0
+  mismatch T[283] = i != P[0] = A
+  incremented i from 283 to 284
+P at pos 284 with i = 284 and j = 0
+  mismatch T[284] = t != P[0] = A
+  incremented i from 284 to 285
+P at pos 285 with i = 285 and j = 0
+  mismatch T[285] = u != P[0] = A
+  incremented i from 285 to 286
+P at pos 286 with i = 286 and j = 0
+  mismatch T[286] = d != P[0] = A
+  incremented i from 286 to 287
+P at pos 287 with i = 287 and j = 0
+  mismatch T[287] = e != P[0] = A
+  incremented i from 287 to 288
+P at pos 288 with i = 288 and j = 0
+  mismatch T[288] = . != P[0] = A
+  incremented i from 288 to 289
+P at pos 289 with i = 289 and j = 0
+  mismatch T[289] =   != P[0] = A
+  incremented i from 289 to 290
+P at pos 290 with i = 290 and j = 0
+  mismatch T[290] = T != P[0] = A
+  incremented i from 290 to 291
+P at pos 291 with i = 291 and j = 0
+  mismatch T[291] = h != P[0] = A
+  incremented i from 291 to 292
+P at pos 292 with i = 292 and j = 0
+  mismatch T[292] = e != P[0] = A
+  incremented i from 292 to 293
+P at pos 293 with i = 293 and j = 0
+  mismatch T[293] = r != P[0] = A
+  incremented i from 293 to 294
+P at pos 294 with i = 294 and j = 0
+  mismatch T[294] = e != P[0] = A
+  incremented i from 294 to 295
+P at pos 295 with i = 295 and j = 0
+  mismatch T[295] =   != P[0] = A
+  incremented i from 295 to 296
+P at pos 296 with i = 296 and j = 0
+  mismatch T[296] = w != P[0] = A
+  incremented i from 296 to 297
+P at pos 297 with i = 297 and j = 0
+  matched T[297..298] = as = P[0..1] = AS
+  mismatch T[299] =   != P[2] = S
+  updated j from 2 to f[1] = 0
+P at pos 299 with i = 299 and j = 0
+  mismatch T[299] =   != P[0] = A
+  incremented i from 299 to 300
+P at pos 300 with i = 300 and j = 0
+  matched T[300..300] = a = P[0..0] = A
+  mismatch T[301] =   != P[1] = S
+  updated j from 1 to f[0] = 0
+P at pos 301 with i = 301 and j = 0
+  mismatch T[301] =   != P[0] = A
+  incremented i from 301 to 302
+P at pos 302 with i = 302 and j = 0
+  mismatch T[302] = d != P[0] = A
+  incremented i from 302 to 303
+P at pos 303 with i = 303 and j = 0
+  mismatch T[303] = i != P[0] = A
+  incremented i from 303 to 304
+P at pos 304 with i = 304 and j = 0
+  mismatch T[304] = f != P[0] = A
+  incremented i from 304 to 305
+P at pos 305 with i = 305 and j = 0
+  mismatch T[305] = f != P[0] = A
+  incremented i from 305 to 306
+P at pos 306 with i = 306 and j = 0
+  mismatch T[306] = e != P[0] = A
+  incremented i from 306 to 307
+P at pos 307 with i = 307 and j = 0
+  mismatch T[307] = r != P[0] = A
+  incremented i from 307 to 308
+P at pos 308 with i = 308 and j = 0
+  mismatch T[308] = e != P[0] = A
+  incremented i from 308 to 309
+P at pos 309 with i = 309 and j = 0
+  mismatch T[309] = n != P[0] = A
+  incremented i from 309 to 310
+P at pos 310 with i = 310 and j = 0
+  mismatch T[310] = c != P[0] = A
+  incremented i from 310 to 311
+P at pos 311 with i = 311 and j = 0
+  mismatch T[311] = e != P[0] = A
+  incremented i from 311 to 312
+P at pos 312 with i = 312 and j = 0
+  mismatch T[312] =   != P[0] = A
+  incremented i from 312 to 313
+P at pos 313 with i = 313 and j = 0
+  mismatch T[313] = i != P[0] = A
+  incremented i from 313 to 314
+P at pos 314 with i = 314 and j = 0
+  mismatch T[314] = n != P[0] = A
+  incremented i from 314 to 315
+P at pos 315 with i = 315 and j = 0
+  mismatch T[315] =   != P[0] = A
+  incremented i from 315 to 316
+P at pos 316 with i = 316 and j = 0
+  mismatch T[316] = t != P[0] = A
+  incremented i from 316 to 317
+P at pos 317 with i = 317 and j = 0
+  mismatch T[317] = h != P[0] = A
+  incremented i from 317 to 318
+P at pos 318 with i = 318 and j = 0
+  mismatch T[318] = e != P[0] = A
+  incremented i from 318 to 319
+P at pos 319 with i = 319 and j = 0
+  mismatch T[319] =   != P[0] = A
+  incremented i from 319 to 320
+P at pos 320 with i = 320 and j = 0
+  mismatch T[320] = m != P[0] = A
+  incremented i from 320 to 321
+P at pos 321 with i = 321 and j = 0
+  mismatch T[321] = u != P[0] = A
+  incremented i from 321 to 322
+P at pos 322 with i = 322 and j = 0
+  mismatch T[322] = r != P[0] = A
+  incremented i from 322 to 323
+P at pos 323 with i = 323 and j = 0
+  mismatch T[323] = d != P[0] = A
+  incremented i from 323 to 324
+P at pos 324 with i = 324 and j = 0
+  mismatch T[324] = e != P[0] = A
+  incremented i from 324 to 325
+P at pos 325 with i = 325 and j = 0
+  mismatch T[325] = r != P[0] = A
+  incremented i from 325 to 326
+P at pos 326 with i = 326 and j = 0
+  mismatch T[326] =   != P[0] = A
+  incremented i from 326 to 327
+P at pos 327 with i = 327 and j = 0
+  mismatch T[327] = o != P[0] = A
+  incremented i from 327 to 328
+P at pos 328 with i = 328 and j = 0
+  mismatch T[328] = f != P[0] = A
+  incremented i from 328 to 329
+P at pos 329 with i = 329 and j = 0
+  mismatch T[329] =   != P[0] = A
+  incremented i from 329 to 330
+P at pos 330 with i = 330 and j = 0
+  mismatch T[330] = o != P[0] = A
+  incremented i from 330 to 331
+P at pos 331 with i = 331 and j = 0
+  mismatch T[331] = n != P[0] = A
+  incremented i from 331 to 332
+P at pos 332 with i = 332 and j = 0
+  mismatch T[332] = e != P[0] = A
+  incremented i from 332 to 333
+P at pos 333 with i = 333 and j = 0
+  mismatch T[333] =   != P[0] = A
+  incremented i from 333 to 334
+P at pos 334 with i = 334 and j = 0
+  mismatch T[334] = p != P[0] = A
+  incremented i from 334 to 335
+P at pos 335 with i = 335 and j = 0
+  mismatch T[335] = e != P[0] = A
+  incremented i from 335 to 336
+P at pos 336 with i = 336 and j = 0
+  mismatch T[336] = r != P[0] = A
+  incremented i from 336 to 337
+P at pos 337 with i = 337 and j = 0
+  mismatch T[337] = s != P[0] = A
+  incremented i from 337 to 338
+P at pos 338 with i = 338 and j = 0
+  mismatch T[338] = o != P[0] = A
+  incremented i from 338 to 339
+P at pos 339 with i = 339 and j = 0
+  mismatch T[339] = n != P[0] = A
+  incremented i from 339 to 340
+P at pos 340 with i = 340 and j = 0
+  mismatch T[340] =   != P[0] = A
+  incremented i from 340 to 341
+P at pos 341 with i = 341 and j = 0
+  matched T[341..341] = a = P[0..0] = A
+  mismatch T[342] = n != P[1] = S
+  updated j from 1 to f[0] = 0
+P at pos 342 with i = 342 and j = 0
+  mismatch T[342] = n != P[0] = A
+  incremented i from 342 to 343
+P at pos 343 with i = 343 and j = 0
+  mismatch T[343] = d != P[0] = A
+  incremented i from 343 to 344
+P at pos 344 with i = 344 and j = 0
+  mismatch T[344] =   != P[0] = A
+  incremented i from 344 to 345
+P at pos 345 with i = 345 and j = 0
+  mismatch T[345] = t != P[0] = A
+  incremented i from 345 to 346
+P at pos 346 with i = 346 and j = 0
+  mismatch T[346] = h != P[0] = A
+  incremented i from 346 to 347
+P at pos 347 with i = 347 and j = 0
+  mismatch T[347] = e != P[0] = A
+  incremented i from 347 to 348
+P at pos 348 with i = 348 and j = 0
+  mismatch T[348] =   != P[0] = A
+  incremented i from 348 to 349
+P at pos 349 with i = 349 and j = 0
+  matched T[349..356] = assassin = P[0..7] = ASSASSIN
+  found an occurrence of P
+  updated j from 8 to f[7] = 0
+P at pos 357 with i = 357 and j = 0
+  matched T[357..357] = a = P[0..0] = A
+  mismatch T[358] = t != P[1] = S
+  updated j from 1 to f[0] = 0
+P at pos 358 with i = 358 and j = 0
+  mismatch T[358] = t != P[0] = A
+  incremented i from 358 to 359
+P at pos 359 with i = 359 and j = 0
+  mismatch T[359] = i != P[0] = A
+  incremented i from 359 to 360
+P at pos 360 with i = 360 and j = 0
+  mismatch T[360] = o != P[0] = A
+  incremented i from 360 to 361
+P at pos 361 with i = 361 and j = 0
+  mismatch T[361] = n != P[0] = A
+  incremented i from 361 to 362
+P at pos 362 with i = 362 and j = 0
+  mismatch T[362] =   != P[0] = A
+  incremented i from 362 to 363
+P at pos 363 with i = 363 and j = 0
+  mismatch T[363] = o != P[0] = A
+  incremented i from 363 to 364
+P at pos 364 with i = 364 and j = 0
+  mismatch T[364] = f != P[0] = A
+  incremented i from 364 to 365
+P at pos 365 with i = 365 and j = 0
+  mismatch T[365] =   != P[0] = A
+  incremented i from 365 to 366
+P at pos 366 with i = 366 and j = 0
+  mismatch T[366] = t != P[0] = A
+  incremented i from 366 to 367
+P at pos 367 with i = 367 and j = 0
+  mismatch T[367] = h != P[0] = A
+  incremented i from 367 to 368
+P at pos 368 with i = 368 and j = 0
+  mismatch T[368] = e != P[0] = A
+  incremented i from 368 to 369
+P at pos 369 with i = 369 and j = 0
+  mismatch T[369] =   != P[0] = A
+  incremented i from 369 to 370
+P at pos 370 with i = 370 and j = 0
+  mismatch T[370] = o != P[0] = A
+  incremented i from 370 to 371
+P at pos 371 with i = 371 and j = 0
+  mismatch T[371] = c != P[0] = A
+  incremented i from 371 to 372
+P at pos 372 with i = 372 and j = 0
+  mismatch T[372] = c != P[0] = A
+  incremented i from 372 to 373
+P at pos 373 with i = 373 and j = 0
+  mismatch T[373] = u != P[0] = A
+  incremented i from 373 to 374
+P at pos 374 with i = 374 and j = 0
+  mismatch T[374] = p != P[0] = A
+  incremented i from 374 to 375
+P at pos 375 with i = 375 and j = 0
+  matched T[375..375] = a = P[0..0] = A
+  mismatch T[376] = n != P[1] = S
+  updated j from 1 to f[0] = 0
+P at pos 376 with i = 376 and j = 0
+  mismatch T[376] = n != P[0] = A
+  incremented i from 376 to 377
+P at pos 377 with i = 377 and j = 0
+  mismatch T[377] = t != P[0] = A
+  incremented i from 377 to 378
+P at pos 378 with i = 378 and j = 0
+  mismatch T[378] = s != P[0] = A
+  incremented i from 378 to 379
+P at pos 379 with i = 379 and j = 0
+  mismatch T[379] =   != P[0] = A
+  incremented i from 379 to 380
+P at pos 380 with i = 380 and j = 0
+  mismatch T[380] = o != P[0] = A
+  incremented i from 380 to 381
+P at pos 381 with i = 381 and j = 0
+  mismatch T[381] = f != P[0] = A
+  incremented i from 381 to 382
+P at pos 382 with i = 382 and j = 0
+  mismatch T[382] =   != P[0] = A
+  incremented i from 382 to 383
+P at pos 383 with i = 383 and j = 0
+  matched T[383..383] = a = P[0..0] = A
+  mismatch T[384] = n != P[1] = S
+  updated j from 1 to f[0] = 0
+P at pos 384 with i = 384 and j = 0
+  mismatch T[384] = n != P[0] = A
+  incremented i from 384 to 385
+P at pos 385 with i = 385 and j = 0
+  mismatch T[385] =   != P[0] = A
+  incremented i from 385 to 386
+P at pos 386 with i = 386 and j = 0
+  mismatch T[386] = e != P[0] = A
+  incremented i from 386 to 387
+P at pos 387 with i = 387 and j = 0
+  mismatch T[387] = n != P[0] = A
+  incremented i from 387 to 388
+P at pos 388 with i = 388 and j = 0
+  mismatch T[388] = t != P[0] = A
+  incremented i from 388 to 389
+P at pos 389 with i = 389 and j = 0
+  mismatch T[389] = i != P[0] = A
+  incremented i from 389 to 390
+P at pos 390 with i = 390 and j = 0
+  mismatch T[390] = r != P[0] = A
+  incremented i from 390 to 391
+P at pos 391 with i = 391 and j = 0
+  mismatch T[391] = e != P[0] = A
+  incremented i from 391 to 392
+P at pos 392 with i = 392 and j = 0
+  mismatch T[392] =   != P[0] = A
+  incremented i from 392 to 393

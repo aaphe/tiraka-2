@@ -1,0 +1,151 @@
+P: cacac
+Suffix function f: 0 0 1 2 3
+P at pos 0 with i = 0 and j = 0
+  matched T[0..0] = C = P[0..0] = c
+  mismatch T[1] = C != P[1] = a
+  updated j from 1 to f[0] = 0
+P at pos 1 with i = 1 and j = 0
+  matched T[1..5] = CACAC = P[0..4] = cacac
+  found an occurrence of P
+  updated j from 5 to f[4] = 3
+P at pos 3 with i = 6 and j = 3
+  mismatch T[6] = C != P[3] = a
+  updated j from 3 to f[2] = 1
+P at pos 5 with i = 6 and j = 1
+  mismatch T[6] = C != P[1] = a
+  updated j from 1 to f[0] = 0
+P at pos 6 with i = 6 and j = 0
+  matched T[6..10] = CACAC = P[0..4] = cacac
+  found an occurrence of P
+  updated j from 5 to f[4] = 3
+P at pos 8 with i = 11 and j = 3
+  mismatch T[11] = T != P[3] = a
+  updated j from 3 to f[2] = 1
+P at pos 10 with i = 11 and j = 1
+  mismatch T[11] = T != P[1] = a
+  updated j from 1 to f[0] = 0
+P at pos 11 with i = 11 and j = 0
+  mismatch T[11] = T != P[0] = c
+  incremented i from 11 to 12
+P at pos 12 with i = 12 and j = 0
+  mismatch T[12] = T != P[0] = c
+  incremented i from 12 to 13
+P at pos 13 with i = 13 and j = 0
+  mismatch T[13] = T != P[0] = c
+  incremented i from 13 to 14
+P at pos 14 with i = 14 and j = 0
+  mismatch T[14] = A != P[0] = c
+  incremented i from 14 to 15
+P at pos 15 with i = 15 and j = 0
+  mismatch T[15] = G != P[0] = c
+  incremented i from 15 to 16
+P at pos 16 with i = 16 and j = 0
+  matched T[16..16] = C = P[0..0] = c
+  mismatch T[17] = C != P[1] = a
+  updated j from 1 to f[0] = 0
+P at pos 17 with i = 17 and j = 0
+  matched T[17..17] = C = P[0..0] = c
+  mismatch T[18] = C != P[1] = a
+  updated j from 1 to f[0] = 0
+P at pos 18 with i = 18 and j = 0
+  matched T[18..22] = CACAC = P[0..4] = cacac
+  found an occurrence of P
+  updated j from 5 to f[4] = 3
+P at pos 20 with i = 23 and j = 3
+  matched T[23..24] = AC = P[3..4] = ac
+  found an occurrence of P
+  updated j from 5 to f[4] = 3
+P at pos 22 with i = 25 and j = 3
+  matched T[25..25] = A = P[3..3] = a
+  mismatch T[26] = G != P[4] = c
+  updated j from 4 to f[3] = 2
+P at pos 24 with i = 26 and j = 2
+  mismatch T[26] = G != P[2] = c
+  updated j from 2 to f[1] = 0
+P at pos 26 with i = 26 and j = 0
+  mismatch T[26] = G != P[0] = c
+  incremented i from 26 to 27
+P at pos 27 with i = 27 and j = 0
+  mismatch T[27] = G != P[0] = c
+  incremented i from 27 to 28
+P at pos 28 with i = 28 and j = 0
+  mismatch T[28] = G != P[0] = c
+  incremented i from 28 to 29
+P at pos 29 with i = 29 and j = 0
+  mismatch T[29] = G != P[0] = c
+  incremented i from 29 to 30
+P at pos 30 with i = 30 and j = 0
+  mismatch T[30] = G != P[0] = c
+  incremented i from 30 to 31
+P at pos 31 with i = 31 and j = 0
+  matched T[31..31] = C = P[0..0] = c
+  mismatch T[32] = C != P[1] = a
+  updated j from 1 to f[0] = 0
+P at pos 32 with i = 32 and j = 0
+  matched T[32..36] = CACAC = P[0..4] = cacac
+  found an occurrence of P
+  updated j from 5 to f[4] = 3
+P at pos 34 with i = 37 and j = 3
+  matched T[37..38] = AC = P[3..4] = ac
+  found an occurrence of P
+  updated j from 5 to f[4] = 3
+P at pos 36 with i = 39 and j = 3
+  mismatch T[39] = C != P[3] = a
+  updated j from 3 to f[2] = 1
+P at pos 38 with i = 39 and j = 1
+  mismatch T[39] = C != P[1] = a
+  updated j from 1 to f[0] = 0
+P at pos 39 with i = 39 and j = 0
+  matched T[39..39] = C = P[0..0] = c
+  mismatch T[40] = C != P[1] = a
+  updated j from 1 to f[0] = 0
+P at pos 40 with i = 40 and j = 0
+  matched T[40..43] = CACA = P[0..3] = caca
+  mismatch T[44] = T != P[4] = c
+  updated j from 4 to f[3] = 2
+P at pos 42 with i = 44 and j = 2
+  mismatch T[44] = T != P[2] = c
+  updated j from 2 to f[1] = 0
+P at pos 44 with i = 44 and j = 0
+  mismatch T[44] = T != P[0] = c
+  incremented i from 44 to 45
+P at pos 45 with i = 45 and j = 0
+  mismatch T[45] = A != P[0] = c
+  incremented i from 45 to 46
+P at pos 46 with i = 46 and j = 0
+  mismatch T[46] = A != P[0] = c
+  incremented i from 46 to 47
+P at pos 47 with i = 47 and j = 0
+  mismatch T[47] = A != P[0] = c
+  incremented i from 47 to 48
+P at pos 48 with i = 48 and j = 0
+  matched T[48..51] = CACA = P[0..3] = caca
+  mismatch T[52] = A != P[4] = c
+  updated j from 4 to f[3] = 2
+P at pos 50 with i = 52 and j = 2
+  mismatch T[52] = A != P[2] = c
+  updated j from 2 to f[1] = 0
+P at pos 52 with i = 52 and j = 0
+  mismatch T[52] = A != P[0] = c
+  incremented i from 52 to 53
+P at pos 53 with i = 53 and j = 0
+  matched T[53..54] = CA = P[0..1] = ca
+  mismatch T[55] = T != P[2] = c
+  updated j from 2 to f[1] = 0
+P at pos 55 with i = 55 and j = 0
+  mismatch T[55] = T != P[0] = c
+  incremented i from 55 to 56
+P at pos 56 with i = 56 and j = 0
+  mismatch T[56] = G != P[0] = c
+  incremented i from 56 to 57
+P at pos 57 with i = 57 and j = 0
+  matched T[57..59] = CAC = P[0..2] = cac
+  mismatch T[60] = C != P[3] = a
+  updated j from 3 to f[2] = 1
+P at pos 59 with i = 60 and j = 1
+  mismatch T[60] = C != P[1] = a
+  updated j from 1 to f[0] = 0
+P at pos 60 with i = 60 and j = 0
+  matched T[60..63] = CACA = P[0..3] = caca
+  mismatch T[64] = T != P[4] = c
+  updated j from 4 to f[3] = 2

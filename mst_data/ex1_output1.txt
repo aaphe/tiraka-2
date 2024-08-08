@@ -1,0 +1,37 @@
+** Iteration 1 **
+Adding the edge (3, 5, 5) with the new node 3
+** Iteration 2 **
+Adding the edge (3, 4, 8) with the new node 4
+** Iteration 3 **
+Adding the edge (1, 4, 6) with the new node 1
+** Iteration 4 **
+Adding the edge (1, 2, 5) with the new node 2
+** Iteration 5 **
+Adding the edge (4, 6, 8) with the new node 6
+** Iteration 6 **
+Adding the edge (4, 7, 8) with the new node 7
+** Iteration 7 **
+** Iteration 8 **
+Adding the edge (7, 10, 8) with the new node 10
+** Iteration 9 **
+Adding the edge (8, 10, 8) with the new node 8
+** Iteration 10 **
+** Iteration 11 **
+Adding the edge (8, 9, 9) with the new node 9
+** Iteration 12 **
+** Iteration 13 **
+** Iteration 14 **
+** Iteration 15 **
+** Iteration 16 **
+** Iteration 17 **
+** Iteration 18 **
+** Iteration 19 **
+Adding the edge (0, 1, 20) with the new node 0
+** Iteration 20 **
+** Iteration 21 **
+** Iteration 22 **
+Adding the edge (8, 11, 20) with the new node 11
+** Iteration 23 **
+** Iteration 24 **
+** Iteration 25 **
+MST(105): 0-1 1-2 1-4 3-4 3-5 4-6 4-7 7-10 8-9 8-10 8-11

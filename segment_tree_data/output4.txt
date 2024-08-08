@@ -1,0 +1,560 @@
+Segment tree levels:
+ 53290
+ 34394 18896
+ 18456 15938 16070 2826
+ 9396 9060 7394 8544 8578 7492 2826 0
+ 5336 4060 4609 4451 2623 4771 4696 3848 5011 3567 4640 2852 2826 0 0 0
+ 2594 2742 1522 2538 1756 2853 2405 2046 1029 1594 3281 1490 2454 2242 2377 1471 2460 2551 1951 1616 2274 2366 1605 1247 2826 0 0 0 0 0 0 0
+ 1261 1333 1501 1241 590 932 1567 971 949 807 1815 1038 1465 940 1662 384 318 711 809 785 1603 1678 827 663 1554 900 1719 523 873 1504 509 962 1131 1329 946 1605 1179 772 844 772 1082 1192 1291 1075 1212 393 607 640 880 1946 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 943 318 410 923 710 791 611 630 297 293 380 552 855 712 906 65 759 190 671 136 903 912 831 207 571 894 747 193 875 787 127 257 226 92 419 292 158 651 247 538 688 915 880 798 260 567 16 647 990 564 95 805 847 872 385 138 621 252 511 993 386 123 869 93 970 161 957 372 171 775 971 634 849 330 365 407 779 65 294 478 706 376 585 607 756 535 906 169 795 417 336 57 444 163 254 386 565 315 979 967 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+
+Querying interval 10...89
+  left and right positions: 138 217
+  left and right positions: 69 108
+    updated result from 0 to 932 using S[69]=932
+    updated result from 932 to 2144 using S[108]=1212
+  left and right positions: 35 53
+    updated result from 2144 to 4682 using S[35]=2538
+  left and right positions: 18 26
+    updated result from 4682 to 9322 using S[26]=4640
+  left and right positions: 9 12
+    updated result from 9322 to 18382 using S[9]=9060
+    updated result from 18382 to 26960 using S[12]=8578
+  left and right positions: 5 5
+    updated result from 26960 to 42898 using S[5]=15938
+
+Sum(10...89) = 42898
+
+Querying interval 4...20
+  left and right positions: 132 148
+    updated result from 0 to 903 using S[148]=903
+  left and right positions: 66 73
+  left and right positions: 33 36
+    updated result from 903 to 3645 using S[33]=2742
+    updated result from 3645 to 5401 using S[36]=1756
+  left and right positions: 17 17
+    updated result from 5401 to 9461 using S[17]=4060
+
+Sum(4...20) = 9461
+
+Updating V[86] = 387
+
+Querying interval 62...99
+  left and right positions: 190 227
+  left and right positions: 95 113
+    updated result from 0 to 962 using S[95]=962
+  left and right positions: 48 56
+    updated result from 962 to 3788 using S[56]=2826
+  left and right positions: 24 27
+  left and right positions: 12 13
+  left and right positions: 6 6
+    updated result from 3788 to 19339 using S[6]=15551
+
+Sum(62...99) = 19339
+
+Querying interval 33...85
+  left and right positions: 161 213
+    updated result from 0 to 92 using S[161]=92
+  left and right positions: 81 106
+    updated result from 92 to 803 using S[81]=711
+    updated result from 803 to 2094 using S[106]=1291
+  left and right positions: 41 52
+    updated result from 2094 to 3688 using S[41]=1594
+    updated result from 3688 to 5962 using S[52]=2274
+  left and right positions: 21 25
+    updated result from 5962 to 10733 using S[21]=4771
+  left and right positions: 11 12
+    updated result from 10733 to 19277 using S[11]=8544
+    updated result from 19277 to 27855 using S[12]=8578
+
+Sum(33...85) = 27855
+
+Querying interval 35...98
+  left and right positions: 163 226
+    updated result from 0 to 292 using S[163]=292
+    updated result from 292 to 1271 using S[226]=979
+  left and right positions: 82 112
+    updated result from 1271 to 2151 using S[112]=880
+  left and right positions: 41 55
+    updated result from 2151 to 3745 using S[41]=1594
+  left and right positions: 21 27
+    updated result from 3745 to 8516 using S[21]=4771
+  left and right positions: 11 13
+    updated result from 8516 to 17060 using S[11]=8544
+  left and right positions: 6 6
+    updated result from 17060 to 32611 using S[6]=15551
+
+Sum(35...98) = 32611
+
+Updating V[34] = 4
+
+Querying interval 8...74
+  left and right positions: 136 202
+    updated result from 0 to 365 using S[202]=365
+  left and right positions: 68 100
+    updated result from 365 to 1544 using S[100]=1179
+  left and right positions: 34 49
+  left and right positions: 17 24
+    updated result from 1544 to 5604 using S[17]=4060
+    updated result from 5604 to 10615 using S[24]=5011
+  left and right positions: 9 11
+    updated result from 10615 to 19675 using S[9]=9060
+  left and right positions: 5 5
+    updated result from 19675 to 35198 using S[5]=15523
+
+Sum(8...74) = 35198
+
+Updating V[74] = 939
+
+Querying interval 37...79
+  left and right positions: 165 207
+    updated result from 0 to 651 using S[165]=651
+  left and right positions: 83 103
+    updated result from 651 to 1436 using S[83]=785
+  left and right positions: 42 51
+  left and right positions: 21 25
+    updated result from 1436 to 6207 using S[21]=4771
+  left and right positions: 11 12
+    updated result from 6207 to 14751 using S[11]=8544
+    updated result from 14751 to 23903 using S[12]=9152
+
+Sum(37...79) = 23903
+
+Querying interval 27...41
+  left and right positions: 155 169
+    updated result from 0 to 193 using S[155]=193
+  left and right positions: 78 84
+    updated result from 193 to 1796 using S[84]=1603
+  left and right positions: 39 41
+    updated result from 1796 to 3842 using S[39]=2046
+  left and right positions: 20 20
+    updated result from 3842 to 6050 using S[20]=2208
+
+Sum(27...41) = 6050
+
+Querying interval 10...25
+  left and right positions: 138 153
+  left and right positions: 69 76
+    updated result from 0 to 932 using S[69]=932
+    updated result from 932 to 2397 using S[76]=1465
+  left and right positions: 35 37
+    updated result from 2397 to 4935 using S[35]=2538
+  left and right positions: 18 18
+    updated result from 4935 to 9544 using S[18]=4609
+
+Sum(10...25) = 9544
+
+Querying interval 6...28
+  left and right positions: 134 156
+    updated result from 0 to 875 using S[156]=875
+  left and right positions: 67 77
+    updated result from 875 to 2116 using S[67]=1241
+  left and right positions: 34 38
+    updated result from 2116 to 4521 using S[38]=2405
+  left and right positions: 17 18
+    updated result from 4521 to 8581 using S[17]=4060
+    updated result from 8581 to 13190 using S[18]=4609
+
+Sum(6...28) = 13190
+
+Updating V[11] = 216
+
+Querying interval 5...65
+  left and right positions: 133 193
+    updated result from 0 to 791 using S[133]=791
+  left and right positions: 67 96
+    updated result from 791 to 2032 using S[67]=1241
+    updated result from 2032 to 3163 using S[96]=1131
+  left and right positions: 34 47
+  left and right positions: 17 23
+    updated result from 3163 to 6887 using S[17]=3724
+  left and right positions: 9 11
+    updated result from 6887 to 15947 using S[9]=9060
+  left and right positions: 5 5
+    updated result from 15947 to 31470 using S[5]=15523
+
+Sum(5...65) = 31470
+
+Querying interval 52...89
+  left and right positions: 180 217
+  left and right positions: 90 108
+    updated result from 0 to 1212 using S[108]=1212
+  left and right positions: 45 53
+    updated result from 1212 to 3454 using S[45]=2242
+  left and right positions: 23 26
+    updated result from 3454 to 7302 using S[23]=3848
+    updated result from 7302 to 11423 using S[26]=4121
+  left and right positions: 12 12
+    updated result from 11423 to 20575 using S[12]=9152
+
+Sum(52...89) = 20575
+
+Updating V[84] = 729
+
+Querying interval 4...87
+  left and right positions: 132 215
+  left and right positions: 66 107
+  left and right positions: 33 53
+    updated result from 0 to 2742 using S[33]=2742
+  left and right positions: 17 26
+    updated result from 2742 to 6466 using S[17]=3724
+    updated result from 6466 to 10560 using S[26]=4094
+  left and right positions: 9 12
+    updated result from 10560 to 19620 using S[9]=9060
+    updated result from 19620 to 28772 using S[12]=9152
+  left and right positions: 5 5
+    updated result from 28772 to 44295 using S[5]=15523
+
+Sum(4...87) = 44295
+
+Querying interval 23...61
+  left and right positions: 151 189
+    updated result from 0 to 207 using S[151]=207
+  left and right positions: 76 94
+    updated result from 207 to 716 using S[94]=509
+  left and right positions: 38 46
+    updated result from 716 to 3093 using S[46]=2377
+  left and right positions: 19 22
+    updated result from 3093 to 7544 using S[19]=4451
+    updated result from 7544 to 12240 using S[22]=4696
+  left and right positions: 10 10
+    updated result from 12240 to 19219 using S[10]=6979
+
+Sum(23...61) = 19219
+
+Updating V[81] = 573
+
+Querying interval 79...88
+  left and right positions: 207 216
+    updated result from 0 to 478 using S[207]=478
+    updated result from 478 to 1273 using S[216]=795
+  left and right positions: 104 107
+  left and right positions: 52 53
+  left and right positions: 26 26
+    updated result from 1273 to 5564 using S[26]=4291
+
+Sum(79...88) = 5564
+
+Querying interval 6...54
+  left and right positions: 134 182
+    updated result from 0 to 385 using S[182]=385
+  left and right positions: 67 90
+    updated result from 385 to 1626 using S[67]=1241
+    updated result from 1626 to 3345 using S[90]=1719
+  left and right positions: 34 44
+    updated result from 3345 to 5799 using S[44]=2454
+  left and right positions: 17 21
+    updated result from 5799 to 9523 using S[17]=3724
+  left and right positions: 9 10
+    updated result from 9523 to 18583 using S[9]=9060
+    updated result from 18583 to 25562 using S[10]=6979
+
+Sum(6...54) = 25562
+
+Querying interval 10...80
+  left and right positions: 138 208
+    updated result from 0 to 706 using S[208]=706
+  left and right positions: 69 103
+    updated result from 706 to 1302 using S[69]=596
+  left and right positions: 35 51
+    updated result from 1302 to 3840 using S[35]=2538
+  left and right positions: 18 25
+  left and right positions: 9 12
+    updated result from 3840 to 12900 using S[9]=9060
+    updated result from 12900 to 22052 using S[12]=9152
+  left and right positions: 5 5
+    updated result from 22052 to 37575 using S[5]=15523
+
+Sum(10...80) = 37575
+
+Querying interval 41...71
+  left and right positions: 169 199
+    updated result from 0 to 915 using S[169]=915
+  left and right positions: 85 99
+    updated result from 915 to 2593 using S[85]=1678
+  left and right positions: 43 49
+    updated result from 2593 to 4083 using S[43]=1490
+  left and right positions: 22 24
+    updated result from 4083 to 9094 using S[24]=5011
+  left and right positions: 11 11
+    updated result from 9094 to 17638 using S[11]=8544
+
+Sum(41...71) = 17638
+
+Updating V[57] = 683
+
+Querying interval 18...66
+  left and right positions: 146 194
+    updated result from 0 to 957 using S[194]=957
+  left and right positions: 73 96
+    updated result from 957 to 1764 using S[73]=807
+    updated result from 1764 to 2895 using S[96]=1131
+  left and right positions: 37 47
+    updated result from 2895 to 5748 using S[37]=2853
+  left and right positions: 19 23
+    updated result from 5748 to 10199 using S[19]=4451
+  left and right positions: 10 11
+  left and right positions: 5 5
+    updated result from 10199 to 26153 using S[5]=15954
+
+Sum(18...66) = 26153
+
+Querying interval 51...95
+  left and right positions: 179 223
+    updated result from 0 to 805 using S[179]=805
+  left and right positions: 90 111
+  left and right positions: 45 55
+    updated result from 805 to 3047 using S[45]=2242
+  left and right positions: 23 27
+    updated result from 3047 to 7326 using S[23]=4279
+  left and right positions: 12 13
+  left and right positions: 6 6
+    updated result from 7326 to 23621 using S[6]=16295
+
+Sum(51...95) = 23621
+
+Updating V[31] = 838
+
+Querying interval 18...86
+  left and right positions: 146 214
+    updated result from 0 to 387 using S[214]=387
+  left and right positions: 73 106
+    updated result from 387 to 1194 using S[73]=807
+    updated result from 1194 to 2458 using S[106]=1264
+  left and right positions: 37 52
+    updated result from 2458 to 5311 using S[37]=2853
+    updated result from 5311 to 7782 using S[52]=2471
+  left and right positions: 19 25
+    updated result from 7782 to 12814 using S[19]=5032
+  left and right positions: 10 12
+    updated result from 12814 to 21966 using S[12]=9152
+  left and right positions: 5 5
+    updated result from 21966 to 37920 using S[5]=15954
+
+Sum(18...86) = 37920
+
+Querying interval 18...94
+  left and right positions: 146 222
+    updated result from 0 to 254 using S[222]=254
+  left and right positions: 73 110
+    updated result from 254 to 1061 using S[73]=807
+    updated result from 1061 to 1668 using S[110]=607
+  left and right positions: 37 54
+    updated result from 1668 to 4521 using S[37]=2853
+    updated result from 4521 to 6126 using S[54]=1605
+  left and right positions: 19 26
+    updated result from 6126 to 11158 using S[19]=5032
+    updated result from 11158 to 15449 using S[26]=4291
+  left and right positions: 10 12
+    updated result from 15449 to 24601 using S[12]=9152
+  left and right positions: 5 5
+    updated result from 24601 to 40555 using S[5]=15954
+
+Sum(18...94) = 40555
+
+Querying interval 39...67
+  left and right positions: 167 195
+    updated result from 0 to 538 using S[167]=538
+  left and right positions: 84 97
+  left and right positions: 42 48
+    updated result from 538 to 2998 using S[48]=2460
+  left and right positions: 21 23
+    updated result from 2998 to 7769 using S[21]=4771
+  left and right positions: 11 11
+    updated result from 7769 to 16744 using S[11]=8975
+
+Sum(39...67) = 16744
+
+Updating V[99] = 488
+
+Querying interval 45...99
+  left and right positions: 173 227
+    updated result from 0 to 567 using S[173]=567
+  left and right positions: 87 113
+    updated result from 567 to 1230 using S[87]=663
+  left and right positions: 44 56
+    updated result from 1230 to 3577 using S[56]=2347
+  left and right positions: 22 27
+  left and right positions: 11 13
+    updated result from 3577 to 12552 using S[11]=8975
+  left and right positions: 6 6
+    updated result from 12552 to 28847 using S[6]=16295
+
+Sum(45...99) = 28847
+
+Updating V[34] = 853
+
+Querying interval 17...70
+  left and right positions: 145 198
+    updated result from 0 to 190 using S[145]=190
+    updated result from 190 to 1161 using S[198]=971
+  left and right positions: 73 98
+    updated result from 1161 to 1968 using S[73]=807
+    updated result from 1968 to 2914 using S[98]=946
+  left and right positions: 37 48
+    updated result from 2914 to 5767 using S[37]=2853
+    updated result from 5767 to 8227 using S[48]=2460
+  left and right positions: 19 23
+    updated result from 8227 to 13259 using S[19]=5032
+  left and right positions: 10 11
+  left and right positions: 5 5
+    updated result from 13259 to 30062 using S[5]=16803
+
+Sum(17...70) = 30062
+
+Querying interval 4...43
+  left and right positions: 132 171
+  left and right positions: 66 85
+  left and right positions: 33 42
+    updated result from 0 to 2742 using S[33]=2742
+    updated result from 2742 to 6023 using S[42]=3281
+  left and right positions: 17 20
+    updated result from 6023 to 9747 using S[17]=3724
+    updated result from 9747 to 12804 using S[20]=3057
+  left and right positions: 9 9
+    updated result from 12804 to 22445 using S[9]=9641
+
+Sum(4...43) = 22445
+
+Updating V[16] = 97
+
+Querying interval 9...81
+  left and right positions: 137 209
+    updated result from 0 to 293 using S[137]=293
+  left and right positions: 69 104
+    updated result from 293 to 889 using S[69]=596
+    updated result from 889 to 2168 using S[104]=1279
+  left and right positions: 35 51
+    updated result from 2168 to 4706 using S[35]=2538
+  left and right positions: 18 25
+  left and right positions: 9 12
+    updated result from 4706 to 13685 using S[9]=8979
+    updated result from 13685 to 22837 using S[12]=9152
+  left and right positions: 5 5
+    updated result from 22837 to 39640 using S[5]=16803
+
+Sum(9...81) = 39640
+
+Updating V[63] = 87
+
+Querying interval 35...94
+  left and right positions: 163 222
+    updated result from 0 to 292 using S[163]=292
+    updated result from 292 to 546 using S[222]=254
+  left and right positions: 82 110
+    updated result from 546 to 1153 using S[110]=607
+  left and right positions: 41 54
+    updated result from 1153 to 2747 using S[41]=1594
+    updated result from 2747 to 4352 using S[54]=1605
+  left and right positions: 21 26
+    updated result from 4352 to 9123 using S[21]=4771
+    updated result from 9123 to 13414 using S[26]=4291
+  left and right positions: 11 12
+    updated result from 13414 to 22383 using S[11]=8969
+    updated result from 22383 to 31535 using S[12]=9152
+
+Sum(35...94) = 31535
+
+Updating V[8] = 379
+
+Querying interval 5...20
+  left and right positions: 133 148
+    updated result from 0 to 791 using S[133]=791
+    updated result from 791 to 1694 using S[148]=903
+  left and right positions: 67 73
+    updated result from 1694 to 2935 using S[67]=1241
+  left and right positions: 34 36
+    updated result from 2935 to 4029 using S[36]=1094
+  left and right positions: 17 17
+    updated result from 4029 to 7835 using S[17]=3806
+
+Sum(5...20) = 7835
+
+Querying interval 56...96
+  left and right positions: 184 224
+    updated result from 0 to 565 using S[224]=565
+  left and right positions: 92 111
+  left and right positions: 46 55
+  left and right positions: 23 27
+    updated result from 565 to 4838 using S[23]=4273
+  left and right positions: 12 13
+  left and right positions: 6 6
+    updated result from 4838 to 21133 using S[6]=16295
+
+Sum(56...96) = 21133
+
+Querying interval 20...30
+  left and right positions: 148 158
+    updated result from 0 to 127 using S[158]=127
+  left and right positions: 74 78
+    updated result from 127 to 1789 using S[78]=1662
+  left and right positions: 37 38
+    updated result from 1789 to 4642 using S[37]=2853
+    updated result from 4642 to 7047 using S[38]=2405
+
+Sum(20...30) = 7047
+
+Updating V[3] = 53
+
+Querying interval 2...60
+  left and right positions: 130 188
+    updated result from 0 to 386 using S[188]=386
+  left and right positions: 65 93
+    updated result from 386 to 849 using S[65]=463
+  left and right positions: 33 46
+    updated result from 849 to 3591 using S[33]=2742
+    updated result from 3591 to 6399 using S[46]=2808
+  left and right positions: 17 22
+    updated result from 6399 to 10205 using S[17]=3806
+    updated result from 10205 to 14901 using S[22]=4696
+  left and right positions: 9 10
+    updated result from 14901 to 23880 using S[9]=8979
+    updated result from 23880 to 31708 using S[10]=7828
+
+Sum(2...60) = 31708
+
+Querying interval 54...83
+  left and right positions: 182 211
+  left and right positions: 91 105
+    updated result from 0 to 523 using S[91]=523
+  left and right positions: 46 52
+    updated result from 523 to 2994 using S[52]=2471
+  left and right positions: 23 25
+    updated result from 2994 to 7267 using S[23]=4273
+  left and right positions: 12 12
+    updated result from 7267 to 16419 using S[12]=9152
+
+Sum(54...83) = 16419
+
+Updating V[47] = 416
+
+Querying interval 6...74
+  left and right positions: 134 202
+    updated result from 0 to 939 using S[202]=939
+  left and right positions: 67 100
+    updated result from 939 to 2180 using S[67]=1241
+    updated result from 2180 to 3359 using S[100]=1179
+  left and right positions: 34 49
+  left and right positions: 17 24
+    updated result from 3359 to 7165 using S[17]=3806
+    updated result from 7165 to 12176 using S[24]=5011
+  left and right positions: 9 11
+    updated result from 12176 to 21155 using S[9]=8979
+  left and right positions: 5 5
+    updated result from 21155 to 37721 using S[5]=16566
+
+Sum(6...74) = 37721
+
+Querying interval 31...59
+  left and right positions: 159 187
+    updated result from 0 to 838 using S[159]=838
+  left and right positions: 80 93
+  left and right positions: 40 46
+    updated result from 838 to 3646 using S[46]=2808
+  left and right positions: 20 22
+    updated result from 3646 to 8342 using S[22]=4696
+  left and right positions: 10 10
+    updated result from 8342 to 15939 using S[10]=7597
+
+Sum(31...59) = 15939

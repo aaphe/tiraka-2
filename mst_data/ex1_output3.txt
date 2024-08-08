@@ -1,0 +1,200 @@
+** Iteration 1 **
+Adding the edge (2, 20, 21) with the new node 2
+** Iteration 2 **
+Adding the edge (2, 18, 21) with the new node 18
+** Iteration 3 **
+Adding the edge (20, 32, 21) with the new node 32
+** Iteration 4 **
+Adding the edge (13, 32, 20) with the new node 13
+** Iteration 5 **
+Adding the edge (20, 49, 23) with the new node 49
+** Iteration 6 **
+Adding the edge (32, 41, 23) with the new node 41
+** Iteration 7 **
+Adding the edge (21, 41, 20) with the new node 21
+** Iteration 8 **
+Adding the edge (8, 32, 24) with the new node 8
+** Iteration 9 **
+Adding the edge (21, 46, 24) with the new node 46
+** Iteration 10 **
+Adding the edge (11, 46, 25) with the new node 11
+** Iteration 11 **
+Adding the edge (11, 25, 21) with the new node 25
+** Iteration 12 **
+Adding the edge (25, 47, 20) with the new node 47
+** Iteration 13 **
+Adding the edge (5, 25, 21) with the new node 5
+** Iteration 14 **
+Adding the edge (5, 19, 20) with the new node 19
+** Iteration 15 **
+Adding the edge (19, 34, 21) with the new node 34
+** Iteration 16 **
+Adding the edge (9, 34, 20) with the new node 9
+** Iteration 17 **
+Adding the edge (33, 47, 23) with the new node 33
+** Iteration 18 **
+Adding the edge (34, 36, 23) with the new node 36
+** Iteration 19 **
+Adding the edge (1, 36, 20) with the new node 1
+** Iteration 20 **
+Adding the edge (31, 36, 21) with the new node 31
+** Iteration 21 **
+** Iteration 22 **
+** Iteration 23 **
+Adding the edge (21, 24, 25) with the new node 24
+** Iteration 24 **
+Adding the edge (24, 40, 23) with the new node 40
+** Iteration 25 **
+Adding the edge (24, 45, 23) with the new node 45
+** Iteration 26 **
+Adding the edge (26, 36, 25) with the new node 26
+** Iteration 27 **
+Adding the edge (4, 26, 25) with the new node 4
+** Iteration 28 **
+Adding the edge (4, 16, 20) with the new node 16
+** Iteration 29 **
+** Iteration 30 **
+** Iteration 31 **
+** Iteration 32 **
+Adding the edge (12, 31, 26) with the new node 12
+** Iteration 33 **
+** Iteration 34 **
+** Iteration 35 **
+Adding the edge (19, 35, 26) with the new node 35
+** Iteration 36 **
+** Iteration 37 **
+Adding the edge (43, 46, 27) with the new node 43
+** Iteration 38 **
+** Iteration 39 **
+Adding the edge (1, 17, 29) with the new node 17
+** Iteration 40 **
+Adding the edge (6, 19, 29) with the new node 6
+** Iteration 41 **
+** Iteration 42 **
+** Iteration 43 **
+** Iteration 44 **
+Adding the edge (18, 48, 30) with the new node 48
+** Iteration 45 **
+Adding the edge (10, 48, 21) with the new node 10
+** Iteration 46 **
+Adding the edge (10, 14, 23) with the new node 14
+** Iteration 47 **
+Adding the edge (14, 22, 22) with the new node 22
+** Iteration 48 **
+Adding the edge (10, 42, 27) with the new node 42
+** Iteration 49 **
+Adding the edge (23, 42, 30) with the new node 23
+** Iteration 50 **
+** Iteration 51 **
+Adding the edge (0, 43, 31) with the new node 0
+** Iteration 52 **
+Adding the edge (0, 39, 28) with the new node 39
+** Iteration 53 **
+** Iteration 54 **
+** Iteration 55 **
+Adding the edge (15, 24, 31) with the new node 15
+** Iteration 56 **
+Adding the edge (15, 29, 31) with the new node 29
+** Iteration 57 **
+** Iteration 58 **
+** Iteration 59 **
+** Iteration 60 **
+** Iteration 61 **
+** Iteration 62 **
+** Iteration 63 **
+Adding the edge (34, 44, 32) with the new node 44
+** Iteration 64 **
+** Iteration 65 **
+** Iteration 66 **
+Adding the edge (13, 38, 33) with the new node 38
+** Iteration 67 **
+Adding the edge (27, 38, 24) with the new node 27
+** Iteration 68 **
+Adding the edge (37, 38, 26) with the new node 37
+** Iteration 69 **
+** Iteration 70 **
+** Iteration 71 **
+** Iteration 72 **
+** Iteration 73 **
+Adding the edge (2, 30, 34) with the new node 30
+** Iteration 74 **
+** Iteration 75 **
+** Iteration 76 **
+** Iteration 77 **
+** Iteration 78 **
+** Iteration 79 **
+** Iteration 80 **
+** Iteration 81 **
+** Iteration 82 **
+** Iteration 83 **
+** Iteration 84 **
+** Iteration 85 **
+** Iteration 86 **
+** Iteration 87 **
+** Iteration 88 **
+** Iteration 89 **
+** Iteration 90 **
+** Iteration 91 **
+** Iteration 92 **
+** Iteration 93 **
+** Iteration 94 **
+** Iteration 95 **
+** Iteration 96 **
+** Iteration 97 **
+** Iteration 98 **
+Adding the edge (7, 17, 39) with the new node 7
+** Iteration 99 **
+** Iteration 100 **
+** Iteration 101 **
+** Iteration 102 **
+** Iteration 103 **
+** Iteration 104 **
+** Iteration 105 **
+** Iteration 106 **
+** Iteration 107 **
+** Iteration 108 **
+** Iteration 109 **
+** Iteration 110 **
+** Iteration 111 **
+Adding the edge (28, 36, 41) with the new node 28
+** Iteration 112 **
+** Iteration 113 **
+** Iteration 114 **
+** Iteration 115 **
+** Iteration 116 **
+Adding the edge (3, 12, 43) with the new node 3
+** Iteration 117 **
+** Iteration 118 **
+** Iteration 119 **
+** Iteration 120 **
+** Iteration 121 **
+** Iteration 122 **
+** Iteration 123 **
+** Iteration 124 **
+** Iteration 125 **
+** Iteration 126 **
+** Iteration 127 **
+** Iteration 128 **
+** Iteration 129 **
+** Iteration 130 **
+** Iteration 131 **
+** Iteration 132 **
+** Iteration 133 **
+** Iteration 134 **
+** Iteration 135 **
+** Iteration 136 **
+** Iteration 137 **
+** Iteration 138 **
+** Iteration 139 **
+** Iteration 140 **
+** Iteration 141 **
+** Iteration 142 **
+** Iteration 143 **
+** Iteration 144 **
+** Iteration 145 **
+** Iteration 146 **
+** Iteration 147 **
+** Iteration 148 **
+** Iteration 149 **
+** Iteration 150 **
+MST(1256): 0-39 0-43 1-17 1-36 2-18 2-20 2-30 3-12 4-16 4-26 5-19 5-25 6-19 7-17 8-32 9-34 10-14 10-42 10-48 11-25 11-46 12-31 13-32 13-38 14-22 15-24 15-29 18-48 19-34 19-35 20-32 20-49 21-24 21-41 21-46 23-42 24-40 24-45 25-47 26-36 27-38 28-36 31-36 32-41 33-47 34-36 34-44 37-38 43-46

@@ -1,0 +1,24 @@
+Trie levels:
+ level 1: (0-1, b) (0-8, f) (0-20, j)
+ level 2: (1-29, a) (1-2, l) (1-5, o) (1-65, r) (1-37, u) (8-42, i) (8-58, l) (8-14, o) (8-9, r) (20-46, e) (20-21, o) (20-24, u)
+ level 3: (2-3, o) (5-6, d) (9-10, i) (9-17, u) (14-15, l) (14-27, o) (14-35, r) (21-22, i) (24-25, m) (29-63, c) (29-30, l) (37-50, i) (37-38, t) (42-43, e) (42-69, g) (42-56, r) (46-47, l) (58-59, i) (65-66, a) (65-72, e)
+ level 4: (3-4, w) (6-7, y) (10-11, e) (15-16, d) (17-18, i) (22-23, n) (25-26, p) (27-28, d) (30-31, a) (35-36, m) (38-39, t) (43-44, l) (47-48, l) (50-51, l) (56-57, e) (59-60, g) (63-64, k) (66-67, s) (69-70, h) (72-73, a)
+ level 5: (11-12, n) (18-19, t) (31-32, n) (39-40, e) (44-45, d) (48-49, y) (51-52, d) (60-61, h) (67-68, s) (70-71, t) (73-74, d)
+ level 6: (12-13, d) (32-33, c) (40-41, r) (52-53, i) (61-62, t)
+ level 7: (33-34, e) (53-54, n)
+ level 8: (54-55, g)
+
+Matching P = b
+  searching b: [0, 3, f] [0, 1, b]
+  move from 0 to 1 with character P[0] = b
+  P matches with (prefixes of): S1 S2 S9 S11 S14 S17 S18 S20
+
+Matching P = f
+  searching f: [0, 3, f]
+  move from 0 to 8 with character P[0] = f
+  P matches with (prefixes of): S3 S4 S5 S8 S10 S12 S15 S16 S19
+
+Matching P = j
+  searching j: [0, 3, f] [2, 3, j]
+  move from 0 to 20 with character P[0] = j
+  P matches with (prefixes of): S6 S7 S13
